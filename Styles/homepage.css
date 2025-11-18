@@ -1,0 +1,23 @@
+body {
+	margin: 0 auto;
+	overflow: hidden;
+}
+h1 {
+	margin: .5rem 0 .5rem 0;
+	text-align: center;
+}
+h4 {
+	display: inline-block;
+}
+.homepageContainer {
+	width: 95vw;
+	height: 92vh;
+	margin: auto;
+	border: 2px solid red;
+	overflow: scroll;
+}
+.navbar {
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly;
+}

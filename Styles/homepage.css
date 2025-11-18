@@ -1,4 +1,6 @@
 .homepageContainer {
+	display: flex;
+	flex-direction: column;
 	width: 95vw;
 	height: 92vh;
 	margin: auto;
@@ -12,11 +14,32 @@
 }
 .descriptionTextContainer {
 	border: 2px solid red;
-	width: 100%;
 	height: fit-content;
 }
 .descriptionText {
 	text-align: left;
 	padding: 1rem;
 	margin: auto 5rem auto 5rem;
+}
+.featuredGamesText {
+	display: block;
+	font-size: 1.25rem;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: .5rem;
+}
+.mainContainer {
+	border: 2px solid red;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+.heroOneContainer {
+	border: 2px solid red;
+	height: 50%;
+}
+.heroTwoContainer {
+	border: 2px solid red;
+	height: 50%;
 }

@@ -7,9 +7,10 @@ async function fetchGame() {
 			throw new Error(`Response status: ${response.status}`)
 		}
 		const result = await response.json()
-		console.log(result.results[0]);
-		rimworldData = result.results[0]
+		console.log(result);
+		rimworldData = result
 		renderHeroImage()
+		renderFeaturedData()
 	} catch (error) {
 		console.error(error.message);
 	}
@@ -18,7 +19,13 @@ async function fetchGame() {
 function renderHeroImage() {
 	const heroImage = document.getElementById('rimworldCoverArtImg')
 	heroImage.src = rimworldData.background_image
-	// heroImage.src = rimworldData.short_screenshots[3].image
 	console.log(heroImage);
+}
+
+function renderFeaturedData() {
+	const heroOneDesc = document.getElementById('heroOneDescTag')
+
+	console.log(rimworldData.description);
 	
+	heroOneDesc.innerHTML = rimworldData.description
 }

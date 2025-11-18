@@ -54,6 +54,7 @@
 	display: inline-block;
 	height: 100%;
 	width: 50%;
+	overflow: hidden;
 }
 .heroTwoContainer {
 	border: 2px solid red;

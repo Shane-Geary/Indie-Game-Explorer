@@ -1,14 +1,3 @@
-body {
-	margin: 0 auto;
-	overflow: hidden;
-}
-h1 {
-	margin: .5rem 0 .5rem 0;
-	text-align: center;
-}
-h4 {
-	display: inline-block;
-}
 .homepageContainer {
 	width: 95vw;
 	height: 92vh;
@@ -20,4 +9,14 @@ h4 {
 	width: 100%;
 	display: flex;
 	justify-content: space-evenly;
+}
+.descriptionTextContainer {
+	border: 2px solid red;
+	width: 100%;
+	height: fit-content;
+}
+.descriptionText {
+	text-align: left;
+	padding: 1rem;
+	margin: auto 5rem auto 5rem;
 }

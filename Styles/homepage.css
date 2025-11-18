@@ -5,7 +5,7 @@
 	height: 92vh;
 	margin: auto;
 	border: 2px solid red;
-	overflow: scroll;
+	/* overflow: scroll; */
 }
 .navbar {
 	width: 100%;
@@ -38,8 +38,30 @@
 .heroOneContainer {
 	border: 2px solid red;
 	height: 50%;
+	display: flex;
+}
+.heroOneImg {
+	display: inline-block;
+	height: 100%;
+	width: 50%;
+}
+.heroOneDesc {
+	display: inline-block;
+	height: 100%;
+	width: 50%;
 }
 .heroTwoContainer {
 	border: 2px solid red;
 	height: 50%;
+	display: flex;
+}
+.heroTwoDesc {
+	display: inline-block;
+	height: 100%;
+	width: 50%;
+}
+.heroTwoImg {
+	display: inline-block;
+	height: 100%;
+	width: 50%;
 }

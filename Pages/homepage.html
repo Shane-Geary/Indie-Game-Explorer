@@ -6,7 +6,9 @@
 		<link rel="stylesheet" type="text/css" href="../Styles/global.css">
 		<link rel="stylesheet" type="text/css" href="../Styles/homepage.css">
 	</head>
-	<body>
+	<body
+		onload="fetchGame()"
+	>
 		<h1>Indie Game Explorer</h1>
 		<div class="homepageContainer">
 			<nav class="navbar">
@@ -31,7 +33,10 @@
 			</div>
 			<div class="mainContainer">
 				<div class="heroOneContainer">
-					<div class="heroOneImg">IMG PLACEHOLDER</div>
+					<div class="heroOneImgWrapper">
+						<!-- <h2>RimWorld</h2> -->
+						<img id="rimworldCoverArtImg" class="heroOneImg">
+					</div>
 					<div class="heroOneDesc">DESC. PLACEHOLDER</div>
 				</div>
 				<div class="heroTwoContainer">
@@ -40,5 +45,6 @@
 				</div>
 			</div>
 		</div>
+		<script src="../JS/dataFetch.js"></script>
 	</body>
 </html>

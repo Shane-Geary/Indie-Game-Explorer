@@ -56,6 +56,13 @@
 	width: 50%;
 	overflow: hidden;
 }
+.heroDetailsList {
+	display: flex;
+    justify-content: space-around;
+}
+.heroDevText {
+	font-size: 2rem;
+}
 .heroTwoContainer {
 	border: 2px solid red;
 	height: 50%;

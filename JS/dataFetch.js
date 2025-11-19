@@ -23,9 +23,29 @@ function renderHeroImage() {
 }
 
 function renderFeaturedData() {
-	const heroOneDesc = document.getElementById('heroOneDescTag')
+	const rimworldTitle = document.getElementById('rimworldTitleTag')
+	// const heroOneDescWrapper = document.getElementById('heroOneDescWrapper')
+	const heroOneGenresListTag = document.getElementById('heroOneGenresListTag')
+	const heroOnePlatformListTag = document.getElementById('heroOnePlatformListTag')
+	const heroOneDevTag = document.getElementById('heroOneDevTag')
 
-	console.log(rimworldData.description);
+	// Title
+	rimworldTitle.innerHTML = rimworldData.name_original
+	// heroOneDescWrapper.style.backgroundColor = `#${rimworldData.dominant_color}`
+	// heroOneDesc.innerHTML = rimworldData.description
 	
-	heroOneDesc.innerHTML = rimworldData.description
+	// Genres
+	for(i = 0; i < rimworldData.genres.length; i++) {
+		const listElement = document.createElement('li')
+		listElement.innerHTML = rimworldData.genres[i].name
+		heroOneGenresListTag.appendChild(listElement)
+	}
+	// Platforms
+	for(i = 0; i < rimworldData.platforms.length; i++) {
+		const listElement = document.createElement('li')
+		listElement.innerHTML = rimworldData.platforms[i].platform.name
+		heroOnePlatformListTag.appendChild(listElement)
+	}
+	// Developer
+	heroOneDevTag.innerHTML = rimworldData.developers[0].name
 }

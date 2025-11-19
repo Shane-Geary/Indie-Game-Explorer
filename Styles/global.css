@@ -6,7 +6,13 @@ h1 {
 	margin: .5rem 0 .5rem 0;
 	text-align: center;
 }
-h4 {
+h2 {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	font-size: 3rem;
+}
+h3 {
 	display: inline-block;
 	text-align: center;
 	width: 100%;

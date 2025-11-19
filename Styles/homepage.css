@@ -6,6 +6,7 @@
 	margin: auto;
 	border: 2px solid red;
 	/* overflow: scroll; */
+	background-color: hsla(0, 0%, 0%, 0.8);
 }
 .navbar {
 	width: 100%;

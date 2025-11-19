@@ -53,7 +53,6 @@ function renderFeaturedData() {
 	rimworldTitle.innerHTML = rimworldData.name_original
 	madGamesTitle.innerHTML = madGamesTycoonData.name_original
 	// heroOneDescWrapper.style.backgroundColor = `#${rimworldData.dominant_color}`
-	// heroOneDesc.innerHTML = rimworldData.description
 	
 	// Genres
 	for(i = 0; i < rimworldData.genres.length; i++) {

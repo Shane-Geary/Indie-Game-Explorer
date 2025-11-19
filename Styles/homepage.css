@@ -40,7 +40,7 @@
 	height: 50%;
 	display: flex;
 }
-.heroOneImgWrapper {
+.heroImgWrapper {
 	display: inline-block;
 	height: 100%;
 	width: 50%;
@@ -50,7 +50,7 @@
 	width: 100%;
 	height: 100%;
 }
-.heroOneDesc {
+.heroDesc {
 	display: inline-block;
 	height: 100%;
 	width: 50%;

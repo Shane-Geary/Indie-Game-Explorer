@@ -7,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="../Styles/homepage.css">
 	</head>
 	<body
-		onload="fetchGame()"
+		onload="fetchJSON()"
 	>
 		<h1>Indie Game Explorer</h1>
 		<div class="homepageContainer">
@@ -33,10 +33,10 @@
 			</div>
 			<div class="mainContainer">
 				<div class="heroOneContainer">
-					<div class="heroOneImgWrapper">
-						<img id="rimworldCoverArtImg" class="heroOneImg">
+					<div class="heroImgWrapper">
+						<img id="rimworldCoverArtImg" class="heroOneImg" src="../Images/RimWorldCoverArtLandscape.jpg">
 					</div>
-					<div id="heroOneDescWrapper" class="heroOneDesc">
+					<div id="heroOneDescWrapper" class="heroDesc">
 						<h2 id="rimworldTitleTag"></h2>
 						<h3>Genres</h3>
 						<ul id="heroOneGenresListTag" class="heroDetailsList"></ul>
@@ -47,8 +47,18 @@
 					</div>
 				</div>
 				<div class="heroTwoContainer">
-					<div class="heroTwoDesc">DESC. PLACEHOLDER</div>
-					<div class="heroTwoImg">IMG PLACEHOLDER</div>
+					<div id="heroTwoDescWrapper" class="heroDesc">
+						<h2 id="madGamesTitleTag"></h2>
+						<h3>Genres</h3>
+						<ul id="heroTwoGenresListTag" class="heroDetailsList"></ul>
+						<h3>Available On</h3>
+						<ul id="heroTwoPlatformListTag" class="heroDetailsList"></ul>
+						<h3>Developer(s)</h3>
+						<h2 id="heroTwoDevTag" class="heroDevText"></h2>
+					</div>
+					<div class="heroImgWrapper">
+						<img id="madGamesCoverArtImg" class="heroOneImg" src="../Images/MadGamesCoverArtLandscape.jpg">
+					</div>
 				</div>
 			</div>
 		</div>

@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<body>
-	<head>
-		<title>Indie Game Explorer</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="../Styles/global.css">
-		<link rel="stylesheet" type="text/css" href="../Styles/gameLibrary.css">
-	</head>
-	<h1>Indie Game Explorer</h1>
+<html>
+	<body onload="fetchGames()">
+		<head>
+			<title>Indie Game Explorer</title>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<link rel="stylesheet" type="text/css" href="../Styles/global.css">
+			<link rel="stylesheet" type="text/css" href="../Styles/gameLibrary.css">
+		</head>
+		<h1>Indie Game Explorer</h1>
 		<div class="pageContainer">
 			<nav class="navbar">
 				<a
@@ -26,23 +27,8 @@
 					<h4>Dev Info</h4>
 				</a>
 			</nav>
-			<div class="cardGridContainer">
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-				<div>CARD</div>
-			</div>
+			<div id="cardGridContainerTag" class="cardGridContainer"></div>
 		</div>
-</body>
+		<script src="../JS/gameLibrary.js"></script>
+	</body>
+</html>

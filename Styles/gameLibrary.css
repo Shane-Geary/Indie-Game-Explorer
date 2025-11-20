@@ -1,16 +1,21 @@
 .cardGridContainer {
 	display: grid;
 	grid-template-columns: repeat(4, 25%);
-	grid-auto-rows: 50%;
-	background-color: red;
+	grid-auto-rows: 60%;
+	/* background-color: red; */
 	padding: 1rem;
-	/* grid-template-columns: repeat(4, 250px); */
 	flex: 1;
 	overflow-y: auto;
 }
 .cardGridContainer div {
 	border: 2px solid green;
-	background-color: blue;
+	border-radius: 20px;
+	/* background-color: blue; */
 	padding: 0.5rem;
 	margin: 1rem;
+}
+.cardGridContainer div img {
+	width: 100%;
+	height: 90%;
+	object-fit: cover;
 }

@@ -23,23 +23,15 @@ async function fetchJSON(filepath) {
 		console.log(rimworld, madGamesTycoon);
 		rimworldData = rimworld
 		madGamesTycoonData = madGamesTycoon
-		// renderHeroImage()
 		renderFeaturedData()
 	} catch (error) {
 		console.error(error.message);
 	}
 }
 
-// function renderHeroImage() {
-// 	const heroImage = document.getElementById('rimworldCoverArtImg')
-// 	heroImage.src = rimworldData.background_image
-// 	console.log(heroImage);
-// }
-
 function renderFeaturedData() {
 	// Hero One
 	const rimworldTitle = document.getElementById('rimworldTitleTag')
-	// const heroOneDescWrapper = document.getElementById('heroOneDescWrapper')
 	const heroOneGenresListTag = document.getElementById('heroOneGenresListTag')
 	const heroOnePlatformListTag = document.getElementById('heroOnePlatformListTag')
 	const heroOneDevTag = document.getElementById('heroOneDevTag')
@@ -52,7 +44,6 @@ function renderFeaturedData() {
 	// Title
 	rimworldTitle.innerHTML = rimworldData.name_original
 	madGamesTitle.innerHTML = madGamesTycoonData.name_original
-	// heroOneDescWrapper.style.backgroundColor = `#${rimworldData.dominant_color}`
 	
 	// Genres
 	for(i = 0; i < rimworldData.genres.length; i++) {

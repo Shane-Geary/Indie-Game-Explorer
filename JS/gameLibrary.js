@@ -10,9 +10,7 @@ async function fetchGames() {
 		const gameResults = result.results
 		// Filter to exclude innappropriate games
 		const filteredGames = gameResults.filter(game => 
-			!game.esrb_rating || game.esrb_rating.slug !== "adults-only" 
-			&& game.added < 5000 
-			&& game.tags.includes("name: 'Nudity'")
+			(!game.esrb_rating || game.esrb_rating.slug !== "adults-only") && (game.added < 5000) && !game.tags.some(tag => tag.name === "Nudity")
 		)
 		gamesData = filteredGames
 		console.log(gamesData)

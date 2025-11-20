@@ -27,11 +27,17 @@ function renderGameCard() {
 		const gameCardTitle = document.createElement('h3')
 		const gameCardImage = document.createElement('img')
 
+		gameCard.dataset.gameID = gamesData[i].id
 		gameCardTitle.innerHTML = gamesData[i].name
 		gameCardImage.src = gamesData[i].background_image
+		gameCard.addEventListener('click', (event) => onGameCardClick(event))
 
 		cardGridContainer.appendChild(gameCard)
 		gameCard.appendChild(gameCardTitle)
 		gameCard.appendChild(gameCardImage)
 	}
+}
+async function onGameCardClick(event) {
+	console.log(event.currentTarget.dataset.gameID)
+	window.location.href = `gameDetails.html?id=${event.currentTarget.dataset.gameID}`
 }

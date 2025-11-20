@@ -4,17 +4,18 @@
 	width: 95vw;
 	height: 92vh;
 	margin: auto;
-	border: 2px solid red;
-	/* overflow: scroll; */
-	background-color: hsla(0, 0%, 0%, 0.8);
-}
-.navbar {
-	width: 100%;
-	display: flex;
-	justify-content: space-evenly;
+	border-radius: 20px;
+	border: 2px solid rgba(255,255,255,0.2);
+  	box-shadow: inset 0 0 10px rgba(255,255,255,0.1);
+	/* Frosted glass effect */
+	backdrop-filter: blur(10px) brightness(0.5);
+	background-color: rgba(0, 0, 0, 0.25);
+	box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+	position: relative;
+	z-index: 10;
 }
 .descriptionTextContainer {
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	height: fit-content;
 }
 .descriptionText {
@@ -30,52 +31,44 @@
 	margin-top: .5rem;
 }
 .mainContainer {
-	border: 2px solid red;
-	position: relative;
+	/* border: 2px solid red; */
 	display: flex;
 	flex-direction: column;
-	height: 100%;
+	width: 100%;
+	height: 50vh;
+	flex: 1;
+	overflow: hidden;
 }
-.heroOneContainer {
-	border: 2px solid red;
-	height: 50%;
+.heroContainer {
+	border-top: 2px solid rgba(255,255,255,0.2);
+	flex: 1;
+	overflow: hidden;
 	display: flex;
 }
 .heroImgWrapper {
-	display: inline-block;
 	height: 100%;
 	width: 50%;
 }
-.heroOneImg {
+.heroImg {
 	object-fit: cover;
 	width: 100%;
 	height: 100%;
+	border-radius: 20px;
 }
 .heroDesc {
-	display: inline-block;
 	height: 100%;
 	width: 50%;
 	overflow: hidden;
+	/* display: flex;
+	flex-direction: column; */
 }
 .heroDetailsList {
 	display: flex;
+	flex: 1 1 auto;
     justify-content: space-around;
 }
 .heroDevText {
 	font-size: 2rem;
-}
-.heroTwoContainer {
-	border: 2px solid red;
-	height: 50%;
-	display: flex;
-}
-.heroTwoDesc {
-	display: inline-block;
-	height: 100%;
-	width: 50%;
-}
-.heroTwoImg {
-	display: inline-block;
-	height: 100%;
-	width: 50%;
+	margin-bottom: 1rem;
+	margin-top: 0;
 }

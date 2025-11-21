@@ -21,8 +21,8 @@
 	transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 .cardGridContainer div:hover {
-	transition-duration: 500ms;
-	transform: translateY(-10px);
+	transition-duration: 600ms;
+	transform: translateY(-12px);
 	box-shadow: 0 8px 25px rgba(0,0,0,0.4);
 	border: 2px solid rgba(0,255,255,1);
 }

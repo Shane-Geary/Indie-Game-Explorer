@@ -19,7 +19,6 @@ async function fetchGames() {
 		console.error(error.message)
 	}
 }
-
 function renderGameCard() {
 	const cardGridContainer = document.getElementById('cardGridContainerTag')	
 	for (i = 0; i < gamesData.length; i++) {
@@ -37,7 +36,6 @@ function renderGameCard() {
 		gameCard.appendChild(gameCardImage)
 	}
 }
-async function onGameCardClick(event) {
-	console.log(event.currentTarget.dataset.gameID)
+function onGameCardClick(event) {
 	window.location.href = `gameDetails.html?id=${event.currentTarget.dataset.gameID}`
 }

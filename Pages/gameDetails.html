@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-	<body onload="">
+	<body onload="fetchGame()">
 		<head>
 			<title>Indie Game Explorer</title>
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<link rel="stylesheet" type="text/css" href="../Styles/global.css">
-			<link rel="stylesheet" type="text/css" href="../Styles/gameLibrary.css">
+			<link rel="stylesheet" type="text/css" href="../Styles/gameDetails.css">
 		</head>
 		<h1>Indie Game Explorer</h1>
 		<div class="pageContainer">
@@ -17,17 +17,48 @@
 				>
 					<h4>Home</h4>
 				</a>
-				<a href="#">
+				<a href="./gameLibrary.html">
 					<h4>Library</h4>
 				</a>
-				<a href="#">
+				<a href="">
 					<h4>Game Details</h4>
 				</a>
 				<a href="#">
 					<h4>Dev Info</h4>
 				</a>
 			</nav>
+			<h1 id="gameTitleTag"></h1>
+			<div class="mainContainer">
+				<div class="heroContainer">
+					<div class="coverArtWrapper">
+						<img id="coverArtImgTag" class="coverArtImg">
+					</div>
+					<div class="detailsWrapper">
+						<!-- Game Description -->
+						<div id="gameDescTag"></div>
+						<!-- Game Release/Last Updated Date -->
+						<dl>
+							<dt id="releaseDateHeaderTag"></dt>
+							<dd id="releaseDateDataTag"></dd>
+						</dl>
+						<!-- Game Genres -->
+						<dl id="gameGenresTag" class="gameGenresWrapper">
+							<dt>Genre</dt>
+						</dl>
+						<!-- Game Tags -->
+						<dl id="gameTags" class="gameTagsWrapper">
+							<dt>Tags</dt>
+						</dl>
+						<div>
+							LINK TO DEV INFO
+						</div>
+					</div>
+				</div>
+				<div class="heroContainer">
+					METRICS
+				</div>
+			</div>
 		</div>
-		<!-- <script src="../JS/gameLibrary.js"></script> -->
+		<script src="../JS/gameDetails.js"></script>
 	</body>
 </html>

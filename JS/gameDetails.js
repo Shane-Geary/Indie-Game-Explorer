@@ -6,40 +6,32 @@ const RAWG_API_KEY = '9c59c01718d04f95acbd8ce9e7bb5781'
 
 async function fetchGame() {
 	console.log(gameID)
-	
 	if (gameID) {
 		try {
-			// const response = await fetch(`https://api.rawg.io/api/games/${gameID}?key=${RAWG_API_KEY}`)
 			let response
 			let result
-			let storageKey
+			const storageKey = `game_${gameID}`
+			const cachedGame = localStorage.getItem(storageKey)
 			// Locally stored featured games
 			if (gameID.includes('featured')) {
 				response = await fetch('../Data/featured-games.json')
 				result = await response.json()
 				gameData = result.results[gameID.at(-1)]
-			} else { // If game is not already in local storage, Dynamic fetch to RAWG API
-				storageKey = `game_${gameID}`
-				const cachedGame = localStorage.getItem(storageKey)
-				if (cachedGame) {
-					console.log('Local storage fetch: ' + storageKey)
-					gameData = JSON.parse(cachedGame)
-					console.log(gameData)
-					renderGameDetails()
-					return
-				}
+			} else if (cachedGame) { // If game is not already in local storage, Dynamic fetch to RAWG API
+				gameData = JSON.parse(cachedGame)
+				console.log('Local storage fetch: ' + storageKey)
+			} else {
 				response = await fetch(`https://api.rawg.io/api/games/${gameID}?key=${RAWG_API_KEY}`)
 				result = await response.json()
 				gameData = result
-				console.log(gameData)
-				
+				// Store fetched RAWG data in local storage
+				console.log('Stored in localStorage: ' + gameData)
+				localStorage.setItem(storageKey, JSON.stringify(gameData))
+				if (!response.ok) {
+					throw new Error(`Response status: ${response.status}`)
+				}
 			}
-			if (!response.ok) {
-				throw new Error(`Response status: ${response.status}`)
-			}
-			// Store newly fetched RAWG data in local storage
-			console.log('Stored in localStorage: ' + gameData)
-			localStorage.setItem(storageKey, JSON.stringify(gameData))
+			// Final step, invoke function that will use the game details data, now stored in gameData
 			renderGameDetails()
 		} catch (error) {
 			console.error(error.message)

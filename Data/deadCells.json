@@ -1,0 +1,636 @@
+{
+  "id": 11726,
+  "slug": "dead-cells",
+  "name": "Dead Cells",
+  "name_original": "Dead Cells",
+  "description": "\u003Cp\u003EDead Cells is a roguelike adventure title developed by Motion Twin.\u003C/p\u003E\n\u003Ch3\u003EStory\u003C/h3\u003E\n\u003Cp\u003ENot much story is present in the game, as only bits of any information are given out to the players. The game takes place at a remote island, where the players take place of the Prisoner. The Prisoner does not speak, yet he can express confusion and frustration using his body language. The Prisoner is basically immortal, as, in case of death, his head disconnects itself from the Prisoner&#39;s body, and gets back to the game&#39;s starting area. \u003C/p\u003E\n\u003Ch3\u003EGameplay\u003C/h3\u003E\n\u003Cp\u003EThe game&#39;s heavily inspired by The Binding of Isaac, as stated by the developers.\u003C/p\u003E\n\u003Cp\u003EDead Cells features the procedurally generated environments that are typical for roguelike games, yet it puts a strong emphasis on exploration that is typically found in metroidvanias.\u003C/p\u003E\n\u003Cp\u003EThe players set out to explore the island where a prison was built. As the players come down into the dungeons of the island, they find various loot, fight dangerous creatures, collect armor, abilities, and power-ups. Upon death, the players lose all the loot they had on them. It is possible to find a shopkeep somewhere in the dungeons to purchase new equipment or have some rest. \u003C/p\u003E\n\u003Cp\u003EThe game uses death as a learning experience, as it randomizes the placement of enemies, so the players can&#39;t take multiple attempts to complete a level. The developers want the player to examine the enemy behavior and learn how to combat the enemies themselves.\u003C/p\u003E",
+  "metacritic": 88,
+  "metacritic_platforms": [
+    {
+      "metascore": 91,
+      "url": "https://www.metacritic.com/game/xbox-one/dead-cells",
+      "platform": {
+        "platform": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one"
+      }
+    },
+    {
+      "metascore": 89,
+      "url": "https://www.metacritic.com/game/switch/dead-cells",
+      "platform": {
+        "platform": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch"
+      }
+    },
+    {
+      "metascore": 87,
+      "url": "https://www.metacritic.com/game/playstation-4/dead-cells",
+      "platform": {
+        "platform": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4"
+      }
+    },
+    {
+      "metascore": 84,
+      "url": "https://www.metacritic.com/game/ios/dead-cells",
+      "platform": {
+        "platform": 3,
+        "name": "iOS",
+        "slug": "ios"
+      }
+    },
+    {
+      "metascore": 89,
+      "url": "https://www.metacritic.com/game/pc/dead-cells",
+      "platform": {
+        "platform": 4,
+        "name": "PC",
+        "slug": "pc"
+      }
+    }
+  ],
+  "released": "2018-08-07",
+  "tba": false,
+  "updated": "2025-11-24T05:00:10",
+  "background_image": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/936/936c60f9b17b7c959b416b2b9ed32b8a.jpg",
+  "website": "https://dead-cells.com/",
+  "rating": 4.24,
+  "rating_top": 4,
+  "ratings": [
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 871,
+      "percent": 49.74
+    },
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 679,
+      "percent": 38.78
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 171,
+      "percent": 9.77
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 30,
+      "percent": 1.71
+    }
+  ],
+  "reactions": {
+    "1": 2,
+    "2": 6,
+    "3": 8,
+    "4": 1,
+    "5": 3,
+    "6": 8,
+    "9": 1,
+    "10": 1,
+    "11": 4,
+    "12": 2,
+    "15": 1
+  },
+  "added": 7249,
+  "added_by_status": {
+    "yet": 380,
+    "owned": 4290,
+    "beaten": 793,
+    "toplay": 549,
+    "dropped": 840,
+    "playing": 397
+  },
+  "playtime": 10,
+  "screenshots_count": 13,
+  "movies_count": 2,
+  "creators_count": 0,
+  "achievements_count": 502,
+  "parent_achievements_count": 84,
+  "reddit_url": "https://www.reddit.com/r/deadcells/",
+  "reddit_name": "",
+  "reddit_description": "",
+  "reddit_logo": "",
+  "reddit_count": 8822,
+  "twitch_count": 117,
+  "youtube_count": 1000000,
+  "reviews_text_count": 26,
+  "ratings_count": 1725,
+  "suggestions_count": 361,
+  "alternative_names": [],
+  "metacritic_url": "https://www.metacritic.com/game/pc/dead-cells",
+  "parents_count": 0,
+  "additions_count": 9,
+  "game_series_count": 0,
+  "user_game": null,
+  "reviews_count": 1751,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      }
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5714,
+        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5723,
+        "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 6951,
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 107930,
+        "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 80296,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "iOS",
+        "slug": "ios",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 77421,
+        "image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+        "minimum": "iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 559861,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      "released_at": "2018-08-07",
+      "requirements": {
+        "minimum": "7 / 8 / 10Processor: Intel i5+Memory: 4 GB RAMGraphics: Nvidia GTX 460 / Radeon HD 7800 or betterStorage: 500 MB available spaceMouse, KeyboardAdditional Notes: OpenGL 3.2+"
+      }
+    }
+  ],
+  "stores": [
+    {
+      "id": 12860,
+      "url": "",
+      "store": {
+        "id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "games_count": 122741,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      }
+    },
+    {
+      "id": 43569,
+      "url": "",
+      "store": {
+        "id": 5,
+        "name": "GOG",
+        "slug": "gog",
+        "domain": "gog.com",
+        "games_count": 7062,
+        "image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+      }
+    },
+    {
+      "id": 46800,
+      "url": "",
+      "store": {
+        "id": 6,
+        "name": "Nintendo Store",
+        "slug": "nintendo",
+        "domain": "nintendo.com",
+        "games_count": 9142,
+        "image_background": "https://media.rawg.io/media/games/18c/18ca24ed4b700668c36b11ebc35f3d23.jpg"
+      }
+    },
+    {
+      "id": 49428,
+      "url": "",
+      "store": {
+        "id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "games_count": 4930,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      }
+    },
+    {
+      "id": 49408,
+      "url": "",
+      "store": {
+        "id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "games_count": 8062,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    },
+    {
+      "id": 265552,
+      "url": "",
+      "store": {
+        "id": 9,
+        "name": "itch.io",
+        "slug": "itch",
+        "domain": "itch.io",
+        "games_count": 654175,
+        "image_background": "https://media.rawg.io/media/games/8cd/8cd179c85bd3de8f79bef245b15075fb.jpg"
+      }
+    },
+    {
+      "id": 342344,
+      "url": "",
+      "store": {
+        "id": 4,
+        "name": "App Store",
+        "slug": "apple-appstore",
+        "domain": "apps.apple.com",
+        "games_count": 75588,
+        "image_background": "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg"
+      }
+    },
+    {
+      "id": 593068,
+      "url": "",
+      "store": {
+        "id": 11,
+        "name": "Epic Games",
+        "slug": "epic-games",
+        "domain": "epicgames.com",
+        "games_count": 1427,
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 2590,
+      "name": "Plug In Digital",
+      "slug": "plug-in-digital",
+      "games_count": 244,
+      "image_background": "https://media.rawg.io/media/screenshots/9df/9df4944fa944e49b67b21c36aba624ae.jpg"
+    },
+    {
+      "id": 458,
+      "name": "Playdigious",
+      "slug": "playdigious",
+      "games_count": 27,
+      "image_background": "https://media.rawg.io/media/screenshots/351/351ee0915fcd5a64e976791794039d5c.jpg"
+    },
+    {
+      "id": 5631,
+      "name": "Motion Twin",
+      "slug": "motion-twin",
+      "games_count": 18,
+      "image_background": "https://media.rawg.io/media/screenshots/7cd/7cd0a27492e38d8740d982212ec1a78f.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Action",
+      "slug": "action",
+      "games_count": 191231,
+      "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+    },
+    {
+      "id": 5,
+      "name": "RPG",
+      "slug": "role-playing-games-rpg",
+      "games_count": 61817,
+      "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Indie",
+      "slug": "indie",
+      "games_count": 85971,
+      "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Platformer",
+      "slug": "platformer",
+      "games_count": 100906,
+      "image_background": "https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 31,
+      "name": "Singleplayer",
+      "slug": "singleplayer",
+      "language": "eng",
+      "games_count": 250424,
+      "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+    },
+    {
+      "id": 40847,
+      "name": "Steam Achievements",
+      "slug": "steam-achievements",
+      "language": "eng",
+      "games_count": 51528,
+      "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+      "id": 40836,
+      "name": "Full controller support",
+      "slug": "full-controller-support",
+      "language": "eng",
+      "games_count": 24060,
+      "image_background": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg"
+    },
+    {
+      "id": 40849,
+      "name": "Steam Cloud",
+      "slug": "steam-cloud",
+      "language": "eng",
+      "games_count": 25626,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Atmospheric",
+      "slug": "atmospheric",
+      "language": "eng",
+      "games_count": 39608,
+      "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Great Soundtrack",
+      "slug": "great-soundtrack",
+      "language": "eng",
+      "games_count": 3451,
+      "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+    },
+    {
+      "id": 24,
+      "name": "RPG",
+      "slug": "rpg",
+      "language": "eng",
+      "games_count": 26522,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 45,
+      "name": "2D",
+      "slug": "2d",
+      "language": "eng",
+      "games_count": 207560,
+      "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Difficult",
+      "slug": "difficult",
+      "language": "eng",
+      "games_count": 14290,
+      "image_background": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Pixel Graphics",
+      "slug": "pixel-graphics",
+      "language": "eng",
+      "games_count": 99259,
+      "image_background": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Early Access",
+      "slug": "early-access",
+      "language": "eng",
+      "games_count": 19450,
+      "image_background": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Hack and Slash",
+      "slug": "hack-and-slash",
+      "language": "eng",
+      "games_count": 5332,
+      "image_background": "https://media.rawg.io/media/games/8e6/8e699e91cf77c2060b6d515e2135b1b1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Replay Value",
+      "slug": "replay-value",
+      "language": "eng",
+      "games_count": 2253,
+      "image_background": "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Side Scroller",
+      "slug": "side-scroller",
+      "language": "eng",
+      "games_count": 11825,
+      "image_background": "https://media.rawg.io/media/games/598/59851e152a6898c8bf79069b5bf2f4db.jpg"
+    },
+    {
+      "id": 639,
+      "name": "Roguelike",
+      "slug": "roguelike",
+      "language": "eng",
+      "games_count": 15124,
+      "image_background": "https://media.rawg.io/media/games/e40/e40cc9d1957b0a0ed7e389834457b524.jpg"
+    },
+    {
+      "id": 259,
+      "name": "Metroidvania",
+      "slug": "metroidvania",
+      "language": "eng",
+      "games_count": 4712,
+      "image_background": "https://media.rawg.io/media/games/c47/c4796c4c49e7e06ad328e07aa8944cdd.jpg"
+    },
+    {
+      "id": 640,
+      "name": "Roguelite",
+      "slug": "roguelite",
+      "language": "eng",
+      "games_count": 8648,
+      "image_background": "https://media.rawg.io/media/screenshots/71c/71c015df012029897e87ac00b7a8de4c.jpg"
+    },
+    {
+      "id": 196,
+      "name": "Procedural Generation",
+      "slug": "procedural-generation",
+      "language": "eng",
+      "games_count": 8950,
+      "image_background": "https://media.rawg.io/media/screenshots/b25/b258a515226ab56c46ac8619cacb8f26.jpeg"
+    },
+    {
+      "id": 124,
+      "name": "Perma Death",
+      "slug": "perma-death",
+      "language": "eng",
+      "games_count": 2771,
+      "image_background": "https://media.rawg.io/media/games/cef/cefedf18016cbab466861eb698daf988.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 515,
+      "name": "Plug In Digital",
+      "slug": "plug-in-digital-2",
+      "games_count": 275,
+      "image_background": "https://media.rawg.io/media/screenshots/78f/78fbf5f53e62e0b37764f17fa14609e2.jpg"
+    },
+    {
+      "id": 334,
+      "name": "Playdigious",
+      "slug": "playdigious",
+      "games_count": 25,
+      "image_background": "https://media.rawg.io/media/screenshots/351/351ee0915fcd5a64e976791794039d5c.jpg"
+    },
+    {
+      "id": 4867,
+      "name": "Motion Twin",
+      "slug": "motion-twin",
+      "games_count": 11,
+      "image_background": "https://media.rawg.io/media/screenshots/cd2/cd21b5eb78d65e70f72abe5204364665.jpg"
+    }
+  ],
+  "esrb_rating": {
+    "id": 3,
+    "name": "Teen",
+    "slug": "teen"
+  },
+  "clip": null,
+  "description_raw": "Dead Cells is a roguelike adventure title developed by Motion Twin.\n\n###Story\nNot much story is present in the game, as only bits of any information are given out to the players. The game takes place at a remote island, where the players take place of the Prisoner. The Prisoner does not speak, yet he can express confusion and frustration using his body language. The Prisoner is basically immortal, as, in case of death, his head disconnects itself from the Prisoner's body, and gets back to the game's starting area. \n\n###Gameplay\nThe game's heavily inspired by The Binding of Isaac, as stated by the developers.\n\nDead Cells features the procedurally generated environments that are typical for roguelike games, yet it puts a strong emphasis on exploration that is typically found in metroidvanias.\n\nThe players set out to explore the island where a prison was built. As the players come down into the dungeons of the island, they find various loot, fight dangerous creatures, collect armor, abilities, and power-ups. Upon death, the players lose all the loot they had on them. It is possible to find a shopkeep somewhere in the dungeons to purchase new equipment or have some rest. \n\nThe game uses death as a learning experience, as it randomizes the placement of enemies, so the players can't take multiple attempts to complete a level. The developers want the player to examine the enemy behavior and learn how to combat the enemies themselves."
+}

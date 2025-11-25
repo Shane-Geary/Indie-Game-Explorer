@@ -1,0 +1,2921 @@
+{
+	"results": [
+		{
+			"id": 12130,
+			"slug": "rimworld",
+			"name": "RimWorld",
+			"name_original": "RimWorld",
+			"description": "\u003Cp\u003ERimWorld is a sci-fi colony sim driven by an intelligent AI storyteller. Inspired by Dwarf Fortress, Firefly, and Dune.\u003Cbr /\u003E\nYou begin with three survivors of a shipwreck on a distant world.\u003Cbr /\u003E\nManage colonists&#39; moods, needs, wounds, and illnesses.\u003Cbr /\u003E\nFashion structures, weapons, and apparel from metal, wood, stone, cloth, or futuristic materials.\u003Cbr /\u003E\nTame and train cute pets, productive farm animals, and deadly attack beasts.\u003Cbr /\u003E\nWatch colonists develop and break relationships with family members, lovers, and spouses.\u003Cbr /\u003E\nFight pirate raiders, hostile tribes, rampaging animals, giant tunnelling insects and ancient killing machines.\u003Cbr /\u003E\nTrade with passing ships and trade caravans.\u003Cbr /\u003E\nDecorate your colony to make it into a pleasurable space.\u003Cbr /\u003E\nDig through snow, weather storms, and fight fires.\u003Cbr /\u003E\nCapture refugees or prisoners and turn them to your side or sell them into slavery.\u003Cbr /\u003E\nDiscover a new generated world each time you play.\u003Cbr /\u003E\nBuild colonies in the desert, jungle, tundra, and more.\u003Cbr /\u003E\nLearn to play easily with the help of an intelligent and unobtrusive AI tutor.\u003Cbr /\u003E\nRimWorld is a story generator. It’s designed to co-author tragic, twisted, and triumphant stories about imprisoned pirates, desperate colonists, starvation and survival. It works by controlling the “random” events that the world throws at you. Every thunderstorm, pirate raid, and traveling salesman is a card dealt into your story by the AI Storyteller. There are several storytellers to choose from. Randy Random does crazy stuff, Cassandra Classic goes for rising tension, and Phoebe Chillax likes to relax.\u003Cbr /\u003E\nYour colonists are not professional settlers – they’re crash-landed survivors from a passenger liner destroyed in orbit. You can end up with a nobleman, an accountant, and a housewife. You’ll acquire more colonists by capturing them in combat and turning them to your side, buying them from slave traders, or taking in refugees. So your colony will always be a motley crew.\u003Cbr /\u003E\nEach person’s background is tracked and affects how they play. A nobleman will be great at social skills (recruiting prisoners, negotiating trade prices), but refuse to do physical work. A farm oaf knows how to grow food by long experience, but cannot do research. A nerdy scientist is great at research, but cannot do social tasks at all. A genetically engineered assassin can do nothing but kill – but he does that very well.\u003Cbr /\u003E\nColonists develop - and destroy - relationships. Each has an opinion of the others, which determines whether they&#39;ll become lovers, marry, cheat, or fight. Perhaps your two best colonists are happily married - until one of them falls for the dashing surgeon who saved her from a gunshot wound.\u003Cbr /\u003E\nThe game generates a whole planet from pole to equator. You choose whether to land your crash pods in a cold northern tundra, a parched desert plain, a temperate forest, or a steaming equatorial jungle. Different areas have different animals, plants, diseases, temperatures, rainfall, mineral resources, and terrain. These challenges of surviving in a disease-infested, choking jungle are very different from those in a parched desert wasteland or a frozen tundra with a two-month growing season.\u003Cbr /\u003E\nYou can tame and train animals. Lovable pets will cheer up sad colonists. Farm animals can be worked, milked, and sheared. Attack beasts can be released upon your enemies. There are many animals - cats, labrador retrievers, grizzly bears, camels, cougars, chinchillas, chickens, and exotic alien-like lifeforms.\u003Cbr /\u003E\nPeople in RimWorld constantly observe their situation and surroundings in order to decide how to feel at any given moment. They respond to hunger and fatigue, witnessing death, disrespectfully unburied corpses, being wounded, being left in darkness, getting packed into cramped environments, sleeping outside or in the same room as others, and many other situations. If they&#39;re too stressed, they might lash out or break down.\u003Cbr /\u003E\nWounds, infections, prosthetics, and chronic conditions are tracked on each body part and affect characters&#39; capacities. Eye injuries make it hard to shoot or do surgery. Wounded legs slow people down. Hands, brain, mouth, heart, liver, kidneys, stomach, feet, fingers, toes, and more can all be wounded, diseased, or missing, and all have logical in-game effects. And other species have their own body layouts - take off a deer&#39;s leg, and it can still hobble on the other three. Take off a rhino&#39;s horn, and it&#39;s much less dangerous.\u003Cbr /\u003E\nYou can repair body parts with prosthetics ranging from primitive to transcendent. A peg leg will get Joe Colonist walking after an unfortunate incident with a rhinoceros, but he&#39;ll still be quite slow. Buy an expensive bionic leg from a trader the next year, and Joe becomes a superhuman runner. You can even extract, sell, buy, and transplant internal organs.\u003Cbr /\u003E\nAnd there&#39;s much more than that! The game is easy to mod and has an active mod community. Read more at http://rimworldgame.com.\u003Cbr /\u003E\n(All non-English translations are made by fans.)\u003C/p\u003E",
+			"metacritic": 87,
+			"metacritic_platforms": [
+				{
+				"metascore": 87,
+				"url": "https://www.metacritic.com/game/pc/rimworld",
+				"platform": {
+					"platform": 4,
+					"name": "PC",
+					"slug": "pc"
+				}
+				}
+			],
+			"released": "2016-07-15",
+			"tba": false,
+			"updated": "2025-11-12T16:34:20",
+			"background_image": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg",
+			"background_image_additional": "https://media.rawg.io/media/screenshots/2bf/2bfb0aca240edf48b72aaddd1a5719de.jpg",
+			"website": "https://ludeon.com",
+			"rating": 4.36,
+			"rating_top": 5,
+			"ratings": [
+				{
+				"id": 5,
+				"title": "exceptional",
+				"count": 375,
+				"percent": 61.17
+				},
+				{
+				"id": 4,
+				"title": "recommended",
+				"count": 161,
+				"percent": 26.26
+				},
+				{
+				"id": 3,
+				"title": "meh",
+				"count": 39,
+				"percent": 6.36
+				},
+				{
+				"id": 1,
+				"title": "skip",
+				"count": 38,
+				"percent": 6.2
+				}
+			],
+			"reactions": {
+				"3": 1,
+				"4": 1
+			},
+			"added": 2968,
+			"added_by_status": {
+				"yet": 104,
+				"owned": 2117,
+				"beaten": 203,
+				"toplay": 138,
+				"dropped": 264,
+				"playing": 142
+			},
+			"playtime": 19,
+			"screenshots_count": 25,
+			"movies_count": 0,
+			"creators_count": 6,
+			"achievements_count": 0,
+			"parent_achievements_count": 0,
+			"reddit_url": "",
+			"reddit_name": "",
+			"reddit_description": "",
+			"reddit_logo": "",
+			"reddit_count": 0,
+			"twitch_count": 130,
+			"youtube_count": 1000000,
+			"reviews_text_count": 4,
+			"ratings_count": 609,
+			"suggestions_count": 362,
+			"alternative_names": [],
+			"metacritic_url": "https://www.metacritic.com/game/pc/rimworld",
+			"parents_count": 0,
+			"additions_count": 0,
+			"game_series_count": 0,
+			"user_game": null,
+			"reviews_count": 613,
+			"saturated_color": "0f0f0f",
+			"dominant_color": "0f0f0f",
+			"parent_platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "PC",
+					"slug": "pc"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "Apple Macintosh",
+					"slug": "mac"
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux"
+				}
+				}
+			],
+			"platforms": [
+				{
+				"platform": {
+					"id": 5,
+					"name": "macOS",
+					"slug": "macos",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 107816,
+					"image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+				},
+				"released_at": "2016-07-15",
+				"requirements": {
+					"minimum": "Minimum:\nOS: OSX 10.5\nProcessor: Core 2 Duo\nMemory: 4 GB RAM\nGraphics: Intel HD Graphics 3000 with 384 MB of RAM\nStorage: 500 MB available space"
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "PC",
+					"slug": "pc",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 559077,
+					"image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+				},
+				"released_at": "2016-07-15",
+				"requirements": {
+					"minimum": "Minimum:\nOS: Windows XP\nProcessor: Core 2 Duo\nMemory: 4 GB RAM\nGraphics: Intel HD Graphics 3000 with 384 MB of RAM\nStorage: 500 MB available space"
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 80204,
+					"image_background": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg"
+				},
+				"released_at": "2016-07-15",
+				"requirements": {
+					"minimum": "Minimum:\nProcessor: Core 2 Duo\nMemory: 4 GB RAM\nGraphics: Intel HD Graphics 3000 with 384 MB of RAM\nStorage: 500 MB available space"
+				}
+				}
+			],
+			"stores": [
+				{
+				"id": 405492,
+				"url": "",
+				"store": {
+					"id": 5,
+					"name": "GOG",
+					"slug": "gog",
+					"domain": "gog.com",
+					"games_count": 7043,
+					"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+				}
+				},
+				{
+				"id": 13326,
+				"url": "",
+				"store": {
+					"id": 1,
+					"name": "Steam",
+					"slug": "steam",
+					"domain": "store.steampowered.com",
+					"games_count": 121944,
+					"image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+				}
+				}
+			],
+			"developers": [
+				{
+				"id": 5971,
+				"name": "Ludeon Studios",
+				"slug": "ludeon-studios",
+				"games_count": 1,
+				"image_background": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg"
+				}
+			],
+			"genres": [
+				{
+				"id": 10,
+				"name": "Strategy",
+				"slug": "strategy",
+				"games_count": 62135,
+				"image_background": "https://media.rawg.io/media/games/f95/f95ec06eddda5c5bf206618c49cd3e68.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Simulation",
+				"slug": "simulation",
+				"games_count": 76455,
+				"image_background": "https://media.rawg.io/media/games/23b/23b69bfef2a1ce2e3dcdf1aa8ef1150b.jpg"
+				},
+				{
+				"id": 51,
+				"name": "Indie",
+				"slug": "indie",
+				"games_count": 85395,
+				"image_background": "https://media.rawg.io/media/games/48c/48cb04ca483be865e3a83119c94e6097.jpg"
+				}
+			],
+			"tags": [
+				{
+				"id": 31,
+				"name": "Singleplayer",
+				"slug": "singleplayer",
+				"language": "eng",
+				"games_count": 249658,
+				"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				{
+				"id": 40849,
+				"name": "Steam Cloud",
+				"slug": "steam-cloud",
+				"language": "eng",
+				"games_count": 25348,
+				"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				{
+				"id": 13,
+				"name": "Atmospheric",
+				"slug": "atmospheric",
+				"language": "eng",
+				"games_count": 39412,
+				"image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+				},
+				{
+				"id": 42,
+				"name": "Great Soundtrack",
+				"slug": "great-soundtrack",
+				"language": "eng",
+				"games_count": 3446,
+				"image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+				},
+				{
+				"id": 36,
+				"name": "Open World",
+				"slug": "open-world",
+				"language": "eng",
+				"games_count": 9181,
+				"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				},
+				{
+				"id": 45,
+				"name": "2D",
+				"slug": "2d",
+				"language": "eng",
+				"games_count": 207205,
+				"image_background": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg"
+				},
+				{
+				"id": 32,
+				"name": "Sci-fi",
+				"slug": "sci-fi",
+				"language": "eng",
+				"games_count": 21942,
+				"image_background": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg"
+				},
+				{
+				"id": 37,
+				"name": "Sandbox",
+				"slug": "sandbox",
+				"language": "eng",
+				"games_count": 8447,
+				"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				},
+				{
+				"id": 1,
+				"name": "Survival",
+				"slug": "survival",
+				"language": "eng",
+				"games_count": 10734,
+				"image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+				},
+				{
+				"id": 122,
+				"name": "Pixel Graphics",
+				"slug": "pixel-graphics",
+				"language": "eng",
+				"games_count": 99096,
+				"image_background": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Early Access",
+				"slug": "early-access",
+				"language": "eng",
+				"games_count": 19327,
+				"image_background": "https://media.rawg.io/media/games/447/4470c1e76f01acfaf5af9c207d1c1c92.jpg"
+				},
+				{
+				"id": 40852,
+				"name": "Steam Workshop",
+				"slug": "steam-workshop",
+				"language": "eng",
+				"games_count": 1758,
+				"image_background": "https://media.rawg.io/media/games/0fd/0fd84d36596a83ef2e5a35f63a072218.jpg"
+				},
+				{
+				"id": 25,
+				"name": "Space",
+				"slug": "space",
+				"language": "eng",
+				"games_count": 44177,
+				"image_background": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg"
+				},
+				{
+				"id": 62,
+				"name": "Moddable",
+				"slug": "moddable",
+				"language": "eng",
+				"games_count": 1125,
+				"image_background": "https://media.rawg.io/media/games/806/8060a7663364ac23e15480728938d6f3.jpg"
+				},
+				{
+				"id": 125,
+				"name": "Crafting",
+				"slug": "crafting",
+				"language": "eng",
+				"games_count": 5461,
+				"image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+				},
+				{
+				"id": 39,
+				"name": "Building",
+				"slug": "building",
+				"language": "eng",
+				"games_count": 7474,
+				"image_background": "https://media.rawg.io/media/screenshots/ac7/ac707457a89f1f7d15ef5934a26ea21a.jpg"
+				},
+				{
+				"id": 67,
+				"name": "Management",
+				"slug": "management",
+				"language": "eng",
+				"games_count": 9304,
+				"image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+				},
+				{
+				"id": 180,
+				"name": "Base Building",
+				"slug": "base-building",
+				"language": "eng",
+				"games_count": 2943,
+				"image_background": "https://media.rawg.io/media/games/000/0002b2686a50b30762fb6040a8d9187f.jpg"
+				},
+				{
+				"id": 49967,
+				"name": "Colony Sim",
+				"slug": "colony-sim-2",
+				"language": "eng",
+				"games_count": 795,
+				"image_background": "https://media.rawg.io/media/screenshots/2ce/2ce3e1c31794fbe541470eba6651c37b.jpg"
+				}
+			],
+			"publishers": [
+				{
+				"id": 5130,
+				"name": "Ludeon Studios",
+				"slug": "ludeon-studios",
+				"games_count": 1,
+				"image_background": "https://media.rawg.io/media/screenshots/4d8/4d85fbe90066fdbef295a618640c4a82.jpg"
+				}
+			],
+			"esrb_rating": null,
+			"clip": null,
+			"description_raw": "RimWorld is a sci-fi colony sim driven by an intelligent AI storyteller. Inspired by Dwarf Fortress, Firefly, and Dune.\nYou begin with three survivors of a shipwreck on a distant world.\nManage colonists' moods, needs, wounds, and illnesses.\nFashion structures, weapons, and apparel from metal, wood, stone, cloth, or futuristic materials.\nTame and train cute pets, productive farm animals, and deadly attack beasts.\nWatch colonists develop and break relationships with family members, lovers, and spouses.\nFight pirate raiders, hostile tribes, rampaging animals, giant tunnelling insects and ancient killing machines.\nTrade with passing ships and trade caravans.\nDecorate your colony to make it into a pleasurable space.\nDig through snow, weather storms, and fight fires.\nCapture refugees or prisoners and turn them to your side or sell them into slavery.\nDiscover a new generated world each time you play.\nBuild colonies in the desert, jungle, tundra, and more.\nLearn to play easily with the help of an intelligent and unobtrusive AI tutor.\nRimWorld is a story generator. It’s designed to co-author tragic, twisted, and triumphant stories about imprisoned pirates, desperate colonists, starvation and survival. It works by controlling the “random” events that the world throws at you. Every thunderstorm, pirate raid, and traveling salesman is a card dealt into your story by the AI Storyteller. There are several storytellers to choose from. Randy Random does crazy stuff, Cassandra Classic goes for rising tension, and Phoebe Chillax likes to relax.\nYour colonists are not professional settlers – they’re crash-landed survivors from a passenger liner destroyed in orbit. You can end up with a nobleman, an accountant, and a housewife. You’ll acquire more colonists by capturing them in combat and turning them to your side, buying them from slave traders, or taking in refugees. So your colony will always be a motley crew.\nEach person’s background is tracked and affects how they play. A nobleman will be great at social skills (recruiting prisoners, negotiating trade prices), but refuse to do physical work. A farm oaf knows how to grow food by long experience, but cannot do research. A nerdy scientist is great at research, but cannot do social tasks at all. A genetically engineered assassin can do nothing but kill – but he does that very well.\nColonists develop - and destroy - relationships. Each has an opinion of the others, which determines whether they'll become lovers, marry, cheat, or fight. Perhaps your two best colonists are happily married - until one of them falls for the dashing surgeon who saved her from a gunshot wound.\nThe game generates a whole planet from pole to equator. You choose whether to land your crash pods in a cold northern tundra, a parched desert plain, a temperate forest, or a steaming equatorial jungle. Different areas have different animals, plants, diseases, temperatures, rainfall, mineral resources, and terrain. These challenges of surviving in a disease-infested, choking jungle are very different from those in a parched desert wasteland or a frozen tundra with a two-month growing season.\nYou can tame and train animals. Lovable pets will cheer up sad colonists. Farm animals can be worked, milked, and sheared. Attack beasts can be released upon your enemies. There are many animals - cats, labrador retrievers, grizzly bears, camels, cougars, chinchillas, chickens, and exotic alien-like lifeforms.\nPeople in RimWorld constantly observe their situation and surroundings in order to decide how to feel at any given moment. They respond to hunger and fatigue, witnessing death, disrespectfully unburied corpses, being wounded, being left in darkness, getting packed into cramped environments, sleeping outside or in the same room as others, and many other situations. If they're too stressed, they might lash out or break down.\nWounds, infections, prosthetics, and chronic conditions are tracked on each body part and affect characters' capacities. Eye injuries make it hard to shoot or do surgery. Wounded legs slow people down. Hands, brain, mouth, heart, liver, kidneys, stomach, feet, fingers, toes, and more can all be wounded, diseased, or missing, and all have logical in-game effects. And other species have their own body layouts - take off a deer's leg, and it can still hobble on the other three. Take off a rhino's horn, and it's much less dangerous.\nYou can repair body parts with prosthetics ranging from primitive to transcendent. A peg leg will get Joe Colonist walking after an unfortunate incident with a rhinoceros, but he'll still be quite slow. Buy an expensive bionic leg from a trader the next year, and Joe becomes a superhuman runner. You can even extract, sell, buy, and transplant internal organs.\nAnd there's much more than that! The game is easy to mod and has an active mod community. Read more at http://rimworldgame.com.\n(All non-English translations are made by fans.)"
+		},
+    	{
+			"id": 545036,
+			"slug": "mad-games-tycoon-2",
+			"name": "Mad Games Tycoon 2",
+			"name_original": "Mad Games Tycoon 2",
+			"description": "\u003Ch3\u003EStart your own game developer studio\u003C/h3\u003E\u003Cbr/\u003EIt is the year 1976.A few revolutionaries set out to take over the entertainment industry. You too take the risky step and found your own game company in a small, unimpressive office.\u003Cbr/\u003E\u003Cbr/\u003EBuild your own studio with offices, production facilities and server rooms. Place decorative objects in your offices to increase prestige and attract the best employees in the industry. Watch out for pollution, heat and employment opportunities for your staff.\u003Cbr/\u003E\u003Cbr/\u003EBuy the most desirable offices and become the leading manufacturer of computer games and consoles.\u003Ch3\u003EDevelop games and consoles\u003C/h3\u003E\u003Cbr/\u003EWith \"Mad Games Tycoon 2\" you have countless options to develop the game of your dreams. From a simple text adventure to expensive MMOs. Develop games for high-paying publishers or produce and distribute games from the competition. Do you want to publish your games on all consoles, or do you want to create the next exclusive hit for the most successful home computer? Design the most impressive next-gen console and dominate the hardware market.\u003Ch3\u003EDominate the game industry\u003C/h3\u003E\u003Cbr/\u003EHire the most legendary game developers, sell your most advanced engines to the competition, or buy out all game developer studios. You have countless ways to influence the game industry. Guide your small studio through all crises and make it a market-leading company.",
+			"metacritic": null,
+			"metacritic_platforms": [],
+			"released": "2021-01-21",
+			"tba": false,
+			"updated": "2025-08-11T20:38:31",
+			"background_image": "https://media.rawg.io/media/screenshots/e2c/e2c800ba2adabc3444221d887ae620fe.jpg",
+			"background_image_additional": "https://media.rawg.io/media/screenshots/e8c/e8c343e311233c0270b9164b8fe8660c.jpg",
+			"website": "http://www.eggcodegames.com/",
+			"rating": 4.09,
+			"rating_top": 4,
+			"ratings": [
+				{
+				"id": 4,
+				"title": "recommended",
+				"count": 20,
+				"percent": 60.61
+				},
+				{
+				"id": 5,
+				"title": "exceptional",
+				"count": 8,
+				"percent": 24.24
+				},
+				{
+				"id": 3,
+				"title": "meh",
+				"count": 5,
+				"percent": 15.15
+				}
+			],
+			"reactions": {
+
+			},
+			"added": 175,
+			"added_by_status": {
+				"yet": 4,
+				"owned": 130,
+				"beaten": 15,
+				"toplay": 10,
+				"dropped": 13,
+				"playing": 3
+			},
+			"playtime": 14,
+			"screenshots_count": 17,
+			"movies_count": 0,
+			"creators_count": 0,
+			"achievements_count": 73,
+			"parent_achievements_count": 73,
+			"reddit_url": "",
+			"reddit_name": "",
+			"reddit_description": "",
+			"reddit_logo": "",
+			"reddit_count": 0,
+			"twitch_count": 32,
+			"youtube_count": 0,
+			"reviews_text_count": 0,
+			"ratings_count": 33,
+			"suggestions_count": 236,
+			"alternative_names": [],
+			"metacritic_url": "",
+			"parents_count": 0,
+			"additions_count": 0,
+			"game_series_count": 1,
+			"user_game": null,
+			"reviews_count": 33,
+			"saturated_color": "0f0f0f",
+			"dominant_color": "0f0f0f",
+			"parent_platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "PC",
+					"slug": "pc"
+				}
+				}
+			],
+			"platforms": [
+				{
+				"platform": {
+					"id": 4,
+					"name": "PC",
+					"slug": "pc",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 559076,
+					"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				"released_at": "2021-01-21",
+				"requirements": {
+					"minimum": "Minimum:\nOS: Windows 7\nProcessor: Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher\nMemory: 4 GB RAM\nGraphics: DirectX 10 compatible with 512 RAM or better\nStorage: 1 GB available space",
+					"recommended": "Recommended:\nOS: Windows 7, Windows 8, Windows 8.1, Windows 10\nProcessor: 2.8 GHz quad core or better\nGraphics: DirectX 10 compatible with 1024 RAM or better\nStorage: 1 GB available space"
+				}
+				}
+			],
+			"stores": [
+				{
+				"id": 538082,
+				"url": "",
+				"store": {
+					"id": 1,
+					"name": "Steam",
+					"slug": "steam",
+					"domain": "store.steampowered.com",
+					"games_count": 121943,
+					"image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+				}
+				}
+			],
+			"developers": [
+				{
+				"id": 8124,
+				"name": "Eggcode",
+				"slug": "eggcode",
+				"games_count": 3,
+				"image_background": "https://media.rawg.io/media/screenshots/c2d/c2dae3cba92171a8e92d897dc2078c37.jpg"
+				}
+			],
+			"genres": [
+				{
+				"id": 10,
+				"name": "Strategy",
+				"slug": "strategy",
+				"games_count": 62135,
+				"image_background": "https://media.rawg.io/media/games/f95/f95ec06eddda5c5bf206618c49cd3e68.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Simulation",
+				"slug": "simulation",
+				"games_count": 76455,
+				"image_background": "https://media.rawg.io/media/games/23b/23b69bfef2a1ce2e3dcdf1aa8ef1150b.jpg"
+				},
+				{
+				"id": 40,
+				"name": "Casual",
+				"slug": "casual",
+				"games_count": 66995,
+				"image_background": "https://media.rawg.io/media/screenshots/4f4/4f4722571e32954af43a4508607c1748.jpg"
+				},
+				{
+				"id": 51,
+				"name": "Indie",
+				"slug": "indie",
+				"games_count": 85395,
+				"image_background": "https://media.rawg.io/media/games/48c/48cb04ca483be865e3a83119c94e6097.jpg"
+				}
+			],
+			"tags": [
+				{
+				"id": 31,
+				"name": "Singleplayer",
+				"slug": "singleplayer",
+				"language": "eng",
+				"games_count": 249658,
+				"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				{
+				"id": 7,
+				"name": "Multiplayer",
+				"slug": "multiplayer",
+				"language": "eng",
+				"games_count": 42353,
+				"image_background": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg"
+				},
+				{
+				"id": 13,
+				"name": "Atmospheric",
+				"slug": "atmospheric",
+				"language": "eng",
+				"games_count": 39412,
+				"image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+				},
+				{
+				"id": 4,
+				"name": "Funny",
+				"slug": "funny",
+				"language": "eng",
+				"games_count": 28666,
+				"image_background": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Early Access",
+				"slug": "early-access",
+				"language": "eng",
+				"games_count": 19327,
+				"image_background": "https://media.rawg.io/media/games/447/4470c1e76f01acfaf5af9c207d1c1c92.jpg"
+				},
+				{
+				"id": 165,
+				"name": "Colorful",
+				"slug": "colorful",
+				"language": "eng",
+				"games_count": 28639,
+				"image_background": "https://media.rawg.io/media/screenshots/375/375f84d018242d7519a230f623981217.jpg"
+				},
+				{
+				"id": 125,
+				"name": "Crafting",
+				"slug": "crafting",
+				"language": "eng",
+				"games_count": 5461,
+				"image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+				},
+				{
+				"id": 99,
+				"name": "Isometric",
+				"slug": "isometric",
+				"language": "eng",
+				"games_count": 5277,
+				"image_background": "https://media.rawg.io/media/games/b17/b175178f8842276b8b18b339fe3146a1.jpg"
+				},
+				{
+				"id": 39,
+				"name": "Building",
+				"slug": "building",
+				"language": "eng",
+				"games_count": 7474,
+				"image_background": "https://media.rawg.io/media/screenshots/ac7/ac707457a89f1f7d15ef5934a26ea21a.jpg"
+				},
+				{
+				"id": 61,
+				"name": "Top-Down",
+				"slug": "top-down",
+				"language": "eng",
+				"games_count": 28508,
+				"image_background": "https://media.rawg.io/media/games/341/3415bdd0f19cb034574e559f2ff163ab.jpg"
+				},
+				{
+				"id": 67,
+				"name": "Management",
+				"slug": "management",
+				"language": "eng",
+				"games_count": 9304,
+				"image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+				},
+				{
+				"id": 164,
+				"name": "Cartoony",
+				"slug": "cartoony",
+				"language": "eng",
+				"games_count": 8522,
+				"image_background": "https://media.rawg.io/media/screenshots/a50/a50f57cc5d6baa0d54ae22e039be510d.jpg"
+				},
+				{
+				"id": 195,
+				"name": "Economy",
+				"slug": "economy",
+				"language": "eng",
+				"games_count": 3254,
+				"image_background": "https://media.rawg.io/media/screenshots/8ba/8ba023119cc83dff0d1d535f12e6b348.jpg"
+				},
+				{
+				"id": 179,
+				"name": "Cartoon",
+				"slug": "cartoon",
+				"language": "eng",
+				"games_count": 7658,
+				"image_background": "https://media.rawg.io/media/games/f39/f394c09e4760251c58e9ab9f45d7718c.jpg"
+				},
+				{
+				"id": 213,
+				"name": "City Builder",
+				"slug": "city-builder",
+				"language": "eng",
+				"games_count": 3149,
+				"image_background": "https://media.rawg.io/media/games/725/725d08c4174c129ce5275c43cd0347c6.jpg"
+				},
+				{
+				"id": 245,
+				"name": "Trading",
+				"slug": "trading",
+				"language": "eng",
+				"games_count": 1475,
+				"image_background": "https://media.rawg.io/media/screenshots/8ba/8ba023119cc83dff0d1d535f12e6b348.jpg"
+				},
+				{
+				"id": 262,
+				"name": "Capitalism",
+				"slug": "capitalism",
+				"language": "eng",
+				"games_count": 1257,
+				"image_background": "https://media.rawg.io/media/games/826/8268937033816c09a50bb5a98e17b33c.jpg"
+				},
+				{
+				"id": 228,
+				"name": "Programming",
+				"slug": "programming",
+				"language": "eng",
+				"games_count": 1671,
+				"image_background": "https://media.rawg.io/media/games/fe3/fe3ab374b913d3e44cf377e614526111.jpg"
+				},
+				{
+				"id": 92,
+				"name": "Game Development",
+				"slug": "game-development",
+				"language": "eng",
+				"games_count": 406,
+				"image_background": "https://media.rawg.io/media/screenshots/e2c/e2c800ba2adabc3444221d887ae620fe.jpg"
+				}
+			],
+			"publishers": [
+				{
+				"id": 6753,
+				"name": "Eggcode",
+				"slug": "eggcode",
+				"games_count": 3,
+				"image_background": "https://media.rawg.io/media/screenshots/b5e/b5ebc0ba73e592f0c1a7c1155052c86f.jpg"
+				}
+			],
+			"esrb_rating": null,
+			"clip": null,
+			"description_raw": "Start your own game developer studio\nIt is the year 1976.A few revolutionaries set out to take over the entertainment industry. You too take the risky step and found your own game company in a small, unimpressive office.\nBuild your own studio with offices, production facilities and server rooms. Place decorative objects in your offices to increase prestige and attract the best employees in the industry. Watch out for pollution, heat and employment opportunities for your staff.\nBuy the most desirable offices and become the leading manufacturer of computer games and consoles.Develop games and consoles\nWith \"Mad Games Tycoon 2\" you have countless options to develop the game of your dreams. From a simple text adventure to expensive MMOs. Develop games for high-paying publishers or produce and distribute games from the competition. Do you want to publish your games on all consoles, or do you want to create the next exclusive hit for the most successful home computer? Design the most impressive next-gen console and dominate the hardware market.Dominate the game industry\nHire the most legendary game developers, sell your most advanced engines to the competition, or buy out all game developer studios. You have countless ways to influence the game industry. Guide your small studio through all crises and make it a market-leading company."
+		},
+		{
+			"id": 654,
+			"slug": "stardew-valley",
+			"name": "Stardew Valley",
+			"name_original": "Stardew Valley",
+			"description": "\u003Cp\u003EThe hero (in the beginning you can choose gender, name and appearance) - an office worker who inherited an abandoned farm. The landscape of the farm can also be selected. For example, you can decide whether there will be a river nearby for fishing.\u003Cbr /\u003E\nThe farm area needs to be cleared, and it will take time.\u003Cbr /\u003E\nThe hero has many different activities: plant and care for plants, raise livestock, practice crafts, extract ore, and also enter into relationships with residents of the neighbouring town to earn game money. Relationships with characters include communication, performing tasks for money, exchanging, searching for fossils and even military actions and marrying. The character is limited by the reserve of strength and health - both parameters are visible on the screen, and the game automatically puts the hero to rest if the limit of his capabilities is close. The game does not set any ultimate or primary goal, its many possibilities are designed for an unlimited time.\u003C/p\u003E",
+			"metacritic": 89,
+			"metacritic_platforms": [],
+			"released": "2016-02-25",
+			"tba": false,
+			"updated": "2025-11-23T18:23:30",
+			"background_image": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+			"background_image_additional": "https://media.rawg.io/media/screenshots/62b/62b36b00ffc3052880176fa9d20f2741.jpg",
+			"website": "http://www.stardewvalley.net",
+			"rating": 4.39,
+			"rating_top": 5,
+			"ratings": [
+				{
+				"id": 5,
+				"title": "exceptional",
+				"count": 1396,
+				"percent": 56.75
+				},
+				{
+				"id": 4,
+				"title": "recommended",
+				"count": 769,
+				"percent": 31.26
+				},
+				{
+				"id": 3,
+				"title": "meh",
+				"count": 230,
+				"percent": 9.35
+				},
+				{
+				"id": 1,
+				"title": "skip",
+				"count": 65,
+				"percent": 2.64
+				}
+			],
+			"reactions": {
+				"1": 5,
+				"2": 3,
+				"3": 11,
+				"4": 3,
+				"5": 2,
+				"7": 12,
+				"8": 5,
+				"9": 2,
+				"11": 3,
+				"12": 3,
+				"15": 1,
+				"16": 1,
+				"17": 1
+			},
+			"added": 10921,
+			"added_by_status": {
+				"yet": 478,
+				"owned": 7077,
+				"beaten": 1069,
+				"toplay": 370,
+				"dropped": 1192,
+				"playing": 735
+			},
+			"playtime": 13,
+			"screenshots_count": 39,
+			"movies_count": 1,
+			"creators_count": 1,
+			"achievements_count": 281,
+			"parent_achievements_count": 52,
+			"reddit_url": "https://www.reddit.com/r/StardewValley/",
+			"reddit_name": "",
+			"reddit_description": "",
+			"reddit_logo": "",
+			"reddit_count": 1667,
+			"twitch_count": 135,
+			"youtube_count": 1000000,
+			"reviews_text_count": 32,
+			"ratings_count": 2428,
+			"suggestions_count": 298,
+			"alternative_names": [],
+			"metacritic_url": "",
+			"parents_count": 0,
+			"additions_count": 0,
+			"game_series_count": 0,
+			"user_game": null,
+			"reviews_count": 2460,
+			"saturated_color": "0f0f0f",
+			"dominant_color": "0f0f0f",
+			"parent_platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "PC",
+					"slug": "pc"
+				}
+				},
+				{
+				"platform": {
+					"id": 2,
+					"name": "PlayStation",
+					"slug": "playstation"
+				}
+				},
+				{
+				"platform": {
+					"id": 3,
+					"name": "Xbox",
+					"slug": "xbox"
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "iOS",
+					"slug": "ios"
+				}
+				},
+				{
+				"platform": {
+					"id": 8,
+					"name": "Android",
+					"slug": "android"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "Apple Macintosh",
+					"slug": "mac"
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux"
+				}
+				},
+				{
+				"platform": {
+					"id": 7,
+					"name": "Nintendo",
+					"slug": "nintendo"
+				}
+				}
+			],
+			"platforms": [
+				{
+				"platform": {
+					"id": 7,
+					"name": "Nintendo Switch",
+					"slug": "nintendo-switch",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 5723,
+					"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 1,
+					"name": "Xbox One",
+					"slug": "xbox-one",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 5714,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "PC",
+					"slug": "pc",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 559861,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 3,
+					"name": "iOS",
+					"slug": "ios",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 77421,
+					"image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+					"minimum": "iPhone 5, iPad Fourth Gen, iPad Fourth Gen 4G, iPhone 5c, iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8,  Watch 4, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "macOS",
+					"slug": "macos",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 107930,
+					"image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 80296,
+					"image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 18,
+					"name": "PlayStation 4",
+					"slug": "playstation4",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 6951,
+					"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 19,
+					"name": "PS Vita",
+					"slug": "ps-vita",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 1457,
+					"image_background": "https://media.rawg.io/media/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 21,
+					"name": "Android",
+					"slug": "android",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 52491,
+					"image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+				},
+				"released_at": "2016-02-25",
+				"requirements": {
+					"minimum": "4.4 and up"
+				}
+				}
+			],
+			"stores": [
+				{
+				"id": 661,
+				"url": "",
+				"store": {
+					"id": 3,
+					"name": "PlayStation Store",
+					"slug": "playstation-store",
+					"domain": "store.playstation.com",
+					"games_count": 8062,
+					"image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+				}
+				},
+				{
+				"id": 256975,
+				"url": "",
+				"store": {
+					"id": 4,
+					"name": "App Store",
+					"slug": "apple-appstore",
+					"domain": "apps.apple.com",
+					"games_count": 75588,
+					"image_background": "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg"
+				}
+				},
+				{
+				"id": 9177,
+				"url": "",
+				"store": {
+					"id": 2,
+					"name": "Xbox Store",
+					"slug": "xbox-store",
+					"domain": "microsoft.com",
+					"games_count": 4930,
+					"image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+				}
+				},
+				{
+				"id": 10356,
+				"url": "",
+				"store": {
+					"id": 1,
+					"name": "Steam",
+					"slug": "steam",
+					"domain": "store.steampowered.com",
+					"games_count": 122741,
+					"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				}
+				},
+				{
+				"id": 26627,
+				"url": "",
+				"store": {
+					"id": 5,
+					"name": "GOG",
+					"slug": "gog",
+					"domain": "gog.com",
+					"games_count": 7062,
+					"image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+				}
+				},
+				{
+				"id": 33129,
+				"url": "",
+				"store": {
+					"id": 6,
+					"name": "Nintendo Store",
+					"slug": "nintendo",
+					"domain": "nintendo.com",
+					"games_count": 9142,
+					"image_background": "https://media.rawg.io/media/games/18c/18ca24ed4b700668c36b11ebc35f3d23.jpg"
+				}
+				},
+				{
+				"id": 307327,
+				"url": "",
+				"store": {
+					"id": 8,
+					"name": "Google Play",
+					"slug": "google-play",
+					"domain": "play.google.com",
+					"games_count": 17124,
+					"image_background": "https://media.rawg.io/media/games/be0/be084b850302abe81675bc4ffc08a0d0.jpg"
+				}
+				}
+			],
+			"developers": [
+				{
+				"id": 13355,
+				"name": "Chucklefish",
+				"slug": "chucklefish",
+				"games_count": 5,
+				"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				},
+				{
+				"id": 3474,
+				"name": "ConcernedApe",
+				"slug": "concernedape",
+				"games_count": 2,
+				"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				}
+			],
+			"genres": [
+				{
+				"id": 5,
+				"name": "RPG",
+				"slug": "role-playing-games-rpg",
+				"games_count": 61817,
+				"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Simulation",
+				"slug": "simulation",
+				"games_count": 76652,
+				"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+				},
+				{
+				"id": 51,
+				"name": "Indie",
+				"slug": "indie",
+				"games_count": 85971,
+				"image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+				}
+			],
+			"tags": [
+				{
+				"id": 31,
+				"name": "Singleplayer",
+				"slug": "singleplayer",
+				"language": "eng",
+				"games_count": 250424,
+				"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				{
+				"id": 40847,
+				"name": "Steam Achievements",
+				"slug": "steam-achievements",
+				"language": "eng",
+				"games_count": 51528,
+				"image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+				},
+				{
+				"id": 7,
+				"name": "Multiplayer",
+				"slug": "multiplayer",
+				"language": "eng",
+				"games_count": 42472,
+				"image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+				},
+				{
+				"id": 40849,
+				"name": "Steam Cloud",
+				"slug": "steam-cloud",
+				"language": "eng",
+				"games_count": 25626,
+				"image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+				},
+				{
+				"id": 13,
+				"name": "Atmospheric",
+				"slug": "atmospheric",
+				"language": "eng",
+				"games_count": 39608,
+				"image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+				},
+				{
+				"id": 7808,
+				"name": "steam-trading-cards",
+				"slug": "steam-trading-cards",
+				"language": "eng",
+				"games_count": 7568,
+				"image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+				},
+				{
+				"id": 42,
+				"name": "Great Soundtrack",
+				"slug": "great-soundtrack",
+				"language": "eng",
+				"games_count": 3451,
+				"image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+				},
+				{
+				"id": 24,
+				"name": "RPG",
+				"slug": "rpg",
+				"language": "eng",
+				"games_count": 26522,
+				"image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+				},
+				{
+				"id": 18,
+				"name": "Co-op",
+				"slug": "co-op",
+				"language": "eng",
+				"games_count": 14342,
+				"image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+				},
+				{
+				"id": 36,
+				"name": "Open World",
+				"slug": "open-world",
+				"language": "eng",
+				"games_count": 9231,
+				"image_background": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg"
+				},
+				{
+				"id": 45,
+				"name": "2D",
+				"slug": "2d",
+				"language": "eng",
+				"games_count": 207560,
+				"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				},
+				{
+				"id": 40845,
+				"name": "Partial Controller Support",
+				"slug": "partial-controller-support",
+				"language": "eng",
+				"games_count": 13967,
+				"image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg"
+				},
+				{
+				"id": 37,
+				"name": "Sandbox",
+				"slug": "sandbox",
+				"language": "eng",
+				"games_count": 8489,
+				"image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+				},
+				{
+				"id": 122,
+				"name": "Pixel Graphics",
+				"slug": "pixel-graphics",
+				"language": "eng",
+				"games_count": 99259,
+				"image_background": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg"
+				},
+				{
+				"id": 74,
+				"name": "Retro",
+				"slug": "retro",
+				"language": "eng",
+				"games_count": 44605,
+				"image_background": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg"
+				},
+				{
+				"id": 468,
+				"name": "role-playing",
+				"slug": "role-playing",
+				"language": "eng",
+				"games_count": 1655,
+				"image_background": "https://media.rawg.io/media/games/639/639ce7d7fecbb9f0717e9fbc1180f8f8.jpg"
+				},
+				{
+				"id": 88,
+				"name": "Cute",
+				"slug": "cute",
+				"language": "eng",
+				"games_count": 39681,
+				"image_background": "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg"
+				},
+				{
+				"id": 125,
+				"name": "Crafting",
+				"slug": "crafting",
+				"language": "eng",
+				"games_count": 5505,
+				"image_background": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg"
+				},
+				{
+				"id": 39,
+				"name": "Building",
+				"slug": "building",
+				"language": "eng",
+				"games_count": 7514,
+				"image_background": "https://media.rawg.io/media/games/c9e/c9e47fd222f631084879d395eee07d66.jpg"
+				},
+				{
+				"id": 337,
+				"name": "overlay",
+				"slug": "overlay",
+				"language": "eng",
+				"games_count": 217,
+				"image_background": "https://media.rawg.io/media/games/fd2/fd20a68d7ef195855588c937865dd0a7.jpg"
+				},
+				{
+				"id": 138,
+				"name": "Relaxing",
+				"slug": "relaxing",
+				"language": "eng",
+				"games_count": 21447,
+				"image_background": "https://media.rawg.io/media/screenshots/3b1/3b1855db98916d9d473922795f52a25a.jpeg"
+				},
+				{
+				"id": 160,
+				"name": "Dating Sim",
+				"slug": "dating-sim",
+				"language": "eng",
+				"games_count": 6797,
+				"image_background": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg"
+				},
+				{
+				"id": 46112,
+				"name": "Shared/Split Screen Co-op",
+				"slug": "sharedsplit-screen-co-op",
+				"language": "eng",
+				"games_count": 2611,
+				"image_background": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg"
+				},
+				{
+				"id": 338,
+				"name": "cloud saves",
+				"slug": "cloud-saves",
+				"language": "eng",
+				"games_count": 37,
+				"image_background": "https://media.rawg.io/media/screenshots/599/599aa44b6c50fba1e46a829ac67d9b33.jpg"
+				},
+				{
+				"id": 155,
+				"name": "Fishing",
+				"slug": "fishing",
+				"language": "eng",
+				"games_count": 2184,
+				"image_background": "https://media.rawg.io/media/games/870/870706c61c19d12dadecde9a1c18f9a8.jpg"
+				},
+				{
+				"id": 159,
+				"name": "Agriculture",
+				"slug": "agriculture",
+				"language": "eng",
+				"games_count": 859,
+				"image_background": "https://media.rawg.io/media/screenshots/c9f/c9f6a267a08609d634d62473173e8f0d.jpg"
+				},
+				{
+				"id": 409,
+				"name": "co-op multiplayer",
+				"slug": "co-op-multiplayer",
+				"language": "eng",
+				"games_count": 8,
+				"image_background": "https://media.rawg.io/media/games/d22/d22ea1bfb636fbf1a9c235cc304312a8.jpg"
+				}
+			],
+			"publishers": [
+				{
+				"id": 2647,
+				"name": "Chucklefish",
+				"slug": "chucklefish",
+				"games_count": 25,
+				"image_background": "https://media.rawg.io/media/screenshots/5be/5bef7d4db9d5ba2e83d94160baf3dcbc.jpg"
+				},
+				{
+				"id": 10389,
+				"name": "ConcernedApe",
+				"slug": "concernedape",
+				"games_count": 1,
+				"image_background": "https://media.rawg.io/media/screenshots/10f/10f97c2b3281cce02200a5f890bcb97a.jpg"
+				}
+			],
+			"esrb_rating": {
+				"id": 2,
+				"name": "Everyone 10+",
+				"slug": "everyone-10-plus"
+			},
+			"clip": null,
+			"description_raw": "The hero (in the beginning you can choose gender, name and appearance) - an office worker who inherited an abandoned farm. The landscape of the farm can also be selected. For example, you can decide whether there will be a river nearby for fishing.\nThe farm area needs to be cleared, and it will take time.\nThe hero has many different activities: plant and care for plants, raise livestock, practice crafts, extract ore, and also enter into relationships with residents of the neighbouring town to earn game money. Relationships with characters include communication, performing tasks for money, exchanging, searching for fossils and even military actions and marrying. The character is limited by the reserve of strength and health - both parameters are visible on the screen, and the game automatically puts the hero to rest if the limit of his capabilities is close. The game does not set any ultimate or primary goal, its many possibilities are designed for an unlimited time."
+		},
+		{
+			"id": 11726,
+			"slug": "dead-cells",
+			"name": "Dead Cells",
+			"name_original": "Dead Cells",
+			"description": "\u003Cp\u003EDead Cells is a roguelike adventure title developed by Motion Twin.\u003C/p\u003E\n\u003Ch3\u003EStory\u003C/h3\u003E\n\u003Cp\u003ENot much story is present in the game, as only bits of any information are given out to the players. The game takes place at a remote island, where the players take place of the Prisoner. The Prisoner does not speak, yet he can express confusion and frustration using his body language. The Prisoner is basically immortal, as, in case of death, his head disconnects itself from the Prisoner&#39;s body, and gets back to the game&#39;s starting area. \u003C/p\u003E\n\u003Ch3\u003EGameplay\u003C/h3\u003E\n\u003Cp\u003EThe game&#39;s heavily inspired by The Binding of Isaac, as stated by the developers.\u003C/p\u003E\n\u003Cp\u003EDead Cells features the procedurally generated environments that are typical for roguelike games, yet it puts a strong emphasis on exploration that is typically found in metroidvanias.\u003C/p\u003E\n\u003Cp\u003EThe players set out to explore the island where a prison was built. As the players come down into the dungeons of the island, they find various loot, fight dangerous creatures, collect armor, abilities, and power-ups. Upon death, the players lose all the loot they had on them. It is possible to find a shopkeep somewhere in the dungeons to purchase new equipment or have some rest. \u003C/p\u003E\n\u003Cp\u003EThe game uses death as a learning experience, as it randomizes the placement of enemies, so the players can&#39;t take multiple attempts to complete a level. The developers want the player to examine the enemy behavior and learn how to combat the enemies themselves.\u003C/p\u003E",
+			"metacritic": 88,
+			"metacritic_platforms": [
+				{
+				"metascore": 91,
+				"url": "https://www.metacritic.com/game/xbox-one/dead-cells",
+				"platform": {
+					"platform": 1,
+					"name": "Xbox One",
+					"slug": "xbox-one"
+				}
+				},
+				{
+				"metascore": 89,
+				"url": "https://www.metacritic.com/game/switch/dead-cells",
+				"platform": {
+					"platform": 7,
+					"name": "Nintendo Switch",
+					"slug": "nintendo-switch"
+				}
+				},
+				{
+				"metascore": 87,
+				"url": "https://www.metacritic.com/game/playstation-4/dead-cells",
+				"platform": {
+					"platform": 18,
+					"name": "PlayStation 4",
+					"slug": "playstation4"
+				}
+				},
+				{
+				"metascore": 84,
+				"url": "https://www.metacritic.com/game/ios/dead-cells",
+				"platform": {
+					"platform": 3,
+					"name": "iOS",
+					"slug": "ios"
+				}
+				},
+				{
+				"metascore": 89,
+				"url": "https://www.metacritic.com/game/pc/dead-cells",
+				"platform": {
+					"platform": 4,
+					"name": "PC",
+					"slug": "pc"
+				}
+				}
+			],
+			"released": "2018-08-07",
+			"tba": false,
+			"updated": "2025-11-24T05:00:10",
+			"background_image": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+			"background_image_additional": "https://media.rawg.io/media/screenshots/936/936c60f9b17b7c959b416b2b9ed32b8a.jpg",
+			"website": "https://dead-cells.com/",
+			"rating": 4.24,
+			"rating_top": 4,
+			"ratings": [
+				{
+				"id": 4,
+				"title": "recommended",
+				"count": 871,
+				"percent": 49.74
+				},
+				{
+				"id": 5,
+				"title": "exceptional",
+				"count": 679,
+				"percent": 38.78
+				},
+				{
+				"id": 3,
+				"title": "meh",
+				"count": 171,
+				"percent": 9.77
+				},
+				{
+				"id": 1,
+				"title": "skip",
+				"count": 30,
+				"percent": 1.71
+				}
+			],
+			"reactions": {
+				"1": 2,
+				"2": 6,
+				"3": 8,
+				"4": 1,
+				"5": 3,
+				"6": 8,
+				"9": 1,
+				"10": 1,
+				"11": 4,
+				"12": 2,
+				"15": 1
+			},
+			"added": 7249,
+			"added_by_status": {
+				"yet": 380,
+				"owned": 4290,
+				"beaten": 793,
+				"toplay": 549,
+				"dropped": 840,
+				"playing": 397
+			},
+			"playtime": 10,
+			"screenshots_count": 13,
+			"movies_count": 2,
+			"creators_count": 0,
+			"achievements_count": 502,
+			"parent_achievements_count": 84,
+			"reddit_url": "https://www.reddit.com/r/deadcells/",
+			"reddit_name": "",
+			"reddit_description": "",
+			"reddit_logo": "",
+			"reddit_count": 8822,
+			"twitch_count": 117,
+			"youtube_count": 1000000,
+			"reviews_text_count": 26,
+			"ratings_count": 1725,
+			"suggestions_count": 361,
+			"alternative_names": [],
+			"metacritic_url": "https://www.metacritic.com/game/pc/dead-cells",
+			"parents_count": 0,
+			"additions_count": 9,
+			"game_series_count": 0,
+			"user_game": null,
+			"reviews_count": 1751,
+			"saturated_color": "0f0f0f",
+			"dominant_color": "0f0f0f",
+			"parent_platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "PC",
+					"slug": "pc"
+				}
+				},
+				{
+				"platform": {
+					"id": 2,
+					"name": "PlayStation",
+					"slug": "playstation"
+				}
+				},
+				{
+				"platform": {
+					"id": 3,
+					"name": "Xbox",
+					"slug": "xbox"
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "iOS",
+					"slug": "ios"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "Apple Macintosh",
+					"slug": "mac"
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux"
+				}
+				},
+				{
+				"platform": {
+					"id": 7,
+					"name": "Nintendo",
+					"slug": "nintendo"
+				}
+				}
+			],
+			"platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "Xbox One",
+					"slug": "xbox-one",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 5714,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 7,
+					"name": "Nintendo Switch",
+					"slug": "nintendo-switch",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 5723,
+					"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 18,
+					"name": "PlayStation 4",
+					"slug": "playstation4",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 6951,
+					"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "macOS",
+					"slug": "macos",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 107930,
+					"image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 80296,
+					"image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 3,
+					"name": "iOS",
+					"slug": "ios",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 77421,
+					"image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+					"minimum": "iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "PC",
+					"slug": "pc",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 559861,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				"released_at": "2018-08-07",
+				"requirements": {
+					"minimum": "7 / 8 / 10Processor: Intel i5+Memory: 4 GB RAMGraphics: Nvidia GTX 460 / Radeon HD 7800 or betterStorage: 500 MB available spaceMouse, KeyboardAdditional Notes: OpenGL 3.2+"
+				}
+				}
+			],
+			"stores": [
+				{
+				"id": 12860,
+				"url": "",
+				"store": {
+					"id": 1,
+					"name": "Steam",
+					"slug": "steam",
+					"domain": "store.steampowered.com",
+					"games_count": 122741,
+					"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				}
+				},
+				{
+				"id": 43569,
+				"url": "",
+				"store": {
+					"id": 5,
+					"name": "GOG",
+					"slug": "gog",
+					"domain": "gog.com",
+					"games_count": 7062,
+					"image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+				}
+				},
+				{
+				"id": 46800,
+				"url": "",
+				"store": {
+					"id": 6,
+					"name": "Nintendo Store",
+					"slug": "nintendo",
+					"domain": "nintendo.com",
+					"games_count": 9142,
+					"image_background": "https://media.rawg.io/media/games/18c/18ca24ed4b700668c36b11ebc35f3d23.jpg"
+				}
+				},
+				{
+				"id": 49428,
+				"url": "",
+				"store": {
+					"id": 2,
+					"name": "Xbox Store",
+					"slug": "xbox-store",
+					"domain": "microsoft.com",
+					"games_count": 4930,
+					"image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+				}
+				},
+				{
+				"id": 49408,
+				"url": "",
+				"store": {
+					"id": 3,
+					"name": "PlayStation Store",
+					"slug": "playstation-store",
+					"domain": "store.playstation.com",
+					"games_count": 8062,
+					"image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+				}
+				},
+				{
+				"id": 265552,
+				"url": "",
+				"store": {
+					"id": 9,
+					"name": "itch.io",
+					"slug": "itch",
+					"domain": "itch.io",
+					"games_count": 654175,
+					"image_background": "https://media.rawg.io/media/games/8cd/8cd179c85bd3de8f79bef245b15075fb.jpg"
+				}
+				},
+				{
+				"id": 342344,
+				"url": "",
+				"store": {
+					"id": 4,
+					"name": "App Store",
+					"slug": "apple-appstore",
+					"domain": "apps.apple.com",
+					"games_count": 75588,
+					"image_background": "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg"
+				}
+				},
+				{
+				"id": 593068,
+				"url": "",
+				"store": {
+					"id": 11,
+					"name": "Epic Games",
+					"slug": "epic-games",
+					"domain": "epicgames.com",
+					"games_count": 1427,
+					"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				}
+				}
+			],
+			"developers": [
+				{
+				"id": 2590,
+				"name": "Plug In Digital",
+				"slug": "plug-in-digital",
+				"games_count": 244,
+				"image_background": "https://media.rawg.io/media/screenshots/9df/9df4944fa944e49b67b21c36aba624ae.jpg"
+				},
+				{
+				"id": 458,
+				"name": "Playdigious",
+				"slug": "playdigious",
+				"games_count": 27,
+				"image_background": "https://media.rawg.io/media/screenshots/351/351ee0915fcd5a64e976791794039d5c.jpg"
+				},
+				{
+				"id": 5631,
+				"name": "Motion Twin",
+				"slug": "motion-twin",
+				"games_count": 18,
+				"image_background": "https://media.rawg.io/media/screenshots/7cd/7cd0a27492e38d8740d982212ec1a78f.jpg"
+				}
+			],
+			"genres": [
+				{
+				"id": 4,
+				"name": "Action",
+				"slug": "action",
+				"games_count": 191231,
+				"image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+				},
+				{
+				"id": 5,
+				"name": "RPG",
+				"slug": "role-playing-games-rpg",
+				"games_count": 61817,
+				"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+				},
+				{
+				"id": 51,
+				"name": "Indie",
+				"slug": "indie",
+				"games_count": 85971,
+				"image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+				},
+				{
+				"id": 83,
+				"name": "Platformer",
+				"slug": "platformer",
+				"games_count": 100906,
+				"image_background": "https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg"
+				}
+			],
+			"tags": [
+				{
+				"id": 31,
+				"name": "Singleplayer",
+				"slug": "singleplayer",
+				"language": "eng",
+				"games_count": 250424,
+				"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				{
+				"id": 40847,
+				"name": "Steam Achievements",
+				"slug": "steam-achievements",
+				"language": "eng",
+				"games_count": 51528,
+				"image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+				},
+				{
+				"id": 40836,
+				"name": "Full controller support",
+				"slug": "full-controller-support",
+				"language": "eng",
+				"games_count": 24060,
+				"image_background": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg"
+				},
+				{
+				"id": 40849,
+				"name": "Steam Cloud",
+				"slug": "steam-cloud",
+				"language": "eng",
+				"games_count": 25626,
+				"image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+				},
+				{
+				"id": 13,
+				"name": "Atmospheric",
+				"slug": "atmospheric",
+				"language": "eng",
+				"games_count": 39608,
+				"image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+				},
+				{
+				"id": 42,
+				"name": "Great Soundtrack",
+				"slug": "great-soundtrack",
+				"language": "eng",
+				"games_count": 3451,
+				"image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+				},
+				{
+				"id": 24,
+				"name": "RPG",
+				"slug": "rpg",
+				"language": "eng",
+				"games_count": 26522,
+				"image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+				},
+				{
+				"id": 45,
+				"name": "2D",
+				"slug": "2d",
+				"language": "eng",
+				"games_count": 207560,
+				"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				},
+				{
+				"id": 49,
+				"name": "Difficult",
+				"slug": "difficult",
+				"language": "eng",
+				"games_count": 14290,
+				"image_background": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg"
+				},
+				{
+				"id": 122,
+				"name": "Pixel Graphics",
+				"slug": "pixel-graphics",
+				"language": "eng",
+				"games_count": 99259,
+				"image_background": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Early Access",
+				"slug": "early-access",
+				"language": "eng",
+				"games_count": 19450,
+				"image_background": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg"
+				},
+				{
+				"id": 68,
+				"name": "Hack and Slash",
+				"slug": "hack-and-slash",
+				"language": "eng",
+				"games_count": 5332,
+				"image_background": "https://media.rawg.io/media/games/8e6/8e699e91cf77c2060b6d515e2135b1b1.jpg"
+				},
+				{
+				"id": 5,
+				"name": "Replay Value",
+				"slug": "replay-value",
+				"language": "eng",
+				"games_count": 2253,
+				"image_background": "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg"
+				},
+				{
+				"id": 113,
+				"name": "Side Scroller",
+				"slug": "side-scroller",
+				"language": "eng",
+				"games_count": 11825,
+				"image_background": "https://media.rawg.io/media/games/598/59851e152a6898c8bf79069b5bf2f4db.jpg"
+				},
+				{
+				"id": 639,
+				"name": "Roguelike",
+				"slug": "roguelike",
+				"language": "eng",
+				"games_count": 15124,
+				"image_background": "https://media.rawg.io/media/games/e40/e40cc9d1957b0a0ed7e389834457b524.jpg"
+				},
+				{
+				"id": 259,
+				"name": "Metroidvania",
+				"slug": "metroidvania",
+				"language": "eng",
+				"games_count": 4712,
+				"image_background": "https://media.rawg.io/media/games/c47/c4796c4c49e7e06ad328e07aa8944cdd.jpg"
+				},
+				{
+				"id": 640,
+				"name": "Roguelite",
+				"slug": "roguelite",
+				"language": "eng",
+				"games_count": 8648,
+				"image_background": "https://media.rawg.io/media/screenshots/71c/71c015df012029897e87ac00b7a8de4c.jpg"
+				},
+				{
+				"id": 196,
+				"name": "Procedural Generation",
+				"slug": "procedural-generation",
+				"language": "eng",
+				"games_count": 8950,
+				"image_background": "https://media.rawg.io/media/screenshots/b25/b258a515226ab56c46ac8619cacb8f26.jpeg"
+				},
+				{
+				"id": 124,
+				"name": "Perma Death",
+				"slug": "perma-death",
+				"language": "eng",
+				"games_count": 2771,
+				"image_background": "https://media.rawg.io/media/games/cef/cefedf18016cbab466861eb698daf988.jpg"
+				}
+			],
+			"publishers": [
+				{
+				"id": 515,
+				"name": "Plug In Digital",
+				"slug": "plug-in-digital-2",
+				"games_count": 275,
+				"image_background": "https://media.rawg.io/media/screenshots/78f/78fbf5f53e62e0b37764f17fa14609e2.jpg"
+				},
+				{
+				"id": 334,
+				"name": "Playdigious",
+				"slug": "playdigious",
+				"games_count": 25,
+				"image_background": "https://media.rawg.io/media/screenshots/351/351ee0915fcd5a64e976791794039d5c.jpg"
+				},
+				{
+				"id": 4867,
+				"name": "Motion Twin",
+				"slug": "motion-twin",
+				"games_count": 11,
+				"image_background": "https://media.rawg.io/media/screenshots/cd2/cd21b5eb78d65e70f72abe5204364665.jpg"
+				}
+			],
+			"esrb_rating": {
+				"id": 3,
+				"name": "Teen",
+				"slug": "teen"
+			},
+			"clip": null,
+			"description_raw": "Dead Cells is a roguelike adventure title developed by Motion Twin.\n\n###Story\nNot much story is present in the game, as only bits of any information are given out to the players. The game takes place at a remote island, where the players take place of the Prisoner. The Prisoner does not speak, yet he can express confusion and frustration using his body language. The Prisoner is basically immortal, as, in case of death, his head disconnects itself from the Prisoner's body, and gets back to the game's starting area. \n\n###Gameplay\nThe game's heavily inspired by The Binding of Isaac, as stated by the developers.\n\nDead Cells features the procedurally generated environments that are typical for roguelike games, yet it puts a strong emphasis on exploration that is typically found in metroidvanias.\n\nThe players set out to explore the island where a prison was built. As the players come down into the dungeons of the island, they find various loot, fight dangerous creatures, collect armor, abilities, and power-ups. Upon death, the players lose all the loot they had on them. It is possible to find a shopkeep somewhere in the dungeons to purchase new equipment or have some rest. \n\nThe game uses death as a learning experience, as it randomizes the placement of enemies, so the players can't take multiple attempts to complete a level. The developers want the player to examine the enemy behavior and learn how to combat the enemies themselves."
+		},
+		{
+			"id": 9736,
+			"slug": "slime-rancher",
+			"name": "Slime Rancher",
+			"name_original": "Slime Rancher",
+			"description": "\u003Cp\u003EIn the far-distant future, far, far away in space (to be exact, a thousand light-years from the Earth), on the planet Far, Far Range, mega-corporations (they, it turns out, will be with us in the distant future!) discovered the ideal source of income, universal natural resource - Plort.\u003C/p\u003E\n\u003Cp\u003EYou can produce almost anything from Plot - from food and household chemicals, to solid alloys and incredibly powerful batteries.\u003C/p\u003E\n\u003Cp\u003EPlort is a concentrated mucus produced by slimes - jelly-like living organisms of various species and characteristics.\u003C/p\u003E\n\u003Cp\u003ESlimes, unfortunately, can not be taken to Earth to breed and receive the right amount of Plort. We have to fly to &#39;Far, Far Range&#39;, to build there something like a ranch for slimes and for all this to hire earthlings. One of these earthlings, the space rancheros, the brave young girl Beatrix LeBeau is the character of the game. The girl (and the player) will fly a thousand light-years in a deep sleep to equip a ranch from a Hobson Twillgers, study the planet&#39;s environment, collect, feed and breed slimes.\u003C/p\u003E\n\u003Cp\u003ETo get the necessary hints the girl can look for notes of the former owner - they meet on the territory of the ranch, and also communicate via Star Mail with a close friend from the Earth. In conversations with a friend, we learn a lot of things about the former, earthly life of the heroine - this information will be important.\u003C/p\u003E\n\u003Ch3\u003EGameplay and economics\u003C/h3\u003E\n\u003Cp\u003ESlimes need to be fed, and this is important. The rest they will do themselves.\u003Cbr /\u003E\nIt is necessary to feed them not by anything, but by appropriate products. But slimes will produce a lot of Plort - and Plort can be sold on the market, having received currency - newbucks. For newbucks you can buy equipment for ranches and so on. The world of the game is not known until the end, it is possible and necessary to travel through it, opening up new locations, finding new slimes for the ranch, as well as food for slimes and other new resources.\u003C/p\u003E\n\u003Cp\u003EFrom different types of slimes you can get hybrids. However, with this you need to be more careful - you can get aggressive evil slimes, which will have to be dissolved with water.\u003C/p\u003E\n\u003Cp\u003ESlimes are quite diverse. Ordinary slimes are generally friendly, but they can be dangerous not because of evil will, but because of some natural features like thorns, emitted radiation or the ability to explode.\u003C/p\u003E\n\u003Cp\u003ESome slimes are more productive than others, they produce more Plort. It is these slimes that are created by hybridization, since it is difficult to find them in a natural environment.\u003C/p\u003E\n\u003Cp\u003EOrdinary slimes sometimes merge into a huge Gordo-slime - inside such organisms there are often valuable resources and other interesting and useful things. To get all this, you need to blow up the Gordo-slime.\u003C/p\u003E\n\u003Ch3\u003EGame modes\u003C/h3\u003E\n\u003Cp\u003EAdventure. The world is open for research, there are no serious restrictions. You can develop as you want. You can communicate with other ranchers, carry out their assignments and exchange resources with them. \u003C/p\u003E\n\u003Cp\u003ECarefree is an adventure mode that goes even easier.\u003C/p\u003E\n\u003Cp\u003EThe five-day trial is a mode in which you need to earn as many newbucks as possible in 5 days.\u003C/p\u003E\n\u003Cp\u003E&quot;The steel master of the ranch&quot; - the conditions in this mode are so complicated that it resembles a game of survival. In the mode there are unique tests that change the impression of the game.\u003C/p\u003E",
+			"metacritic": 81,
+			"metacritic_platforms": [],
+			"released": "2016-01-14",
+			"tba": false,
+			"updated": "2025-10-02T13:11:03",
+			"background_image": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg",
+			"background_image_additional": "https://media.rawg.io/media/screenshots/d1b/d1bf275b7f660a42dca6ac24d9a719b7.jpg",
+			"website": "http://slimerancher.com",
+			"rating": 3.87,
+			"rating_top": 4,
+			"ratings": [
+				{
+				"id": 4,
+				"title": "recommended",
+				"count": 332,
+				"percent": 56.56
+				},
+				{
+				"id": 5,
+				"title": "exceptional",
+				"count": 119,
+				"percent": 20.27
+				},
+				{
+				"id": 3,
+				"title": "meh",
+				"count": 106,
+				"percent": 18.06
+				},
+				{
+				"id": 1,
+				"title": "skip",
+				"count": 30,
+				"percent": 5.11
+				}
+			],
+			"reactions": {
+				"1": 1,
+				"3": 2,
+				"7": 2,
+				"9": 1,
+				"18": 1
+			},
+			"added": 3428,
+			"added_by_status": {
+				"yet": 141,
+				"owned": 2533,
+				"beaten": 300,
+				"toplay": 59,
+				"dropped": 319,
+				"playing": 76
+			},
+			"playtime": 6,
+			"screenshots_count": 37,
+			"movies_count": 4,
+			"creators_count": 1,
+			"achievements_count": 207,
+			"parent_achievements_count": 60,
+			"reddit_url": "https://www.reddit.com/r/slimerancher/",
+			"reddit_name": "",
+			"reddit_description": "",
+			"reddit_logo": "",
+			"reddit_count": 7693,
+			"twitch_count": 163,
+			"youtube_count": 1000000,
+			"reviews_text_count": 13,
+			"ratings_count": 574,
+			"suggestions_count": 439,
+			"alternative_names": [],
+			"metacritic_url": "",
+			"parents_count": 0,
+			"additions_count": 0,
+			"game_series_count": 1,
+			"user_game": null,
+			"reviews_count": 587,
+			"saturated_color": "0f0f0f",
+			"dominant_color": "0f0f0f",
+			"parent_platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "PC",
+					"slug": "pc"
+				}
+				},
+				{
+				"platform": {
+					"id": 2,
+					"name": "PlayStation",
+					"slug": "playstation"
+				}
+				},
+				{
+				"platform": {
+					"id": 3,
+					"name": "Xbox",
+					"slug": "xbox"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "Apple Macintosh",
+					"slug": "mac"
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux"
+				}
+				},
+				{
+				"platform": {
+					"id": 7,
+					"name": "Nintendo",
+					"slug": "nintendo"
+				}
+				}
+			],
+			"platforms": [
+				{
+				"platform": {
+					"id": 18,
+					"name": "PlayStation 4",
+					"slug": "playstation4",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 6951,
+					"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				},
+				"released_at": "2016-01-14",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 80296,
+					"image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+				},
+				"released_at": "2016-01-14",
+				"requirements": {
+					"minimum": "Minimum:\nOS: Ubuntu 12.04+ or equivalent\nProcessor: 2.2GHz Dual Core\nMemory: 4 GB RAM\nGraphics: OpenGL 3.2 compatible, 512 MB VRAM\nStorage: 1 GB available space\nSound Card: ALSA compatible"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "macOS",
+					"slug": "macos",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 107930,
+					"image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+				},
+				"released_at": "2016-01-14",
+				"requirements": {
+					"minimum": "Minimum:\nOS: OSX 10+\nProcessor: 2.2GHz Dual Core\nMemory: 4 GB RAM\nGraphics: OpenGL 3.2 compatible, 512 MB VRAM\nStorage: 1 GB available space"
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "PC",
+					"slug": "pc",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 559861,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				"released_at": "2016-01-14",
+				"requirements": {
+					"minimum": "Minimum:\nOS: Windows XP(SP3)+\nProcessor: 2.2GHz Dual Core\nMemory: 4 GB RAM\nGraphics: 512MB VRAM\nDirectX: Version 9.0c\nStorage: 1 GB available space"
+				}
+				},
+				{
+				"platform": {
+					"id": 7,
+					"name": "Nintendo Switch",
+					"slug": "nintendo-switch",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 5723,
+					"image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+				},
+				"released_at": "2016-01-14",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 1,
+					"name": "Xbox One",
+					"slug": "xbox-one",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 5714,
+					"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				"released_at": "2016-01-14",
+				"requirements": {
+
+				}
+				}
+			],
+			"stores": [
+				{
+				"id": 49523,
+				"url": "",
+				"store": {
+					"id": 3,
+					"name": "PlayStation Store",
+					"slug": "playstation-store",
+					"domain": "store.playstation.com",
+					"games_count": 8062,
+					"image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+				}
+				},
+				{
+				"id": 10613,
+				"url": "",
+				"store": {
+					"id": 1,
+					"name": "Steam",
+					"slug": "steam",
+					"domain": "store.steampowered.com",
+					"games_count": 122741,
+					"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				}
+				},
+				{
+				"id": 26733,
+				"url": "",
+				"store": {
+					"id": 5,
+					"name": "GOG",
+					"slug": "gog",
+					"domain": "gog.com",
+					"games_count": 7062,
+					"image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+				}
+				},
+				{
+				"id": 46458,
+				"url": "",
+				"store": {
+					"id": 2,
+					"name": "Xbox Store",
+					"slug": "xbox-store",
+					"domain": "microsoft.com",
+					"games_count": 4930,
+					"image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+				}
+				},
+				{
+				"id": 295677,
+				"url": "",
+				"store": {
+					"id": 11,
+					"name": "Epic Games",
+					"slug": "epic-games",
+					"domain": "epicgames.com",
+					"games_count": 1427,
+					"image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+				}
+				}
+			],
+			"developers": [
+				{
+				"id": 3717,
+				"name": "Monomi Park",
+				"slug": "monomi-park",
+				"games_count": 2,
+				"image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+				}
+			],
+			"genres": [
+				{
+				"id": 4,
+				"name": "Action",
+				"slug": "action",
+				"games_count": 191231,
+				"image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+				},
+				{
+				"id": 3,
+				"name": "Adventure",
+				"slug": "adventure",
+				"games_count": 151443,
+				"image_background": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Simulation",
+				"slug": "simulation",
+				"games_count": 76652,
+				"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+				},
+				{
+				"id": 51,
+				"name": "Indie",
+				"slug": "indie",
+				"games_count": 85971,
+				"image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+				}
+			],
+			"tags": [
+				{
+				"id": 31,
+				"name": "Singleplayer",
+				"slug": "singleplayer",
+				"language": "eng",
+				"games_count": 250424,
+				"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				{
+				"id": 40847,
+				"name": "Steam Achievements",
+				"slug": "steam-achievements",
+				"language": "eng",
+				"games_count": 51528,
+				"image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+				},
+				{
+				"id": 7,
+				"name": "Multiplayer",
+				"slug": "multiplayer",
+				"language": "eng",
+				"games_count": 42472,
+				"image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+				},
+				{
+				"id": 40836,
+				"name": "Full controller support",
+				"slug": "full-controller-support",
+				"language": "eng",
+				"games_count": 24060,
+				"image_background": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg"
+				},
+				{
+				"id": 40849,
+				"name": "Steam Cloud",
+				"slug": "steam-cloud",
+				"language": "eng",
+				"games_count": 25626,
+				"image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+				},
+				{
+				"id": 7808,
+				"name": "steam-trading-cards",
+				"slug": "steam-trading-cards",
+				"language": "eng",
+				"games_count": 7568,
+				"image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+				},
+				{
+				"id": 42,
+				"name": "Great Soundtrack",
+				"slug": "great-soundtrack",
+				"language": "eng",
+				"games_count": 3451,
+				"image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+				},
+				{
+				"id": 36,
+				"name": "Open World",
+				"slug": "open-world",
+				"language": "eng",
+				"games_count": 9231,
+				"image_background": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg"
+				},
+				{
+				"id": 8,
+				"name": "First-Person",
+				"slug": "first-person",
+				"language": "eng",
+				"games_count": 37313,
+				"image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+				},
+				{
+				"id": 30,
+				"name": "FPS",
+				"slug": "fps",
+				"language": "eng",
+				"games_count": 14954,
+				"image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+				},
+				{
+				"id": 64,
+				"name": "Fantasy",
+				"slug": "fantasy",
+				"language": "eng",
+				"games_count": 32880,
+				"image_background": "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg"
+				},
+				{
+				"id": 4,
+				"name": "Funny",
+				"slug": "funny",
+				"language": "eng",
+				"games_count": 28789,
+				"image_background": "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg"
+				},
+				{
+				"id": 6,
+				"name": "Exploration",
+				"slug": "exploration",
+				"language": "eng",
+				"games_count": 29156,
+				"image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+				},
+				{
+				"id": 37,
+				"name": "Sandbox",
+				"slug": "sandbox",
+				"language": "eng",
+				"games_count": 8489,
+				"image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+				},
+				{
+				"id": 189,
+				"name": "Female Protagonist",
+				"slug": "female-protagonist",
+				"language": "eng",
+				"games_count": 15507,
+				"image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Early Access",
+				"slug": "early-access",
+				"language": "eng",
+				"games_count": 19450,
+				"image_background": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg"
+				},
+				{
+				"id": 134,
+				"name": "Anime",
+				"slug": "anime",
+				"language": "eng",
+				"games_count": 16996,
+				"image_background": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg"
+				},
+				{
+				"id": 107,
+				"name": "Family Friendly",
+				"slug": "family-friendly",
+				"language": "eng",
+				"games_count": 10651,
+				"image_background": "https://media.rawg.io/media/games/297/297a51aa1f0999016d5a35e2e1d6d8ab.jpg"
+				},
+				{
+				"id": 88,
+				"name": "Cute",
+				"slug": "cute",
+				"language": "eng",
+				"games_count": 39681,
+				"image_background": "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg"
+				},
+				{
+				"id": 336,
+				"name": "controller support",
+				"slug": "controller-support",
+				"language": "eng",
+				"games_count": 293,
+				"image_background": "https://media.rawg.io/media/screenshots/2fc/2fc6994425146f9dba3133400b414e29.jpg"
+				},
+				{
+				"id": 165,
+				"name": "Colorful",
+				"slug": "colorful",
+				"language": "eng",
+				"games_count": 28842,
+				"image_background": "https://media.rawg.io/media/games/444/4440f674e2bcb257e249a9ab595d8ab6.jpg"
+				},
+				{
+				"id": 67,
+				"name": "Management",
+				"slug": "management",
+				"language": "eng",
+				"games_count": 9372,
+				"image_background": "https://media.rawg.io/media/games/725/725d08c4174c129ce5275c43cd0347c6.jpg"
+				},
+				{
+				"id": 340,
+				"name": "in development",
+				"slug": "in-development",
+				"language": "eng",
+				"games_count": 23,
+				"image_background": "https://media.rawg.io/media/games/cbd/cbdaa32349be63a57099669be29dc7ca.jpg"
+				}
+			],
+			"publishers": [
+				{
+				"id": 3412,
+				"name": "Monomi Park",
+				"slug": "monomi-park",
+				"games_count": 2,
+				"image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+				}
+			],
+			"esrb_rating": {
+				"id": 2,
+				"name": "Everyone 10+",
+				"slug": "everyone-10-plus"
+			},
+			"clip": null,
+			"description_raw": "In the far-distant future, far, far away in space (to be exact, a thousand light-years from the Earth), on the planet Far, Far Range, mega-corporations (they, it turns out, will be with us in the distant future!) discovered the ideal source of income, universal natural resource - Plort.\n\nYou can produce almost anything from Plot - from food and household chemicals, to solid alloys and incredibly powerful batteries.\n\nPlort is a concentrated mucus produced by slimes - jelly-like living organisms of various species and characteristics.\n\nSlimes, unfortunately, can not be taken to Earth to breed and receive the right amount of Plort. We have to fly to 'Far, Far Range', to build there something like a ranch for slimes and for all this to hire earthlings. One of these earthlings, the space rancheros, the brave young girl Beatrix LeBeau is the character of the game. The girl (and the player) will fly a thousand light-years in a deep sleep to equip a ranch from a Hobson Twillgers, study the planet's environment, collect, feed and breed slimes.\n\nTo get the necessary hints the girl can look for notes of the former owner - they meet on the territory of the ranch, and also communicate via Star Mail with a close friend from the Earth. In conversations with a friend, we learn a lot of things about the former, earthly life of the heroine - this information will be important.\n\n###Gameplay and economics\nSlimes need to be fed, and this is important. The rest they will do themselves.\nIt is necessary to feed them not by anything, but by appropriate products. But slimes will produce a lot of Plort - and Plort can be sold on the market, having received currency - newbucks. For newbucks you can buy equipment for ranches and so on. The world of the game is not known until the end, it is possible and necessary to travel through it, opening up new locations, finding new slimes for the ranch, as well as food for slimes and other new resources.\n\nFrom different types of slimes you can get hybrids. However, with this you need to be more careful - you can get aggressive evil slimes, which will have to be dissolved with water.\n\nSlimes are quite diverse. Ordinary slimes are generally friendly, but they can be dangerous not because of evil will, but because of some natural features like thorns, emitted radiation or the ability to explode.\n\nSome slimes are more productive than others, they produce more Plort. It is these slimes that are created by hybridization, since it is difficult to find them in a natural environment.\n\nOrdinary slimes sometimes merge into a huge Gordo-slime - inside such organisms there are often valuable resources and other interesting and useful things. To get all this, you need to blow up the Gordo-slime.\n\n###Game modes\nAdventure. The world is open for research, there are no serious restrictions. You can develop as you want. You can communicate with other ranchers, carry out their assignments and exchange resources with them. \n\nCarefree is an adventure mode that goes even easier.\n\nThe five-day trial is a mode in which you need to earn as many newbucks as possible in 5 days.\n\n\"The steel master of the ranch\" - the conditions in this mode are so complicated that it resembles a game of survival. In the mode there are unique tests that change the impression of the game."
+		},
+		{
+			"id": 58209,
+			"slug": "dwarf-fortress",
+			"name": "Dwarf Fortress",
+			"name_original": "Dwarf Fortress",
+			"description": "\u003Cp\u003EPrepare for the deepest, most intricate simulation of a world that has ever been created.\u003Cbr /\u003E\nNot just generated geometry -- a whole simulated world. Generated rise and fall of civilizations, personalities, creatures, cultures, etc. Infinite hours of gameplay.\u003Cbr /\u003E\nNow with graphics! (Optional ASCII mode available.)\u003Cbr /\u003E\nSteam Workshop integration for easier modding\u003Cbr /\u003E\nA lifetime “living” project - created/updated since 2003, with no end in sight\u003Cbr /\u003E\nGenerate your unique world and manage a bustling colony of dwarves, even as they probably mine towards their eventual demise.\u003Cbr /\u003E\nOptional ADVENTURER MODE: explore the generated world as a single hero in an RPG\u003Cbr /\u003E\nOptional LEGENDS MODE: read the history of the generated world and your games in it\u003Cbr /\u003E\nA new endless hobby, just for you!\u003Cbr /\u003E\nThe legendary Dwarf Fortress is now on Steam! Build a fortress and try to help your dwarves survive, despite threats of starvation, dragons, and madness.\u003Cbr /\u003E\nIn this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.\u003Cbr /\u003E\nThe combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.\u003Cbr /\u003E\nIt’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.\u003Cbr /\u003E\nYour purchase includes Dwarf Fortress Classic if you prefer to play without graphics or music or Steam-specific features, in the “classic” beta branch.\u003Cbr /\u003E\nRemember: Losing is fun!\u003Cbr /\u003E\nNothing substantial is new or changed, under the hood. It’s still good old Dwarf Fortress, but with graphics support and music by default. A few bells and whistles won’t change that.\u003Cbr /\u003E\nYou may already be familiar with the tile set mod packs from Michał “Mayday” Madej and Patrick Martin “Meph” Schroeder. They’re collaborating on an all-new, from-scratch tileset, as seen in the trailer and screenshots. Meanwhile, Dabu has composed a few musical tracks, to match the seasons, and some other audio bits and pieces.\u003Cbr /\u003E\nCommand your dwarves as they search for wealth in their generated mountain. Your dwarves will need a steady supply of food and beer, but they’ll also need your guidance in surviving attacks from hostile civilizations, the wilderness, or even the dead.\u003Cbr /\u003E\nCraft treasures and furnitures from various materials\u003Cbr /\u003E\nEstablish a barony and support the increasingly demanding nobility\u003Cbr /\u003E\nRead your dwarves’ thoughts to keep them happy\u003Cbr /\u003E\nBuild floodgates to divert water for farming, and/or prevent magma mishaps\u003Cbr /\u003E\nBuild structures and watch your dwarves discover and build their culture, like taverns, libraries, temples, honey, wax, pottery, animal training, bookbinding, and more.\u003Cbr /\u003E\nChoose a sentient race from your generated world (usually dwarf, human, or elf, but potentially goblin or animal person) and quest for glory.. Or seek vengeance.\u003Cbr /\u003E\nRecruit people to join you on your journey\u003Cbr /\u003E\nExplore without cumbersome plot restrictions, from capitals to catacombs, labyrinths to bandit camps.\u003Cbr /\u003E\nThe original nemesis system: Meet adversaries from the previous games\u003Cbr /\u003E\nEarn a reputation as a hero, soldier, thug, musician, etc, with various civilizations\u003Cbr /\u003E\nStealth system with vision arcs, respecting vegetation density and other factors\u003Cbr /\u003E\nUse signs like shoe impressions and animal tracks to hunt and avoid danger\u003Cbr /\u003E\nSteal a mummy’s treasure or learn forbidden secrets from a necromancer’s tower\u003Cbr /\u003E\nVisit your retired fortresses and meet your old dwarves -- even ask them to join you!\u003Cbr /\u003E\nThe original inspiration for RimWorld, Prison Architect, Minecraft and more.\u003Cbr /\u003E\nOne of the first video games acquired by the Museum of Modern Art in New York\u003Cbr /\u003E\nUpdated for over 16 years by two brothers, Tarn “Toady One” and Zach “Threetoe” Adams\u003Cbr /\u003E\nWith the goal of simulating all of existence, Bay 12 estimates they’re only about 42% done.\u003C/p\u003E",
+			"metacritic": 93,
+			"metacritic_platforms": [
+				{
+				"metascore": 93,
+				"url": "https://www.metacritic.com/game/pc/dwarf-fortress",
+				"platform": {
+					"platform": 4,
+					"name": "PC",
+					"slug": "pc"
+				}
+				}
+			],
+			"released": "2006-08-08",
+			"tba": false,
+			"updated": "2025-11-12T16:34:30",
+			"background_image": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
+			"background_image_additional": "https://media.rawg.io/media/screenshots/2ef/2efaa049235abb6c4ef81df9eeb1da11.jpg",
+			"website": "http://www.bay12games.com/dwarves/",
+			"rating": 4.33,
+			"rating_top": 5,
+			"ratings": [
+				{
+				"id": 5,
+				"title": "exceptional",
+				"count": 57,
+				"percent": 60
+				},
+				{
+				"id": 4,
+				"title": "recommended",
+				"count": 24,
+				"percent": 25.26
+				},
+				{
+				"id": 3,
+				"title": "meh",
+				"count": 8,
+				"percent": 8.42
+				},
+				{
+				"id": 1,
+				"title": "skip",
+				"count": 6,
+				"percent": 6.32
+				}
+			],
+			"reactions": {
+				"4": 1,
+				"6": 1,
+				"7": 1
+			},
+			"added": 869,
+			"added_by_status": {
+				"yet": 38,
+				"owned": 696,
+				"beaten": 11,
+				"toplay": 54,
+				"dropped": 51,
+				"playing": 19
+			},
+			"playtime": 3,
+			"screenshots_count": 8,
+			"movies_count": 0,
+			"creators_count": 2,
+			"achievements_count": 0,
+			"parent_achievements_count": 0,
+			"reddit_url": "https://www.reddit.com/r/dwarffortress/",
+			"reddit_name": "",
+			"reddit_description": "",
+			"reddit_logo": "",
+			"reddit_count": 9369,
+			"twitch_count": 0,
+			"youtube_count": 0,
+			"reviews_text_count": 1,
+			"ratings_count": 94,
+			"suggestions_count": 153,
+			"alternative_names": [],
+			"metacritic_url": "https://www.metacritic.com/game/pc/dwarf-fortress",
+			"parents_count": 0,
+			"additions_count": 0,
+			"game_series_count": 0,
+			"user_game": null,
+			"reviews_count": 95,
+			"saturated_color": "0f0f0f",
+			"dominant_color": "0f0f0f",
+			"parent_platforms": [
+				{
+				"platform": {
+					"id": 1,
+					"name": "PC",
+					"slug": "pc"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "Apple Macintosh",
+					"slug": "mac"
+				}
+				},
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux"
+				}
+				}
+			],
+			"platforms": [
+				{
+				"platform": {
+					"id": 6,
+					"name": "Linux",
+					"slug": "linux",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 80296,
+					"image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+				},
+				"released_at": "2006-08-08",
+				"requirements": {
+
+				}
+				},
+				{
+				"platform": {
+					"id": 4,
+					"name": "PC",
+					"slug": "pc",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 559861,
+					"image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+				},
+				"released_at": "2006-08-08",
+				"requirements": {
+					"minimum": "Minimum:\nOS: XP SP3 or later\nProcessor: Dual Core CPU - 2.4GHz+\nMemory: 4 GB RAM\nGraphics: 1GB of VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT\nStorage: 500 MB available space",
+					"recommended": "Recommended:\nProcessor: Dual Core CPU - 4GHz+\nMemory: 4 GB RAM\nStorage: 500 MB available space"
+				}
+				},
+				{
+				"platform": {
+					"id": 5,
+					"name": "macOS",
+					"slug": "macos",
+					"image": null,
+					"year_end": null,
+					"year_start": null,
+					"games_count": 107930,
+					"image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+				},
+				"released_at": "2006-08-08",
+				"requirements": {
+
+				}
+				}
+			],
+			"stores": [
+				{
+				"id": 302593,
+				"url": "",
+				"store": {
+					"id": 9,
+					"name": "itch.io",
+					"slug": "itch",
+					"domain": "itch.io",
+					"games_count": 654175,
+					"image_background": "https://media.rawg.io/media/games/8cd/8cd179c85bd3de8f79bef245b15075fb.jpg"
+				}
+				},
+				{
+				"id": 302592,
+				"url": "",
+				"store": {
+					"id": 1,
+					"name": "Steam",
+					"slug": "steam",
+					"domain": "store.steampowered.com",
+					"games_count": 122741,
+					"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+				}
+				}
+			],
+			"developers": [
+				{
+				"id": 27939,
+				"name": "Bay 12 Games",
+				"slug": "bay-12-games",
+				"games_count": 2,
+				"image_background": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg"
+				}
+			],
+			"genres": [
+				{
+				"id": 5,
+				"name": "RPG",
+				"slug": "role-playing-games-rpg",
+				"games_count": 61817,
+				"image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+				},
+				{
+				"id": 10,
+				"name": "Strategy",
+				"slug": "strategy",
+				"games_count": 62287,
+				"image_background": "https://media.rawg.io/media/games/d4b/d4bcd78873edd9992d93aff9cc8db0c8.jpg"
+				},
+				{
+				"id": 14,
+				"name": "Simulation",
+				"slug": "simulation",
+				"games_count": 76652,
+				"image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+				},
+				{
+				"id": 51,
+				"name": "Indie",
+				"slug": "indie",
+				"games_count": 85971,
+				"image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+				}
+			],
+			"tags": [
+				{
+				"id": 31,
+				"name": "Singleplayer",
+				"slug": "singleplayer",
+				"language": "eng",
+				"games_count": 250424,
+				"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+				},
+				{
+				"id": 24,
+				"name": "RPG",
+				"slug": "rpg",
+				"language": "eng",
+				"games_count": 26522,
+				"image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+				},
+				{
+				"id": 16,
+				"name": "Horror",
+				"slug": "horror",
+				"language": "eng",
+				"games_count": 49085,
+				"image_background": "https://media.rawg.io/media/games/198/1988a337305e008b41d7f536ce9b73f6.jpg"
+				},
+				{
+				"id": 64,
+				"name": "Fantasy",
+				"slug": "fantasy",
+				"language": "eng",
+				"games_count": 32880,
+				"image_background": "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg"
+				},
+				{
+				"id": 26,
+				"name": "Gore",
+				"slug": "gore",
+				"language": "eng",
+				"games_count": 6651,
+				"image_background": "https://media.rawg.io/media/games/7f6/7f6cd70ba2ad57053b4847c13569f2d8.jpg"
+				},
+				{
+				"id": 193,
+				"name": "Classic",
+				"slug": "classic",
+				"language": "eng",
+				"games_count": 1838,
+				"image_background": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg"
+				},
+				{
+				"id": 37,
+				"name": "Sandbox",
+				"slug": "sandbox",
+				"language": "eng",
+				"games_count": 8489,
+				"image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+				},
+				{
+				"id": 1,
+				"name": "Survival",
+				"slug": "survival",
+				"language": "eng",
+				"games_count": 10806,
+				"image_background": "https://media.rawg.io/media/games/d2c/d2c74dacd89fd817c2deb625b01adb1a.jpg"
+				},
+				{
+				"id": 34,
+				"name": "Violent",
+				"slug": "violent",
+				"language": "eng",
+				"games_count": 7838,
+				"image_background": "https://media.rawg.io/media/games/5bf/5bf88a28de96321c86561a65ee48e6c2.jpg"
+				},
+				{
+				"id": 40852,
+				"name": "Steam Workshop",
+				"slug": "steam-workshop",
+				"language": "eng",
+				"games_count": 1765,
+				"image_background": "https://media.rawg.io/media/games/806/8060a7663364ac23e15480728938d6f3.jpg"
+				},
+				{
+				"id": 639,
+				"name": "Roguelike",
+				"slug": "roguelike",
+				"language": "eng",
+				"games_count": 15124,
+				"image_background": "https://media.rawg.io/media/games/e40/e40cc9d1957b0a0ed7e389834457b524.jpg"
+				},
+				{
+				"id": 39,
+				"name": "Building",
+				"slug": "building",
+				"language": "eng",
+				"games_count": 7514,
+				"image_background": "https://media.rawg.io/media/games/c9e/c9e47fd222f631084879d395eee07d66.jpg"
+				},
+				{
+				"id": 180,
+				"name": "Base Building",
+				"slug": "base-building",
+				"language": "eng",
+				"games_count": 2972,
+				"image_background": "https://media.rawg.io/media/games/4a1/4a1e460708b6c2114e4735e04dc58510.jpg"
+				},
+				{
+				"id": 196,
+				"name": "Procedural Generation",
+				"slug": "procedural-generation",
+				"language": "eng",
+				"games_count": 8950,
+				"image_background": "https://media.rawg.io/media/screenshots/b25/b258a515226ab56c46ac8619cacb8f26.jpeg"
+				},
+				{
+				"id": 578,
+				"name": "Masterpiece",
+				"slug": "masterpiece",
+				"language": "eng",
+				"games_count": 302,
+				"image_background": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg"
+				},
+				{
+				"id": 460,
+				"name": "Endless",
+				"slug": "endless",
+				"language": "eng",
+				"games_count": 14740,
+				"image_background": "https://media.rawg.io/media/screenshots/4db/4dbe6762d5b7721e7ac412d6ab7661db.jpg"
+				},
+				{
+				"id": 49967,
+				"name": "Colony Sim",
+				"slug": "colony-sim-2",
+				"language": "eng",
+				"games_count": 805,
+				"image_background": "https://media.rawg.io/media/screenshots/2ce/2ce562d8a0cc10c9079567f519be5a48.jpg"
+				}
+			],
+			"publishers": [
+				{
+				"id": 4040,
+				"name": "Kitfox Games",
+				"slug": "kitfox-games",
+				"games_count": 12,
+				"image_background": "https://media.rawg.io/media/screenshots/31b/31b6521f998e617f47ee8369dfbee2b1.jpg"
+				}
+			],
+			"esrb_rating": null,
+			"clip": null,
+			"description_raw": "Prepare for the deepest, most intricate simulation of a world that has ever been created.\nNot just generated geometry -- a whole simulated world. Generated rise and fall of civilizations, personalities, creatures, cultures, etc. Infinite hours of gameplay.\nNow with graphics! (Optional ASCII mode available.)\nSteam Workshop integration for easier modding\nA lifetime “living” project - created/updated since 2003, with no end in sight\nGenerate your unique world and manage a bustling colony of dwarves, even as they probably mine towards their eventual demise.\nOptional ADVENTURER MODE: explore the generated world as a single hero in an RPG\nOptional LEGENDS MODE: read the history of the generated world and your games in it\nA new endless hobby, just for you!\nThe legendary Dwarf Fortress is now on Steam! Build a fortress and try to help your dwarves survive, despite threats of starvation, dragons, and madness.\nIn this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.\nThe combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.\nIt’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.\nYour purchase includes Dwarf Fortress Classic if you prefer to play without graphics or music or Steam-specific features, in the “classic” beta branch.\nRemember: Losing is fun!\nNothing substantial is new or changed, under the hood. It’s still good old Dwarf Fortress, but with graphics support and music by default. A few bells and whistles won’t change that.\nYou may already be familiar with the tile set mod packs from Michał “Mayday” Madej and Patrick Martin “Meph” Schroeder. They’re collaborating on an all-new, from-scratch tileset, as seen in the trailer and screenshots. Meanwhile, Dabu has composed a few musical tracks, to match the seasons, and some other audio bits and pieces.\nCommand your dwarves as they search for wealth in their generated mountain. Your dwarves will need a steady supply of food and beer, but they’ll also need your guidance in surviving attacks from hostile civilizations, the wilderness, or even the dead.\nCraft treasures and furnitures from various materials\nEstablish a barony and support the increasingly demanding nobility\nRead your dwarves’ thoughts to keep them happy\nBuild floodgates to divert water for farming, and/or prevent magma mishaps\nBuild structures and watch your dwarves discover and build their culture, like taverns, libraries, temples, honey, wax, pottery, animal training, bookbinding, and more.\nChoose a sentient race from your generated world (usually dwarf, human, or elf, but potentially goblin or animal person) and quest for glory.. Or seek vengeance.\nRecruit people to join you on your journey\nExplore without cumbersome plot restrictions, from capitals to catacombs, labyrinths to bandit camps.\nThe original nemesis system: Meet adversaries from the previous games\nEarn a reputation as a hero, soldier, thug, musician, etc, with various civilizations\nStealth system with vision arcs, respecting vegetation density and other factors\nUse signs like shoe impressions and animal tracks to hunt and avoid danger\nSteal a mummy’s treasure or learn forbidden secrets from a necromancer’s tower\nVisit your retired fortresses and meet your old dwarves -- even ask them to join you!\nThe original inspiration for RimWorld, Prison Architect, Minecraft and more.\nOne of the first video games acquired by the Museum of Modern Art in New York\nUpdated for over 16 years by two brothers, Tarn “Toady One” and Zach “Threetoe” Adams\nWith the goal of simulating all of existence, Bay 12 estimates they’re only about 42% done."
+		}
+	]
+}

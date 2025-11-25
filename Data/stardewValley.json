@@ -1,0 +1,662 @@
+{
+  "id": 654,
+  "slug": "stardew-valley",
+  "name": "Stardew Valley",
+  "name_original": "Stardew Valley",
+  "description": "\u003Cp\u003EThe hero (in the beginning you can choose gender, name and appearance) - an office worker who inherited an abandoned farm. The landscape of the farm can also be selected. For example, you can decide whether there will be a river nearby for fishing.\u003Cbr /\u003E\nThe farm area needs to be cleared, and it will take time.\u003Cbr /\u003E\nThe hero has many different activities: plant and care for plants, raise livestock, practice crafts, extract ore, and also enter into relationships with residents of the neighbouring town to earn game money. Relationships with characters include communication, performing tasks for money, exchanging, searching for fossils and even military actions and marrying. The character is limited by the reserve of strength and health - both parameters are visible on the screen, and the game automatically puts the hero to rest if the limit of his capabilities is close. The game does not set any ultimate or primary goal, its many possibilities are designed for an unlimited time.\u003C/p\u003E",
+  "metacritic": 89,
+  "metacritic_platforms": [],
+  "released": "2016-02-25",
+  "tba": false,
+  "updated": "2025-11-23T18:23:30",
+  "background_image": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/62b/62b36b00ffc3052880176fa9d20f2741.jpg",
+  "website": "http://www.stardewvalley.net",
+  "rating": 4.39,
+  "rating_top": 5,
+  "ratings": [
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 1396,
+      "percent": 56.75
+    },
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 769,
+      "percent": 31.26
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 230,
+      "percent": 9.35
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 65,
+      "percent": 2.64
+    }
+  ],
+  "reactions": {
+    "1": 5,
+    "2": 3,
+    "3": 11,
+    "4": 3,
+    "5": 2,
+    "7": 12,
+    "8": 5,
+    "9": 2,
+    "11": 3,
+    "12": 3,
+    "15": 1,
+    "16": 1,
+    "17": 1
+  },
+  "added": 10921,
+  "added_by_status": {
+    "yet": 478,
+    "owned": 7077,
+    "beaten": 1069,
+    "toplay": 370,
+    "dropped": 1192,
+    "playing": 735
+  },
+  "playtime": 13,
+  "screenshots_count": 39,
+  "movies_count": 1,
+  "creators_count": 1,
+  "achievements_count": 281,
+  "parent_achievements_count": 52,
+  "reddit_url": "https://www.reddit.com/r/StardewValley/",
+  "reddit_name": "",
+  "reddit_description": "",
+  "reddit_logo": "",
+  "reddit_count": 1667,
+  "twitch_count": 135,
+  "youtube_count": 1000000,
+  "reviews_text_count": 32,
+  "ratings_count": 2428,
+  "suggestions_count": 298,
+  "alternative_names": [],
+  "metacritic_url": "",
+  "parents_count": 0,
+  "additions_count": 0,
+  "game_series_count": 0,
+  "user_game": null,
+  "reviews_count": 2460,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      }
+    },
+    {
+      "platform": {
+        "id": 8,
+        "name": "Android",
+        "slug": "android"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      }
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5723,
+        "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5714,
+        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 559861,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "iOS",
+        "slug": "ios",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 77421,
+        "image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+        "minimum": "iPhone 5, iPad Fourth Gen, iPad Fourth Gen 4G, iPhone 5c, iPhone 5s, iPad Air, iPad Air Cellular, iPad Mini Retina, iPad Mini Retina Cellular, iPhone 6, iPhone 6 Plus, iPad Air 2, iPad Air 2 Cellular, iPad Mini 3, iPad Mini 3 Cellular, iPod Touch Sixth Gen, iPhone 6s, iPhone 6s Plus, iPad Mini 4, iPad Mini 4 Cellular, iPad Pro, iPad Pro Cellular, iPad Pro 9.7, iPad Pro 9.7 Cellular, iPhone SE, iPhone 7, iPhone 7 Plus, iPad 6 1 1, iPad 6 1 2, iPad 7 1, iPad 7 2, iPad 7 3, iPad 7 4, iPhone 8, iPhone 8 Plus, iPhone X, iPad 7 5, iPad 7 6, iPhone X S, iPhone X S Max, iPhone X R, iPad 8 1 2, iPad 8 3 4, iPad 8 5 6, iPad 8 7 8,  Watch 4, iPad Mini 5, iPad Mini 5 Cellular, iPad Air 3, iPad Air 3 Cellular, iPod Touch Seventh Gen"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 107930,
+        "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 80296,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 6951,
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 19,
+        "name": "PS Vita",
+        "slug": "ps-vita",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 1457,
+        "image_background": "https://media.rawg.io/media/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 21,
+        "name": "Android",
+        "slug": "android",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 52491,
+        "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+      },
+      "released_at": "2016-02-25",
+      "requirements": {
+        "minimum": "4.4 and up"
+      }
+    }
+  ],
+  "stores": [
+    {
+      "id": 661,
+      "url": "",
+      "store": {
+        "id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "games_count": 8062,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    },
+    {
+      "id": 256975,
+      "url": "",
+      "store": {
+        "id": 4,
+        "name": "App Store",
+        "slug": "apple-appstore",
+        "domain": "apps.apple.com",
+        "games_count": 75588,
+        "image_background": "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg"
+      }
+    },
+    {
+      "id": 9177,
+      "url": "",
+      "store": {
+        "id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "games_count": 4930,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      }
+    },
+    {
+      "id": 10356,
+      "url": "",
+      "store": {
+        "id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "games_count": 122741,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      }
+    },
+    {
+      "id": 26627,
+      "url": "",
+      "store": {
+        "id": 5,
+        "name": "GOG",
+        "slug": "gog",
+        "domain": "gog.com",
+        "games_count": 7062,
+        "image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+      }
+    },
+    {
+      "id": 33129,
+      "url": "",
+      "store": {
+        "id": 6,
+        "name": "Nintendo Store",
+        "slug": "nintendo",
+        "domain": "nintendo.com",
+        "games_count": 9142,
+        "image_background": "https://media.rawg.io/media/games/18c/18ca24ed4b700668c36b11ebc35f3d23.jpg"
+      }
+    },
+    {
+      "id": 307327,
+      "url": "",
+      "store": {
+        "id": 8,
+        "name": "Google Play",
+        "slug": "google-play",
+        "domain": "play.google.com",
+        "games_count": 17124,
+        "image_background": "https://media.rawg.io/media/games/be0/be084b850302abe81675bc4ffc08a0d0.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 13355,
+      "name": "Chucklefish",
+      "slug": "chucklefish",
+      "games_count": 5,
+      "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    },
+    {
+      "id": 3474,
+      "name": "ConcernedApe",
+      "slug": "concernedape",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "RPG",
+      "slug": "role-playing-games-rpg",
+      "games_count": 61817,
+      "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Simulation",
+      "slug": "simulation",
+      "games_count": 76652,
+      "image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Indie",
+      "slug": "indie",
+      "games_count": 85971,
+      "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 31,
+      "name": "Singleplayer",
+      "slug": "singleplayer",
+      "language": "eng",
+      "games_count": 250424,
+      "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+    },
+    {
+      "id": 40847,
+      "name": "Steam Achievements",
+      "slug": "steam-achievements",
+      "language": "eng",
+      "games_count": 51528,
+      "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "language": "eng",
+      "games_count": 42472,
+      "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+    },
+    {
+      "id": 40849,
+      "name": "Steam Cloud",
+      "slug": "steam-cloud",
+      "language": "eng",
+      "games_count": 25626,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Atmospheric",
+      "slug": "atmospheric",
+      "language": "eng",
+      "games_count": 39608,
+      "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+    },
+    {
+      "id": 7808,
+      "name": "steam-trading-cards",
+      "slug": "steam-trading-cards",
+      "language": "eng",
+      "games_count": 7568,
+      "image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Great Soundtrack",
+      "slug": "great-soundtrack",
+      "language": "eng",
+      "games_count": 3451,
+      "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+    },
+    {
+      "id": 24,
+      "name": "RPG",
+      "slug": "rpg",
+      "language": "eng",
+      "games_count": 26522,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Co-op",
+      "slug": "co-op",
+      "language": "eng",
+      "games_count": 14342,
+      "image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Open World",
+      "slug": "open-world",
+      "language": "eng",
+      "games_count": 9231,
+      "image_background": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg"
+    },
+    {
+      "id": 45,
+      "name": "2D",
+      "slug": "2d",
+      "language": "eng",
+      "games_count": 207560,
+      "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    },
+    {
+      "id": 40845,
+      "name": "Partial Controller Support",
+      "slug": "partial-controller-support",
+      "language": "eng",
+      "games_count": 13967,
+      "image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Sandbox",
+      "slug": "sandbox",
+      "language": "eng",
+      "games_count": 8489,
+      "image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Pixel Graphics",
+      "slug": "pixel-graphics",
+      "language": "eng",
+      "games_count": 99259,
+      "image_background": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Retro",
+      "slug": "retro",
+      "language": "eng",
+      "games_count": 44605,
+      "image_background": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg"
+    },
+    {
+      "id": 468,
+      "name": "role-playing",
+      "slug": "role-playing",
+      "language": "eng",
+      "games_count": 1655,
+      "image_background": "https://media.rawg.io/media/games/639/639ce7d7fecbb9f0717e9fbc1180f8f8.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Cute",
+      "slug": "cute",
+      "language": "eng",
+      "games_count": 39681,
+      "image_background": "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Crafting",
+      "slug": "crafting",
+      "language": "eng",
+      "games_count": 5505,
+      "image_background": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Building",
+      "slug": "building",
+      "language": "eng",
+      "games_count": 7514,
+      "image_background": "https://media.rawg.io/media/games/c9e/c9e47fd222f631084879d395eee07d66.jpg"
+    },
+    {
+      "id": 337,
+      "name": "overlay",
+      "slug": "overlay",
+      "language": "eng",
+      "games_count": 217,
+      "image_background": "https://media.rawg.io/media/games/fd2/fd20a68d7ef195855588c937865dd0a7.jpg"
+    },
+    {
+      "id": 138,
+      "name": "Relaxing",
+      "slug": "relaxing",
+      "language": "eng",
+      "games_count": 21447,
+      "image_background": "https://media.rawg.io/media/screenshots/3b1/3b1855db98916d9d473922795f52a25a.jpeg"
+    },
+    {
+      "id": 160,
+      "name": "Dating Sim",
+      "slug": "dating-sim",
+      "language": "eng",
+      "games_count": 6797,
+      "image_background": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg"
+    },
+    {
+      "id": 46112,
+      "name": "Shared/Split Screen Co-op",
+      "slug": "sharedsplit-screen-co-op",
+      "language": "eng",
+      "games_count": 2611,
+      "image_background": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg"
+    },
+    {
+      "id": 338,
+      "name": "cloud saves",
+      "slug": "cloud-saves",
+      "language": "eng",
+      "games_count": 37,
+      "image_background": "https://media.rawg.io/media/screenshots/599/599aa44b6c50fba1e46a829ac67d9b33.jpg"
+    },
+    {
+      "id": 155,
+      "name": "Fishing",
+      "slug": "fishing",
+      "language": "eng",
+      "games_count": 2184,
+      "image_background": "https://media.rawg.io/media/games/870/870706c61c19d12dadecde9a1c18f9a8.jpg"
+    },
+    {
+      "id": 159,
+      "name": "Agriculture",
+      "slug": "agriculture",
+      "language": "eng",
+      "games_count": 859,
+      "image_background": "https://media.rawg.io/media/screenshots/c9f/c9f6a267a08609d634d62473173e8f0d.jpg"
+    },
+    {
+      "id": 409,
+      "name": "co-op multiplayer",
+      "slug": "co-op-multiplayer",
+      "language": "eng",
+      "games_count": 8,
+      "image_background": "https://media.rawg.io/media/games/d22/d22ea1bfb636fbf1a9c235cc304312a8.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 2647,
+      "name": "Chucklefish",
+      "slug": "chucklefish",
+      "games_count": 25,
+      "image_background": "https://media.rawg.io/media/screenshots/5be/5bef7d4db9d5ba2e83d94160baf3dcbc.jpg"
+    },
+    {
+      "id": 10389,
+      "name": "ConcernedApe",
+      "slug": "concernedape",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/10f/10f97c2b3281cce02200a5f890bcb97a.jpg"
+    }
+  ],
+  "esrb_rating": {
+    "id": 2,
+    "name": "Everyone 10+",
+    "slug": "everyone-10-plus"
+  },
+  "clip": null,
+  "description_raw": "The hero (in the beginning you can choose gender, name and appearance) - an office worker who inherited an abandoned farm. The landscape of the farm can also be selected. For example, you can decide whether there will be a river nearby for fishing.\nThe farm area needs to be cleared, and it will take time.\nThe hero has many different activities: plant and care for plants, raise livestock, practice crafts, extract ore, and also enter into relationships with residents of the neighbouring town to earn game money. Relationships with characters include communication, performing tasks for money, exchanging, searching for fossils and even military actions and marrying. The character is limited by the reserve of strength and health - both parameters are visible on the screen, and the game automatically puts the hero to rest if the limit of his capabilities is close. The game does not set any ultimate or primary goal, its many possibilities are designed for an unlimited time."
+}

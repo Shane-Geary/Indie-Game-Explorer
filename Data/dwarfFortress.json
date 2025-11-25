@@ -1,0 +1,381 @@
+{
+  "id": 58209,
+  "slug": "dwarf-fortress",
+  "name": "Dwarf Fortress",
+  "name_original": "Dwarf Fortress",
+  "description": "\u003Cp\u003EPrepare for the deepest, most intricate simulation of a world that has ever been created.\u003Cbr /\u003E\nNot just generated geometry -- a whole simulated world. Generated rise and fall of civilizations, personalities, creatures, cultures, etc. Infinite hours of gameplay.\u003Cbr /\u003E\nNow with graphics! (Optional ASCII mode available.)\u003Cbr /\u003E\nSteam Workshop integration for easier modding\u003Cbr /\u003E\nA lifetime “living” project - created/updated since 2003, with no end in sight\u003Cbr /\u003E\nGenerate your unique world and manage a bustling colony of dwarves, even as they probably mine towards their eventual demise.\u003Cbr /\u003E\nOptional ADVENTURER MODE: explore the generated world as a single hero in an RPG\u003Cbr /\u003E\nOptional LEGENDS MODE: read the history of the generated world and your games in it\u003Cbr /\u003E\nA new endless hobby, just for you!\u003Cbr /\u003E\nThe legendary Dwarf Fortress is now on Steam! Build a fortress and try to help your dwarves survive, despite threats of starvation, dragons, and madness.\u003Cbr /\u003E\nIn this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.\u003Cbr /\u003E\nThe combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.\u003Cbr /\u003E\nIt’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.\u003Cbr /\u003E\nYour purchase includes Dwarf Fortress Classic if you prefer to play without graphics or music or Steam-specific features, in the “classic” beta branch.\u003Cbr /\u003E\nRemember: Losing is fun!\u003Cbr /\u003E\nNothing substantial is new or changed, under the hood. It’s still good old Dwarf Fortress, but with graphics support and music by default. A few bells and whistles won’t change that.\u003Cbr /\u003E\nYou may already be familiar with the tile set mod packs from Michał “Mayday” Madej and Patrick Martin “Meph” Schroeder. They’re collaborating on an all-new, from-scratch tileset, as seen in the trailer and screenshots. Meanwhile, Dabu has composed a few musical tracks, to match the seasons, and some other audio bits and pieces.\u003Cbr /\u003E\nCommand your dwarves as they search for wealth in their generated mountain. Your dwarves will need a steady supply of food and beer, but they’ll also need your guidance in surviving attacks from hostile civilizations, the wilderness, or even the dead.\u003Cbr /\u003E\nCraft treasures and furnitures from various materials\u003Cbr /\u003E\nEstablish a barony and support the increasingly demanding nobility\u003Cbr /\u003E\nRead your dwarves’ thoughts to keep them happy\u003Cbr /\u003E\nBuild floodgates to divert water for farming, and/or prevent magma mishaps\u003Cbr /\u003E\nBuild structures and watch your dwarves discover and build their culture, like taverns, libraries, temples, honey, wax, pottery, animal training, bookbinding, and more.\u003Cbr /\u003E\nChoose a sentient race from your generated world (usually dwarf, human, or elf, but potentially goblin or animal person) and quest for glory.. Or seek vengeance.\u003Cbr /\u003E\nRecruit people to join you on your journey\u003Cbr /\u003E\nExplore without cumbersome plot restrictions, from capitals to catacombs, labyrinths to bandit camps.\u003Cbr /\u003E\nThe original nemesis system: Meet adversaries from the previous games\u003Cbr /\u003E\nEarn a reputation as a hero, soldier, thug, musician, etc, with various civilizations\u003Cbr /\u003E\nStealth system with vision arcs, respecting vegetation density and other factors\u003Cbr /\u003E\nUse signs like shoe impressions and animal tracks to hunt and avoid danger\u003Cbr /\u003E\nSteal a mummy’s treasure or learn forbidden secrets from a necromancer’s tower\u003Cbr /\u003E\nVisit your retired fortresses and meet your old dwarves -- even ask them to join you!\u003Cbr /\u003E\nThe original inspiration for RimWorld, Prison Architect, Minecraft and more.\u003Cbr /\u003E\nOne of the first video games acquired by the Museum of Modern Art in New York\u003Cbr /\u003E\nUpdated for over 16 years by two brothers, Tarn “Toady One” and Zach “Threetoe” Adams\u003Cbr /\u003E\nWith the goal of simulating all of existence, Bay 12 estimates they’re only about 42% done.\u003C/p\u003E",
+  "metacritic": 93,
+  "metacritic_platforms": [
+    {
+      "metascore": 93,
+      "url": "https://www.metacritic.com/game/pc/dwarf-fortress",
+      "platform": {
+        "platform": 4,
+        "name": "PC",
+        "slug": "pc"
+      }
+    }
+  ],
+  "released": "2006-08-08",
+  "tba": false,
+  "updated": "2025-11-12T16:34:30",
+  "background_image": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/2ef/2efaa049235abb6c4ef81df9eeb1da11.jpg",
+  "website": "http://www.bay12games.com/dwarves/",
+  "rating": 4.33,
+  "rating_top": 5,
+  "ratings": [
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 57,
+      "percent": 60
+    },
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 24,
+      "percent": 25.26
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 8,
+      "percent": 8.42
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 6,
+      "percent": 6.32
+    }
+  ],
+  "reactions": {
+    "4": 1,
+    "6": 1,
+    "7": 1
+  },
+  "added": 869,
+  "added_by_status": {
+    "yet": 38,
+    "owned": 696,
+    "beaten": 11,
+    "toplay": 54,
+    "dropped": 51,
+    "playing": 19
+  },
+  "playtime": 3,
+  "screenshots_count": 8,
+  "movies_count": 0,
+  "creators_count": 2,
+  "achievements_count": 0,
+  "parent_achievements_count": 0,
+  "reddit_url": "https://www.reddit.com/r/dwarffortress/",
+  "reddit_name": "",
+  "reddit_description": "",
+  "reddit_logo": "",
+  "reddit_count": 9369,
+  "twitch_count": 0,
+  "youtube_count": 0,
+  "reviews_text_count": 1,
+  "ratings_count": 94,
+  "suggestions_count": 153,
+  "alternative_names": [],
+  "metacritic_url": "https://www.metacritic.com/game/pc/dwarf-fortress",
+  "parents_count": 0,
+  "additions_count": 0,
+  "game_series_count": 0,
+  "user_game": null,
+  "reviews_count": 95,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 80296,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      "released_at": "2006-08-08",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 559861,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      "released_at": "2006-08-08",
+      "requirements": {
+        "minimum": "Minimum:\nOS: XP SP3 or later\nProcessor: Dual Core CPU - 2.4GHz+\nMemory: 4 GB RAM\nGraphics: 1GB of VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT\nStorage: 500 MB available space",
+        "recommended": "Recommended:\nProcessor: Dual Core CPU - 4GHz+\nMemory: 4 GB RAM\nStorage: 500 MB available space"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 107930,
+        "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+      },
+      "released_at": "2006-08-08",
+      "requirements": {
+
+      }
+    }
+  ],
+  "stores": [
+    {
+      "id": 302593,
+      "url": "",
+      "store": {
+        "id": 9,
+        "name": "itch.io",
+        "slug": "itch",
+        "domain": "itch.io",
+        "games_count": 654175,
+        "image_background": "https://media.rawg.io/media/games/8cd/8cd179c85bd3de8f79bef245b15075fb.jpg"
+      }
+    },
+    {
+      "id": 302592,
+      "url": "",
+      "store": {
+        "id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "games_count": 122741,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 27939,
+      "name": "Bay 12 Games",
+      "slug": "bay-12-games",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/screenshots/b20/b20a30ae9d910d948a24ca234eb4553d.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "RPG",
+      "slug": "role-playing-games-rpg",
+      "games_count": 61817,
+      "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Strategy",
+      "slug": "strategy",
+      "games_count": 62287,
+      "image_background": "https://media.rawg.io/media/games/d4b/d4bcd78873edd9992d93aff9cc8db0c8.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Simulation",
+      "slug": "simulation",
+      "games_count": 76652,
+      "image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Indie",
+      "slug": "indie",
+      "games_count": 85971,
+      "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 31,
+      "name": "Singleplayer",
+      "slug": "singleplayer",
+      "language": "eng",
+      "games_count": 250424,
+      "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+    },
+    {
+      "id": 24,
+      "name": "RPG",
+      "slug": "rpg",
+      "language": "eng",
+      "games_count": 26522,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Horror",
+      "slug": "horror",
+      "language": "eng",
+      "games_count": 49085,
+      "image_background": "https://media.rawg.io/media/games/198/1988a337305e008b41d7f536ce9b73f6.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "language": "eng",
+      "games_count": 32880,
+      "image_background": "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Gore",
+      "slug": "gore",
+      "language": "eng",
+      "games_count": 6651,
+      "image_background": "https://media.rawg.io/media/games/7f6/7f6cd70ba2ad57053b4847c13569f2d8.jpg"
+    },
+    {
+      "id": 193,
+      "name": "Classic",
+      "slug": "classic",
+      "language": "eng",
+      "games_count": 1838,
+      "image_background": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Sandbox",
+      "slug": "sandbox",
+      "language": "eng",
+      "games_count": 8489,
+      "image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Survival",
+      "slug": "survival",
+      "language": "eng",
+      "games_count": 10806,
+      "image_background": "https://media.rawg.io/media/games/d2c/d2c74dacd89fd817c2deb625b01adb1a.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Violent",
+      "slug": "violent",
+      "language": "eng",
+      "games_count": 7838,
+      "image_background": "https://media.rawg.io/media/games/5bf/5bf88a28de96321c86561a65ee48e6c2.jpg"
+    },
+    {
+      "id": 40852,
+      "name": "Steam Workshop",
+      "slug": "steam-workshop",
+      "language": "eng",
+      "games_count": 1765,
+      "image_background": "https://media.rawg.io/media/games/806/8060a7663364ac23e15480728938d6f3.jpg"
+    },
+    {
+      "id": 639,
+      "name": "Roguelike",
+      "slug": "roguelike",
+      "language": "eng",
+      "games_count": 15124,
+      "image_background": "https://media.rawg.io/media/games/e40/e40cc9d1957b0a0ed7e389834457b524.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Building",
+      "slug": "building",
+      "language": "eng",
+      "games_count": 7514,
+      "image_background": "https://media.rawg.io/media/games/c9e/c9e47fd222f631084879d395eee07d66.jpg"
+    },
+    {
+      "id": 180,
+      "name": "Base Building",
+      "slug": "base-building",
+      "language": "eng",
+      "games_count": 2972,
+      "image_background": "https://media.rawg.io/media/games/4a1/4a1e460708b6c2114e4735e04dc58510.jpg"
+    },
+    {
+      "id": 196,
+      "name": "Procedural Generation",
+      "slug": "procedural-generation",
+      "language": "eng",
+      "games_count": 8950,
+      "image_background": "https://media.rawg.io/media/screenshots/b25/b258a515226ab56c46ac8619cacb8f26.jpeg"
+    },
+    {
+      "id": 578,
+      "name": "Masterpiece",
+      "slug": "masterpiece",
+      "language": "eng",
+      "games_count": 302,
+      "image_background": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg"
+    },
+    {
+      "id": 460,
+      "name": "Endless",
+      "slug": "endless",
+      "language": "eng",
+      "games_count": 14740,
+      "image_background": "https://media.rawg.io/media/screenshots/4db/4dbe6762d5b7721e7ac412d6ab7661db.jpg"
+    },
+    {
+      "id": 49967,
+      "name": "Colony Sim",
+      "slug": "colony-sim-2",
+      "language": "eng",
+      "games_count": 805,
+      "image_background": "https://media.rawg.io/media/screenshots/2ce/2ce562d8a0cc10c9079567f519be5a48.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 4040,
+      "name": "Kitfox Games",
+      "slug": "kitfox-games",
+      "games_count": 12,
+      "image_background": "https://media.rawg.io/media/screenshots/31b/31b6521f998e617f47ee8369dfbee2b1.jpg"
+    }
+  ],
+  "esrb_rating": null,
+  "clip": null,
+  "description_raw": "Prepare for the deepest, most intricate simulation of a world that has ever been created.\nNot just generated geometry -- a whole simulated world. Generated rise and fall of civilizations, personalities, creatures, cultures, etc. Infinite hours of gameplay.\nNow with graphics! (Optional ASCII mode available.)\nSteam Workshop integration for easier modding\nA lifetime “living” project - created/updated since 2003, with no end in sight\nGenerate your unique world and manage a bustling colony of dwarves, even as they probably mine towards their eventual demise.\nOptional ADVENTURER MODE: explore the generated world as a single hero in an RPG\nOptional LEGENDS MODE: read the history of the generated world and your games in it\nA new endless hobby, just for you!\nThe legendary Dwarf Fortress is now on Steam! Build a fortress and try to help your dwarves survive, despite threats of starvation, dragons, and madness.\nIn this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.\nThe combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.\nIt’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.\nYour purchase includes Dwarf Fortress Classic if you prefer to play without graphics or music or Steam-specific features, in the “classic” beta branch.\nRemember: Losing is fun!\nNothing substantial is new or changed, under the hood. It’s still good old Dwarf Fortress, but with graphics support and music by default. A few bells and whistles won’t change that.\nYou may already be familiar with the tile set mod packs from Michał “Mayday” Madej and Patrick Martin “Meph” Schroeder. They’re collaborating on an all-new, from-scratch tileset, as seen in the trailer and screenshots. Meanwhile, Dabu has composed a few musical tracks, to match the seasons, and some other audio bits and pieces.\nCommand your dwarves as they search for wealth in their generated mountain. Your dwarves will need a steady supply of food and beer, but they’ll also need your guidance in surviving attacks from hostile civilizations, the wilderness, or even the dead.\nCraft treasures and furnitures from various materials\nEstablish a barony and support the increasingly demanding nobility\nRead your dwarves’ thoughts to keep them happy\nBuild floodgates to divert water for farming, and/or prevent magma mishaps\nBuild structures and watch your dwarves discover and build their culture, like taverns, libraries, temples, honey, wax, pottery, animal training, bookbinding, and more.\nChoose a sentient race from your generated world (usually dwarf, human, or elf, but potentially goblin or animal person) and quest for glory.. Or seek vengeance.\nRecruit people to join you on your journey\nExplore without cumbersome plot restrictions, from capitals to catacombs, labyrinths to bandit camps.\nThe original nemesis system: Meet adversaries from the previous games\nEarn a reputation as a hero, soldier, thug, musician, etc, with various civilizations\nStealth system with vision arcs, respecting vegetation density and other factors\nUse signs like shoe impressions and animal tracks to hunt and avoid danger\nSteal a mummy’s treasure or learn forbidden secrets from a necromancer’s tower\nVisit your retired fortresses and meet your old dwarves -- even ask them to join you!\nThe original inspiration for RimWorld, Prison Architect, Minecraft and more.\nOne of the first video games acquired by the Museum of Modern Art in New York\nUpdated for over 16 years by two brothers, Tarn “Toady One” and Zach “Threetoe” Adams\nWith the goal of simulating all of existence, Bay 12 estimates they’re only about 42% done."
+}

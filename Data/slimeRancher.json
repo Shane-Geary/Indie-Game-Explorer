@@ -1,0 +1,529 @@
+{
+  "id": 9736,
+  "slug": "slime-rancher",
+  "name": "Slime Rancher",
+  "name_original": "Slime Rancher",
+  "description": "\u003Cp\u003EIn the far-distant future, far, far away in space (to be exact, a thousand light-years from the Earth), on the planet Far, Far Range, mega-corporations (they, it turns out, will be with us in the distant future!) discovered the ideal source of income, universal natural resource - Plort.\u003C/p\u003E\n\u003Cp\u003EYou can produce almost anything from Plot - from food and household chemicals, to solid alloys and incredibly powerful batteries.\u003C/p\u003E\n\u003Cp\u003EPlort is a concentrated mucus produced by slimes - jelly-like living organisms of various species and characteristics.\u003C/p\u003E\n\u003Cp\u003ESlimes, unfortunately, can not be taken to Earth to breed and receive the right amount of Plort. We have to fly to &#39;Far, Far Range&#39;, to build there something like a ranch for slimes and for all this to hire earthlings. One of these earthlings, the space rancheros, the brave young girl Beatrix LeBeau is the character of the game. The girl (and the player) will fly a thousand light-years in a deep sleep to equip a ranch from a Hobson Twillgers, study the planet&#39;s environment, collect, feed and breed slimes.\u003C/p\u003E\n\u003Cp\u003ETo get the necessary hints the girl can look for notes of the former owner - they meet on the territory of the ranch, and also communicate via Star Mail with a close friend from the Earth. In conversations with a friend, we learn a lot of things about the former, earthly life of the heroine - this information will be important.\u003C/p\u003E\n\u003Ch3\u003EGameplay and economics\u003C/h3\u003E\n\u003Cp\u003ESlimes need to be fed, and this is important. The rest they will do themselves.\u003Cbr /\u003E\nIt is necessary to feed them not by anything, but by appropriate products. But slimes will produce a lot of Plort - and Plort can be sold on the market, having received currency - newbucks. For newbucks you can buy equipment for ranches and so on. The world of the game is not known until the end, it is possible and necessary to travel through it, opening up new locations, finding new slimes for the ranch, as well as food for slimes and other new resources.\u003C/p\u003E\n\u003Cp\u003EFrom different types of slimes you can get hybrids. However, with this you need to be more careful - you can get aggressive evil slimes, which will have to be dissolved with water.\u003C/p\u003E\n\u003Cp\u003ESlimes are quite diverse. Ordinary slimes are generally friendly, but they can be dangerous not because of evil will, but because of some natural features like thorns, emitted radiation or the ability to explode.\u003C/p\u003E\n\u003Cp\u003ESome slimes are more productive than others, they produce more Plort. It is these slimes that are created by hybridization, since it is difficult to find them in a natural environment.\u003C/p\u003E\n\u003Cp\u003EOrdinary slimes sometimes merge into a huge Gordo-slime - inside such organisms there are often valuable resources and other interesting and useful things. To get all this, you need to blow up the Gordo-slime.\u003C/p\u003E\n\u003Ch3\u003EGame modes\u003C/h3\u003E\n\u003Cp\u003EAdventure. The world is open for research, there are no serious restrictions. You can develop as you want. You can communicate with other ranchers, carry out their assignments and exchange resources with them. \u003C/p\u003E\n\u003Cp\u003ECarefree is an adventure mode that goes even easier.\u003C/p\u003E\n\u003Cp\u003EThe five-day trial is a mode in which you need to earn as many newbucks as possible in 5 days.\u003C/p\u003E\n\u003Cp\u003E&quot;The steel master of the ranch&quot; - the conditions in this mode are so complicated that it resembles a game of survival. In the mode there are unique tests that change the impression of the game.\u003C/p\u003E",
+  "metacritic": 81,
+  "metacritic_platforms": [],
+  "released": "2016-01-14",
+  "tba": false,
+  "updated": "2025-10-02T13:11:03",
+  "background_image": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg",
+  "background_image_additional": "https://media.rawg.io/media/screenshots/d1b/d1bf275b7f660a42dca6ac24d9a719b7.jpg",
+  "website": "http://slimerancher.com",
+  "rating": 3.87,
+  "rating_top": 4,
+  "ratings": [
+    {
+      "id": 4,
+      "title": "recommended",
+      "count": 332,
+      "percent": 56.56
+    },
+    {
+      "id": 5,
+      "title": "exceptional",
+      "count": 119,
+      "percent": 20.27
+    },
+    {
+      "id": 3,
+      "title": "meh",
+      "count": 106,
+      "percent": 18.06
+    },
+    {
+      "id": 1,
+      "title": "skip",
+      "count": 30,
+      "percent": 5.11
+    }
+  ],
+  "reactions": {
+    "1": 1,
+    "3": 2,
+    "7": 2,
+    "9": 1,
+    "18": 1
+  },
+  "added": 3428,
+  "added_by_status": {
+    "yet": 141,
+    "owned": 2533,
+    "beaten": 300,
+    "toplay": 59,
+    "dropped": 319,
+    "playing": 76
+  },
+  "playtime": 6,
+  "screenshots_count": 37,
+  "movies_count": 4,
+  "creators_count": 1,
+  "achievements_count": 207,
+  "parent_achievements_count": 60,
+  "reddit_url": "https://www.reddit.com/r/slimerancher/",
+  "reddit_name": "",
+  "reddit_description": "",
+  "reddit_logo": "",
+  "reddit_count": 7693,
+  "twitch_count": 163,
+  "youtube_count": 1000000,
+  "reviews_text_count": 13,
+  "ratings_count": 574,
+  "suggestions_count": 439,
+  "alternative_names": [],
+  "metacritic_url": "",
+  "parents_count": 0,
+  "additions_count": 0,
+  "game_series_count": 1,
+  "user_game": null,
+  "reviews_count": 587,
+  "saturated_color": "0f0f0f",
+  "dominant_color": "0f0f0f",
+  "parent_platforms": [
+    {
+      "platform": {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    },
+    {
+      "platform": {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      }
+    },
+    {
+      "platform": {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      }
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "platform": {
+        "id": 18,
+        "name": "PlayStation 4",
+        "slug": "playstation4",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 6951,
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+      },
+      "released_at": "2016-01-14",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 80296,
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+      },
+      "released_at": "2016-01-14",
+      "requirements": {
+        "minimum": "Minimum:\nOS: Ubuntu 12.04+ or equivalent\nProcessor: 2.2GHz Dual Core\nMemory: 4 GB RAM\nGraphics: OpenGL 3.2 compatible, 512 MB VRAM\nStorage: 1 GB available space\nSound Card: ALSA compatible"
+      }
+    },
+    {
+      "platform": {
+        "id": 5,
+        "name": "macOS",
+        "slug": "macos",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 107930,
+        "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+      },
+      "released_at": "2016-01-14",
+      "requirements": {
+        "minimum": "Minimum:\nOS: OSX 10+\nProcessor: 2.2GHz Dual Core\nMemory: 4 GB RAM\nGraphics: OpenGL 3.2 compatible, 512 MB VRAM\nStorage: 1 GB available space"
+      }
+    },
+    {
+      "platform": {
+        "id": 4,
+        "name": "PC",
+        "slug": "pc",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 559861,
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+      },
+      "released_at": "2016-01-14",
+      "requirements": {
+        "minimum": "Minimum:\nOS: Windows XP(SP3)+\nProcessor: 2.2GHz Dual Core\nMemory: 4 GB RAM\nGraphics: 512MB VRAM\nDirectX: Version 9.0c\nStorage: 1 GB available space"
+      }
+    },
+    {
+      "platform": {
+        "id": 7,
+        "name": "Nintendo Switch",
+        "slug": "nintendo-switch",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5723,
+        "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+      },
+      "released_at": "2016-01-14",
+      "requirements": {
+
+      }
+    },
+    {
+      "platform": {
+        "id": 1,
+        "name": "Xbox One",
+        "slug": "xbox-one",
+        "image": null,
+        "year_end": null,
+        "year_start": null,
+        "games_count": 5714,
+        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+      },
+      "released_at": "2016-01-14",
+      "requirements": {
+
+      }
+    }
+  ],
+  "stores": [
+    {
+      "id": 49523,
+      "url": "",
+      "store": {
+        "id": 3,
+        "name": "PlayStation Store",
+        "slug": "playstation-store",
+        "domain": "store.playstation.com",
+        "games_count": 8062,
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+      }
+    },
+    {
+      "id": 10613,
+      "url": "",
+      "store": {
+        "id": 1,
+        "name": "Steam",
+        "slug": "steam",
+        "domain": "store.steampowered.com",
+        "games_count": 122741,
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+      }
+    },
+    {
+      "id": 26733,
+      "url": "",
+      "store": {
+        "id": 5,
+        "name": "GOG",
+        "slug": "gog",
+        "domain": "gog.com",
+        "games_count": 7062,
+        "image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+      }
+    },
+    {
+      "id": 46458,
+      "url": "",
+      "store": {
+        "id": 2,
+        "name": "Xbox Store",
+        "slug": "xbox-store",
+        "domain": "microsoft.com",
+        "games_count": 4930,
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+      }
+    },
+    {
+      "id": 295677,
+      "url": "",
+      "store": {
+        "id": 11,
+        "name": "Epic Games",
+        "slug": "epic-games",
+        "domain": "epicgames.com",
+        "games_count": 1427,
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 3717,
+      "name": "Monomi Park",
+      "slug": "monomi-park",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Action",
+      "slug": "action",
+      "games_count": 191231,
+      "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adventure",
+      "slug": "adventure",
+      "games_count": 151443,
+      "image_background": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Simulation",
+      "slug": "simulation",
+      "games_count": 76652,
+      "image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Indie",
+      "slug": "indie",
+      "games_count": 85971,
+      "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+    }
+  ],
+  "tags": [
+    {
+      "id": 31,
+      "name": "Singleplayer",
+      "slug": "singleplayer",
+      "language": "eng",
+      "games_count": 250424,
+      "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+    },
+    {
+      "id": 40847,
+      "name": "Steam Achievements",
+      "slug": "steam-achievements",
+      "language": "eng",
+      "games_count": 51528,
+      "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Multiplayer",
+      "slug": "multiplayer",
+      "language": "eng",
+      "games_count": 42472,
+      "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+    },
+    {
+      "id": 40836,
+      "name": "Full controller support",
+      "slug": "full-controller-support",
+      "language": "eng",
+      "games_count": 24060,
+      "image_background": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg"
+    },
+    {
+      "id": 40849,
+      "name": "Steam Cloud",
+      "slug": "steam-cloud",
+      "language": "eng",
+      "games_count": 25626,
+      "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+      "id": 7808,
+      "name": "steam-trading-cards",
+      "slug": "steam-trading-cards",
+      "language": "eng",
+      "games_count": 7568,
+      "image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Great Soundtrack",
+      "slug": "great-soundtrack",
+      "language": "eng",
+      "games_count": 3451,
+      "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Open World",
+      "slug": "open-world",
+      "language": "eng",
+      "games_count": 9231,
+      "image_background": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg"
+    },
+    {
+      "id": 8,
+      "name": "First-Person",
+      "slug": "first-person",
+      "language": "eng",
+      "games_count": 37313,
+      "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+      "id": 30,
+      "name": "FPS",
+      "slug": "fps",
+      "language": "eng",
+      "games_count": 14954,
+      "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "language": "eng",
+      "games_count": 32880,
+      "image_background": "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Funny",
+      "slug": "funny",
+      "language": "eng",
+      "games_count": 28789,
+      "image_background": "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Exploration",
+      "slug": "exploration",
+      "language": "eng",
+      "games_count": 29156,
+      "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Sandbox",
+      "slug": "sandbox",
+      "language": "eng",
+      "games_count": 8489,
+      "image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+    },
+    {
+      "id": 189,
+      "name": "Female Protagonist",
+      "slug": "female-protagonist",
+      "language": "eng",
+      "games_count": 15507,
+      "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Early Access",
+      "slug": "early-access",
+      "language": "eng",
+      "games_count": 19450,
+      "image_background": "https://media.rawg.io/media/games/238/238e2b2b24c9838626700c69cacf1e3a.jpg"
+    },
+    {
+      "id": 134,
+      "name": "Anime",
+      "slug": "anime",
+      "language": "eng",
+      "games_count": 16996,
+      "image_background": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Family Friendly",
+      "slug": "family-friendly",
+      "language": "eng",
+      "games_count": 10651,
+      "image_background": "https://media.rawg.io/media/games/297/297a51aa1f0999016d5a35e2e1d6d8ab.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Cute",
+      "slug": "cute",
+      "language": "eng",
+      "games_count": 39681,
+      "image_background": "https://media.rawg.io/media/games/f15/f15e1dbda32b588a981bbc6b222a4b4c.jpg"
+    },
+    {
+      "id": 336,
+      "name": "controller support",
+      "slug": "controller-support",
+      "language": "eng",
+      "games_count": 293,
+      "image_background": "https://media.rawg.io/media/screenshots/2fc/2fc6994425146f9dba3133400b414e29.jpg"
+    },
+    {
+      "id": 165,
+      "name": "Colorful",
+      "slug": "colorful",
+      "language": "eng",
+      "games_count": 28842,
+      "image_background": "https://media.rawg.io/media/games/444/4440f674e2bcb257e249a9ab595d8ab6.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Management",
+      "slug": "management",
+      "language": "eng",
+      "games_count": 9372,
+      "image_background": "https://media.rawg.io/media/games/725/725d08c4174c129ce5275c43cd0347c6.jpg"
+    },
+    {
+      "id": 340,
+      "name": "in development",
+      "slug": "in-development",
+      "language": "eng",
+      "games_count": 23,
+      "image_background": "https://media.rawg.io/media/games/cbd/cbdaa32349be63a57099669be29dc7ca.jpg"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 3412,
+      "name": "Monomi Park",
+      "slug": "monomi-park",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+    }
+  ],
+  "esrb_rating": {
+    "id": 2,
+    "name": "Everyone 10+",
+    "slug": "everyone-10-plus"
+  },
+  "clip": null,
+  "description_raw": "In the far-distant future, far, far away in space (to be exact, a thousand light-years from the Earth), on the planet Far, Far Range, mega-corporations (they, it turns out, will be with us in the distant future!) discovered the ideal source of income, universal natural resource - Plort.\n\nYou can produce almost anything from Plot - from food and household chemicals, to solid alloys and incredibly powerful batteries.\n\nPlort is a concentrated mucus produced by slimes - jelly-like living organisms of various species and characteristics.\n\nSlimes, unfortunately, can not be taken to Earth to breed and receive the right amount of Plort. We have to fly to 'Far, Far Range', to build there something like a ranch for slimes and for all this to hire earthlings. One of these earthlings, the space rancheros, the brave young girl Beatrix LeBeau is the character of the game. The girl (and the player) will fly a thousand light-years in a deep sleep to equip a ranch from a Hobson Twillgers, study the planet's environment, collect, feed and breed slimes.\n\nTo get the necessary hints the girl can look for notes of the former owner - they meet on the territory of the ranch, and also communicate via Star Mail with a close friend from the Earth. In conversations with a friend, we learn a lot of things about the former, earthly life of the heroine - this information will be important.\n\n###Gameplay and economics\nSlimes need to be fed, and this is important. The rest they will do themselves.\nIt is necessary to feed them not by anything, but by appropriate products. But slimes will produce a lot of Plort - and Plort can be sold on the market, having received currency - newbucks. For newbucks you can buy equipment for ranches and so on. The world of the game is not known until the end, it is possible and necessary to travel through it, opening up new locations, finding new slimes for the ranch, as well as food for slimes and other new resources.\n\nFrom different types of slimes you can get hybrids. However, with this you need to be more careful - you can get aggressive evil slimes, which will have to be dissolved with water.\n\nSlimes are quite diverse. Ordinary slimes are generally friendly, but they can be dangerous not because of evil will, but because of some natural features like thorns, emitted radiation or the ability to explode.\n\nSome slimes are more productive than others, they produce more Plort. It is these slimes that are created by hybridization, since it is difficult to find them in a natural environment.\n\nOrdinary slimes sometimes merge into a huge Gordo-slime - inside such organisms there are often valuable resources and other interesting and useful things. To get all this, you need to blow up the Gordo-slime.\n\n###Game modes\nAdventure. The world is open for research, there are no serious restrictions. You can develop as you want. You can communicate with other ranchers, carry out their assignments and exchange resources with them. \n\nCarefree is an adventure mode that goes even easier.\n\nThe five-day trial is a mode in which you need to earn as many newbucks as possible in 5 days.\n\n\"The steel master of the ranch\" - the conditions in this mode are so complicated that it resembles a game of survival. In the mode there are unique tests that change the impression of the game."
+}

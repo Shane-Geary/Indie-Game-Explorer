@@ -1,7 +1,7 @@
 .cardGridContainer {
 	display: grid;
 	grid-template-columns: repeat(4, 25%);
-	grid-auto-rows: 60%;
+	grid-auto-rows: 50%;
 	padding: 1rem;
 	flex: 1;
 	overflow-y: auto;
@@ -14,6 +14,7 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	cursor: pointer;
 	
 	background-color: rgba(0,0,0,0.5);
 	backdrop-filter: blur(5px) brightness(0.8);
@@ -33,7 +34,7 @@
 	flex: 0 0 85%;
 	object-fit: cover;
 	border-radius: 10px;
-	transform: scale(0.75);
+	transform: scale(0.8);
   	transform-origin: center;
 	overflow: visible;
 }

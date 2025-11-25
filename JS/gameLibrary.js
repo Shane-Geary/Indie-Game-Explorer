@@ -2,17 +2,27 @@ let gamesData
 
 async function fetchGames() {
 	try {
-		const response = await fetch('../Data/indie-games.json')
-		if (!response.ok) {
-			throw new Error(`Response status: ${response.status}`)
-		}
-		const result = await response.json()
-		const gameResults = result.results
-		// Filter to exclude innappropriate games
-		const filteredGames = gameResults.filter(game => 
+		const [featuredGames, indieGames] = await Promise.all([
+			fetch('../Data/featured-games.json')
+			.then(response => {
+				if (!response.ok) {
+					throw new Error(`Response status: ${response.status}`)
+				}
+				return response.json()
+			}),
+			fetch('../Data/indie-games.json')
+			.then(response => {
+				if (!response.ok) {
+					throw new Error(`Response status: ${response.status}`)
+				}
+				return response.json()
+			})
+		])
+		const filteredGames = indieGames.results.filter(game => 
 			(!game.esrb_rating || game.esrb_rating.slug !== "adults-only") && (game.added < 5000) && !game.tags.some(tag => tag.name === "Nudity")
 		)
-		gamesData = filteredGames
+		let gameResults = featuredGames.results.concat(filteredGames)
+		gamesData = gameResults
 		console.log(gamesData)
 		renderGameCard()
 	} catch (error) {
@@ -26,7 +36,11 @@ function renderGameCard() {
 		const gameCardTitle = document.createElement('h3')
 		const gameCardImage = document.createElement('img')
 
-		gameCard.dataset.gameID = gamesData[i].id
+		if (i <= 5) {
+			gameCard.dataset.gameID = `featured-${i}`
+		} else {
+			gameCard.dataset.gameID = gamesData[i].id
+		}
 		gameCardTitle.innerHTML = gamesData[i].name
 		gameCardImage.src = gamesData[i].background_image
 		gameCard.addEventListener('click', (event) => onGameCardClick(event))
@@ -37,5 +51,7 @@ function renderGameCard() {
 	}
 }
 function onGameCardClick(event) {
+	console.log(event)
+	
 	window.location.href = `gameDetails.html?id=${event.currentTarget.dataset.gameID}`
 }

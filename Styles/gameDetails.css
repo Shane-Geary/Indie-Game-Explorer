@@ -14,6 +14,7 @@
 	display: flex;
 }
 .coverArtWrapper {
+	border-right: 2px solid rgba(255,255,255,0.2);
 	height: 100%;
 	width: 35%;
 	overflow: hidden;
@@ -84,4 +85,7 @@
 	margin-bottom: 0.5rem;
 	width: 100%;
 	font-size: clamp(0.8rem, 1.6vw, 1.6rem); 
+}
+.ct-grids line {
+	stroke: whitesmoke !important;
 }

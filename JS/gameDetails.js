@@ -16,7 +16,7 @@ async function fetchGame() {
 			if (gameID.includes('featured')) {
 				response = await fetch('../Data/featured-games.json')
 				result = await response.json()
-				console.log(result.results[0].developers.at(-1))
+				console.log(result.results[5])
 				gameData = result.results[gameID.at(-1)]
 				console.log('Featured Game: ' + gameData)
 			} else if (cachedGame) { // If game is not already in local storage, Dynamic fetch to RAWG API
@@ -35,6 +35,7 @@ async function fetchGame() {
 			}
 			// Final step, invoke function that will use the game details data, now stored in gameData
 			renderGameDetails()
+			renderChart()
 		} catch (error) {
 			console.error(error.message)
 		}
@@ -75,4 +76,15 @@ function renderGameDetails() {
 	releaseDateHeaderTag.innerHTML = gameData.released ? 'Release Date' : 'Last Updated at'
 	releaseDateDataTag.innerHTML = formattedDate
 	developerTag.innerHTML = gameData.developers.at(-1).name
+}
+function renderChart() {
+	console.log(typeof gameData.rating)
+	
+	const gameRating = {
+		labels: ['Rating'],
+		series: [
+			[gameData.rating]
+		]
+	}
+	new Chartist.Line('.ct-chart', gameRating)
 }

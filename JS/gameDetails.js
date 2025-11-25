@@ -17,15 +17,16 @@ async function fetchGame() {
 				response = await fetch('../Data/featured-games.json')
 				result = await response.json()
 				gameData = result.results[gameID.at(-1)]
+				console.log('Featured Game: ' + gameData)
 			} else if (cachedGame) { // If game is not already in local storage, Dynamic fetch to RAWG API
 				gameData = JSON.parse(cachedGame)
-				console.log('Local storage fetch: ' + storageKey)
+				console.log('Local storage fetch: ' + JSON.stringify(gameData))
 			} else {
 				response = await fetch(`https://api.rawg.io/api/games/${gameID}?key=${RAWG_API_KEY}`)
 				result = await response.json()
 				gameData = result
 				// Store fetched RAWG data in local storage
-				console.log('Stored in localStorage: ' + gameData)
+				console.log('Stored in localStorage: ' + JSON.stringify(gameData))
 				localStorage.setItem(storageKey, JSON.stringify(gameData))
 				if (!response.ok) {
 					throw new Error(`Response status: ${response.status}`)
@@ -62,7 +63,7 @@ function renderGameDetails() {
 	}
 	for (i = 0; i < gameData.tags.length; i++) {
 		const tagsElement = document.createElement('dd')
-		tagsElement.innerHTML = gameData.tags[i].name
+		tagsElement.innerHTML = '#' + gameData.tags[i].name
 		gameTags.appendChild(tagsElement)
 	}
 

@@ -61,7 +61,8 @@ h3 {
 dl {
   display: grid;
   grid-template-columns: max-content 1fr;
-  gap: 0.5rem 50%;
+  gap: 30%;
+  border-bottom: 2px solid rgba(255,255,255,0.2);
 }
 dt {
   font-size: clamp(0.8rem, 1.2vw, 1.2rem); 

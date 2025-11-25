@@ -80,11 +80,25 @@ function renderGameDetails() {
 function renderChart() {
 	console.log(typeof gameData.rating)
 	
-	const gameRating = {
-		labels: ['Rating'],
-		series: [
-			[gameData.rating]
-		]
+	const options = {
+		  chart: {
+			type: 'bar',
+			height: '100%',
+			foreColor: 'whitesmoke',
+			background: 'transparent',
+			toolbar: {
+				show: false
+			}
+		},
+		series: [{
+			name: 'Rating',
+			data: [gameData.rating]
+		}],
+		xaxis: {
+			categories: ['Rating'],
+		},
+		yaxis: { min: 0, max: 5 },
+		colors: ['darkcyan']
 	}
-	new Chartist.Line('.ct-chart', gameRating)
+	new ApexCharts(document.getElementById("bar-graph"), options).render()
 }

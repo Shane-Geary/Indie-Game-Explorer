@@ -5,14 +5,15 @@
 .descriptionText {
 	text-align: left;
 	padding: 1rem;
-	margin: auto 5rem auto 5rem;
+	margin: auto 8rem auto 8rem;
+	font-size: 1.25rem;
 }
 .featuredGamesText {
 	display: block;
-	font-size: 1.25rem;
+	font-size: 1.3rem;
 	text-align: center;
 	text-decoration: underline;
-	margin-top: .5rem;
+	margin-top: 0.5rem;
 }
 .mainContainer {
 	/* border: 2px solid red; */

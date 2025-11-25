@@ -10,7 +10,7 @@ async function fetchGame() {
 	if (gameID) {
 		console.log(gameID)
 		try {
-			const response = await fetch(`https://api.rawg.io/api/games/${gameID}?key=${RAWG_API_KEY}`)
+			// const response = await fetch(`https://api.rawg.io/api/games/${gameID}?key=${RAWG_API_KEY}`)
 			if (!response.ok) {
 				throw new Error(`Response status: ${response.status}`)
 			}

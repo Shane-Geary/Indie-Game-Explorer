@@ -5,20 +5,22 @@
 	padding: 1rem;
 	flex: 1;
 	overflow-y: auto;
+	scroll-behavior: smooth;
 }
 .cardGridContainer div {
 	border-radius: 20px;
 	padding: 0.5rem;
 	margin: 1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	
-	background-color: rgba(0,0,0,0.5); /* semi-transparent */
+	background-color: rgba(0,0,0,0.5);
 	backdrop-filter: blur(5px) brightness(0.8);
-	/* border: 1px solid rgba(255,255,255,0.1); */
 	box-shadow: 0 4px 15px rgba(0,0,0,0.7);
-	/* border: 2px solid transparent;
-	border-image: linear-gradient(45deg, #00ffff, #ff6ec7, #00ff00) 1; */
 	border: 2px dashed rgba(0,255,255,0.5); 
 	transition: transform 0.5s ease, box-shadow 0.5s ease;
+	overflow: hidden;
 }
 .cardGridContainer div:hover {
 	transition-duration: 600ms;
@@ -28,10 +30,16 @@
 }
 .cardGridContainer div img {
 	width: 100%;
-	height: 90%;
+	flex: 0 0 85%;
 	object-fit: cover;
 	border-radius: 10px;
+	transform: scale(0.75);
+  	transform-origin: center;
+	overflow: visible;
 }
 .cardGridContainer div h3 {
-	margin: 0.5rem auto 0.75rem auto;
+	flex: 0 0 auto;
+	margin: 0.5rem auto 0 auto;
+	text-decoration: underline;
+	font-size: clamp(0.8rem, 1.2vw, 1.2rem);
 }

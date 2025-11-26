@@ -12,6 +12,7 @@
 	flex: 1;
 	overflow: hidden;
 	display: flex;
+	justify-content: space-around;
 }
 .coverArtWrapper {
 	border-right: 2px solid rgba(255,255,255,0.2);
@@ -67,6 +68,21 @@
     gap: 1rem;
     padding-right: 1rem;
 	overflow-x: auto;
+	scrollbar-color: white;
+}
+/* WebKit browsers (Chrome, Edge, Safari) */
+.gameTagsWrapper::-webkit-scrollbar {
+    height: 4px;
+}
+.gameTagsWrapper::-webkit-scrollbar-track {
+    background: transparent;
+}
+.gameTagsWrapper::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+}
+.gameTagsWrapper::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.6);
 }
 .gameTagsWrapper dt {
     flex: 0 0 5%;
@@ -85,4 +101,19 @@
 	margin-bottom: 0.5rem;
 	width: 100%;
 	font-size: clamp(0.8rem, 1.6vw, 1.6rem); 
+}
+/* Disable events on charts */
+.apexcharts-canvas {
+	pointer-events: none;
+}
+.added-bar-graph {
+	width: 30%;
+	border-right: 10px double rgba(255, 255, 255, 0.2);
+}
+.pie-chart {
+	width: 30%;
+	border-right: 10px double rgba(255, 255, 255, 0.2);
+}
+.ratings-bar-graph {
+	width: 30%;
 }

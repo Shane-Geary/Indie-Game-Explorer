@@ -1,3 +1,14 @@
+const navbarLinks = document.getElementById('navbarTag').children
+console.log(navbarLinks)
+for (i = 0; i < navbarLinks.length; i++) {
+	console.log(navbarLinks[i])
+	if (navbarLinks[i].innerText === 'Library') {
+		navbarLinks[i].style.color = 'whitesmoke'	
+	} else {
+		navbarLinks[i].style.color = 'greenyellow'
+	}
+}
+
 let gamesData
 
 async function fetchGames() {
@@ -18,6 +29,7 @@ async function fetchGames() {
 				return response.json()
 			})
 		])
+		// Filter out innappropriate games, and games with more than 5000 'added' value attributes 
 		const filteredGames = indieGames.results.filter(game => 
 			(!game.esrb_rating || game.esrb_rating.slug !== "adults-only") && (game.added < 5000) && !game.tags.some(tag => tag.name === "Nudity")
 		)

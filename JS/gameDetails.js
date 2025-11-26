@@ -1,3 +1,14 @@
+const navbarLinks = document.getElementById('navbarTag').children
+console.log(navbarLinks)
+for (i = 0; i < navbarLinks.length; i++) {
+	console.log(navbarLinks[i])
+	if (navbarLinks[i].innerText === 'Game Details') {
+		navbarLinks[i].style.color = 'whitesmoke'	
+	} else {
+		navbarLinks[i].style.color = 'greenyellow'
+	}
+}
+
 const params = new URLSearchParams(window.location.search)
 const gameID = params.get('id')
 let gameData
@@ -19,7 +30,7 @@ async function fetchGame() {
 				console.log(result.results[5])
 				gameData = result.results[gameID.at(-1)]
 				console.log('Featured Game: ' + gameData)
-			} else if (cachedGame) { // If game is not already in local storage, Dynamic fetch to RAWG API
+			} else if (cachedGame) { // If game is not already in local storage, Dynamic fetch to RAWG API				
 				gameData = JSON.parse(cachedGame)
 				console.log('Local storage fetch: ' + JSON.stringify(gameData))
 			} else {
@@ -35,7 +46,9 @@ async function fetchGame() {
 			}
 			// Final step, invoke function that will use the game details data, now stored in gameData
 			renderGameDetails()
-			renderChart()
+			renderAddedBarGraph()
+			renderRatingsCountBarGraph()
+			renderPieChart()
 		} catch (error) {
 			console.error(error.message)
 		}
@@ -75,11 +88,9 @@ function renderGameDetails() {
 	gameDescTag.innerHTML = gameData.description
 	releaseDateHeaderTag.innerHTML = gameData.released ? 'Release Date' : 'Last Updated at'
 	releaseDateDataTag.innerHTML = formattedDate
-	developerTag.innerHTML = gameData.developers.at(-1).name
+	developerTag.innerHTML = gameData.developers.at(-1) ? gameData.developers.at(-1).name : 'Community Made Game! (No Devs/Studio)'
 }
-function renderChart() {
-	console.log(typeof gameData.rating)
-	
+function renderAddedBarGraph() {	
 	const options = {
 		  chart: {
 			type: 'bar',
@@ -88,17 +99,95 @@ function renderChart() {
 			background: 'transparent',
 			toolbar: {
 				show: false
-			}
+			},
 		},
 		series: [{
-			name: 'Rating',
-			data: [gameData.rating]
+			name: 'User Popularity (Added)',
+			data: [gameData.added]
 		}],
-		xaxis: {
-			categories: ['Rating'],
+		dataLabels: {
+			style: {fontSize: '1.75rem'}
 		},
-		yaxis: { min: 0, max: 5 },
-		colors: ['darkcyan']
+		xaxis: {
+			categories: ['User Popularity (Added)'],
+			labels: {
+				style: {fontSize: '1rem', colors: ['greenyellow']}
+			}
+		},
+		yaxis: { min: 0, max: gameData.added > 5000 ? 10000 : 5000},
+		colors: ['rgba(0, 235, 255, 0.9)']
 	}
-	new ApexCharts(document.getElementById("bar-graph"), options).render()
+	new ApexCharts(document.getElementById("added-bar-graph"), options).render()
+}
+function renderPieChart() {
+	const labelsData = gameData.ratings.map(rating => rating.title)
+	const seriesData = gameData.ratings.map(rating => rating.percent)
+	console.log(typeof seriesData[0])
+	
+	const options = {
+		  chart: {
+			type: 'pie',
+			height: '100%',
+			width: '100%',
+			foreColor: 'whitesmoke',
+			background: 'transparent',
+			toolbar: {
+				show: false
+			},
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {offset: -10}
+			}
+		},
+		title: {
+			text: 'User Ratings',
+			align: 'left',
+			offsetY: 5,
+			style: {color: 'greenyellow'}
+		},
+		dataLabels: {
+			style: {
+				fontSize: 'clamp(0.8rem, 1.2vw, 1.2rem)'
+			}
+		},
+		labels: labelsData,
+		series: seriesData,
+		fill: {
+			colors: ['#08daed', '#fb5012', '#3454d1', '#e9df00']
+		},
+		stroke: {
+			colors: ['rgba(255, 255, 255, 0.5)']
+		}
+	}
+	new ApexCharts(document.getElementById("pie-chart"), options).render()
+}
+function renderRatingsCountBarGraph() {	
+	const options = {
+		  chart: {
+			type: 'bar',
+			height: '100%',
+			foreColor: 'whitesmoke',
+			background: 'transparent',
+			toolbar: {
+				show: false
+			},
+		},
+		series: [{
+			name: 'User Ratings (Count)',
+			data: [gameData.ratings_count]
+		}],
+		dataLabels: {
+			style: {fontSize: '1.75rem'}
+		},
+		xaxis: {
+			categories: ['User Ratings (Count)'],
+			labels: {
+				style: {fontSize: '1rem', colors: ['greenyellow']}
+			}
+		},
+		yaxis: { min: 0, max: gameData.ratings_count > 1000 ? 5000 : 1000},
+		colors: ['rgba(0, 235, 255, 0.9)']
+	}
+	new ApexCharts(document.getElementById("ratings-bar-graph"), options).render()
 }

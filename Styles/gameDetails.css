@@ -47,6 +47,7 @@
 	line-height: 1.5;
 	overflow: auto;
 	scroll-behavior: smooth;
+	font-size: 1.15rem;
 }
 .detailsWrapper dd {
 	width: fit-content;

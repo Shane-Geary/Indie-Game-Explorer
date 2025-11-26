@@ -71,6 +71,7 @@ function renderGameDetails() {
 		day: "numeric"
 	})
 
+	// for (gameData)
 	for (i = 0; i < gameData.genres.length; i++) {
 		const genreElement = document.createElement('dd')
 		genreElement.innerHTML = gameData.genres[i].name
@@ -113,7 +114,7 @@ function renderAddedBarGraph() {
 				style: {fontSize: '1rem', colors: ['greenyellow']}
 			}
 		},
-		yaxis: { min: 0, max: gameData.added > 5000 ? 10000 : 5000},
+		yaxis: { min: 0, max: gameData.added > 5000 ? 10000 : gameData.added < 500 ? 500 : gameData.added > 1000 ? 5000 : 1000},
 		colors: ['rgba(0, 235, 255, 0.9)']
 	}
 	new ApexCharts(document.getElementById("added-bar-graph"), options).render()
@@ -185,7 +186,7 @@ function renderRatingsCountBarGraph() {
 				style: {fontSize: '1rem', colors: ['greenyellow']}
 			}
 		},
-		yaxis: { min: 0, max: gameData.ratings_count > 1000 ? 5000 : 1000},
+		yaxis: { min: 0, max: gameData.ratings_count > 1000 ? 5000 : gameData.ratings_count < 500 ? 500 : 1000},
 		colors: ['rgba(0, 235, 255, 0.9)']
 	}
 	new ApexCharts(document.getElementById("ratings-bar-graph"), options).render()

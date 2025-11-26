@@ -1,5 +1,4 @@
 const navbarLinks = document.getElementById('navbarTag').children
-console.log(navbarLinks)
 for (i = 0; i < navbarLinks.length; i++) {
 	console.log(navbarLinks[i])
 	if (navbarLinks[i].innerText === 'Library') {

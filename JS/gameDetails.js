@@ -1,12 +1,6 @@
-const navbarLinks = document.getElementById('navbarTag').children
-for (i = 0; i < navbarLinks.length; i++) {
-	console.log(navbarLinks[i])
-	if (navbarLinks[i].innerText === 'Game Details') {
-		navbarLinks[i].style.color = 'whitesmoke'	
-	} else {
-		navbarLinks[i].style.color = 'greenyellow'
-	}
-}
+import { activeNavLink } from '../JS/utils.js'
+
+activeNavLink('Game Details')
 
 const params = new URLSearchParams(window.location.search)
 const gameID = params.get('id')
@@ -53,6 +47,9 @@ async function fetchGame() {
 		}
 	}
 }
+window.addEventListener('DOMContentLoaded', () => {
+	fetchGame()
+})
 function renderGameDetails() {
 	const gameTitleTag = document.getElementById('gameTitleTag')
 	const coverArtImgTag = document.getElementById('coverArtImgTag')
@@ -72,12 +69,12 @@ function renderGameDetails() {
 	})
 
 	// for (gameData)
-	for (i = 0; i < gameData.genres.length; i++) {
+	for (let i = 0; i < gameData.genres.length; i++) {
 		const genreElement = document.createElement('dd')
 		genreElement.innerHTML = gameData.genres[i].name
 		gameGenresTag.appendChild(genreElement)
 	}
-	for (i = 0; i < gameData.tags.length; i++) {
+	for (let i = 0; i < gameData.tags.length; i++) {
 		const tagsElement = document.createElement('dd')
 		tagsElement.innerHTML = '#' + gameData.tags[i].name
 		gameTags.appendChild(tagsElement)

@@ -1,17 +1,11 @@
-const navbarLinks = document.getElementById('navbarTag').children
-for (i = 0; i < navbarLinks.length; i++) {
-	console.log(navbarLinks[i])
-	if (navbarLinks[i].innerText === 'Home') {
-		navbarLinks[i].style.color = 'whitesmoke'	
-	} else {
-		navbarLinks[i].style.color = 'greenyellow'
-	}
-}
+import { activeNavLink } from '../JS/utils.js'
+
+activeNavLink('Home')
 
 let rimworldData
 let madGamesTycoonData
 
-async function fetchJSON(filepath) {
+async function fetchJSON() {
 	try {
 		const [rimworld, madGamesTycoon] = await Promise.all([
 			fetch('../Data/rimworld.json')
@@ -30,15 +24,17 @@ async function fetchJSON(filepath) {
 			})
 		])
 		
-		console.log(rimworld, madGamesTycoon);
+		console.log(rimworld, madGamesTycoon)
 		rimworldData = rimworld
 		madGamesTycoonData = madGamesTycoon
 		renderFeaturedData()
 	} catch (error) {
-		console.error(error.message);
+		console.error(error.message)
 	}
 }
-
+window.addEventListener('DOMContentLoaded', () => {
+	fetchJSON()
+})
 function renderFeaturedData() {
 	// Hero One
 	const rimworldTitle = document.getElementById('rimworldTitleTag')
@@ -56,26 +52,26 @@ function renderFeaturedData() {
 	madGamesTitle.innerHTML = madGamesTycoonData.name_original
 	
 	// Genres
-	for(i = 0; i < rimworldData.genres.length; i++) {
+	for(let i = 0; i < rimworldData.genres.length; i++) {
 		// Hero One
 		const listElement = document.createElement('li')
 		listElement.innerHTML = rimworldData.genres[i].name
 		heroOneGenresListTag.appendChild(listElement)
 	}
-	for(i = 0; i < madGamesTycoonData.genres.length; i++) {
+	for(let i = 0; i < madGamesTycoonData.genres.length; i++) {
 		// Hero Two
 		const listElement = document.createElement('li')
 		listElement.innerHTML = madGamesTycoonData.genres[i].name
 		heroTwoGenresListTag.appendChild(listElement)
 	}
 	// Platforms
-	for(i = 0; i < rimworldData.platforms.length; i++) {
+	for(let i = 0; i < rimworldData.platforms.length; i++) {
 		// Hero One
 		const listElement = document.createElement('li')
 		listElement.innerHTML = rimworldData.platforms[i].platform.name
 		heroOnePlatformListTag.appendChild(listElement)
 	}
-	for(i = 0; i < madGamesTycoonData.platforms.length; i++) {
+	for(let i = 0; i < madGamesTycoonData.platforms.length; i++) {
 		// Hero Two
 		const listElement = document.createElement('li')
 		listElement.innerHTML = madGamesTycoonData.platforms[i].platform.name

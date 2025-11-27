@@ -1,12 +1,6 @@
-const navbarLinks = document.getElementById('navbarTag').children
-for (i = 0; i < navbarLinks.length; i++) {
-	console.log(navbarLinks[i])
-	if (navbarLinks[i].innerText === 'Library') {
-		navbarLinks[i].style.color = 'whitesmoke'	
-	} else {
-		navbarLinks[i].style.color = 'greenyellow'
-	}
-}
+import { activeNavLink } from '../JS/utils.js'
+
+activeNavLink('Library')
 
 let gamesData
 
@@ -40,9 +34,12 @@ async function fetchGames() {
 		console.error(error.message)
 	}
 }
+window.addEventListener('DOMContentLoaded', () => {
+	fetchGames()
+})
 function renderGameCard() {
 	const cardGridContainer = document.getElementById('cardGridContainerTag')	
-	for (i = 0; i < gamesData.length; i++) {
+	for (let i = 0; i < gamesData.length; i++) {
 		const gameCard = document.createElement('div')
 		const gameCardTitle = document.createElement('h3')
 		const gameCardImage = document.createElement('img')

@@ -14,11 +14,11 @@
 	justify-content: space-around;
 }
 .coverArtWrapper {
-	border-right: 5px solid rgba(255, 255, 255, 0.2);
+	border-right: 5px solid rgba(255, 255, 255, 0.25);
 	height: 100%;
 	width: 35%;
 	overflow: hidden;
-	background-color: rgba(0, 0, 0, 0.75);
+	background-color: rgba(0, 0, 0, 0.25);
 }
 .coverArtImg {
 	object-fit: cover;
@@ -41,6 +41,7 @@
 .gameDescWrapper {
 	border: 10px double rgba(255, 255, 255, 0.2);
   	box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.1);
+	background-color: rgba(0, 0, 0, 0.5);
 	border-radius: 20px;
 	padding: 0 0.5rem 0.5rem 0.75rem;
 	height: 35%;

@@ -51,7 +51,7 @@ function renderGameCard() {
 		}
 		gameCardTitle.innerHTML = gamesData[i].name
 		gameCardImage.src = gamesData[i].background_image
-		gameCard.addEventListener('click', (event) => onGameCardClick(event))
+		gameCard.addEventListener('click', (event) => onGameCardClick(event), {passive: true})
 
 		cardGridContainer.appendChild(gameCard)
 		gameCard.appendChild(gameCardTitle)

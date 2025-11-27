@@ -67,7 +67,6 @@ function renderGameDetails() {
 		day: "numeric"
 	})
 
-	// for (gameData)
 	for (let i = 0; i < gameData.genres.length; i++) {
 		const genreElement = document.createElement('dd')
 		genreElement.innerHTML = gameData.genres[i].name

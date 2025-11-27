@@ -44,8 +44,9 @@
 	height: 100%;
 	width: 50%;
 	overflow: hidden;
-	/* display: flex;
-	flex-direction: column; */
+	display: flex;
+	flex-direction: column;
+	/* justify-content: center; */
 }
 .heroDetailsList {
 	display: flex;

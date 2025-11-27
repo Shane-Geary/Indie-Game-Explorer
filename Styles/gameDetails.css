@@ -59,7 +59,6 @@
 }
 .gameGenresWrapper dt {
     flex: 0 0 5%;
-    /* font-weight: bold; */
 }
 .gameGenresWrapper dd {
     flex: 1 1 auto;
@@ -70,6 +69,7 @@
     gap: 1rem;
     padding-right: 1rem;
 	overflow-x: auto;
+	overflow-y: hidden;
 	scrollbar-color: white;
 }
 /* WebKit browsers (Chrome, Edge, Safari) */
@@ -88,7 +88,6 @@
 }
 .gameTagsWrapper dt {
     flex: 0 0 5%;
-    /* font-weight: bold; */
 }
 .gameTagsWrapper dd {
     flex: 1 1 auto;

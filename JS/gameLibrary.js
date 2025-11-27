@@ -59,7 +59,5 @@ function renderGameCard() {
 	}
 }
 function onGameCardClick(event) {
-	console.log(event)
-	
 	window.location.href = `gameDetails.html?id=${event.currentTarget.dataset.gameID}`
 }

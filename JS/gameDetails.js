@@ -39,6 +39,7 @@ async function fetchGame() {
 		}
 		// Final step, invoke function that will use the game details data, now stored in gameData
 		renderGameDetails()
+		// Invoke metrics bar graph/chart functions
 		renderAddedBarGraph()
 		renderRatingsCountBarGraph()
 		renderPieChart()

@@ -8,6 +8,9 @@
 	margin: auto 8rem auto 8rem;
 	font-size: 1.25rem;
 }
+.libraryTextLink {
+	color: greenyellow;
+}
 .featuredGamesText {
 	display: block;
 	font-size: 1.3rem;

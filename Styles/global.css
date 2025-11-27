@@ -65,9 +65,10 @@ dl {
   border-bottom: 2px solid rgba(255,255,255,0.2);
 }
 dt {
-  font-size: clamp(0.8rem, 1.2vw, 1.2rem); 
+  font-size: clamp(0.6rem, 1.4vw, 1.4rem); 
 }
 dd {
   margin: 0;
   white-space: nowrap;
+  font-size: clamp(0.9rem, 1.1vw, 1.1rem); 
 }

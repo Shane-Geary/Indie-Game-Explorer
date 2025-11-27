@@ -86,7 +86,7 @@ function renderGameDetails() {
 	gameTitleTag.innerHTML = gameData.name
 	coverArtImgTag.src = gameData.background_image
 	gameDescTag.innerHTML = gameData.description
-	releaseDateHeaderTag.innerHTML = gameData.released ? 'Release Date' : 'Last Updated at'
+	releaseDateHeaderTag.innerHTML = gameData.released ? 'RELEASE DATE' : 'LAST UPDATED AT'
 	releaseDateDataTag.innerHTML = formattedDate
 	developerTag.innerHTML = gameData.developers.at(-1) ? gameData.developers.at(-1).name : 'Community Made Game! (No Devs/Studio)'
 }
@@ -156,9 +156,7 @@ function renderPieChart() {
 		fill: {
 			colors: ['rgba(52, 209, 191, 0.8)', 'rgba(251, 80, 18, 0.8)', 'rgba(52, 84, 209, 0.8)', 'rgba(233, 223, 0, 0.8)']
 		},
-		stroke: {
-			colors: ['rgba(255, 255, 255, 0.5)']
-		}
+		stroke: {colors: ['rgba(255, 255, 255, 0.5)']}
 	}
 	new ApexCharts(document.getElementById("pie-chart"), options).render()
 }

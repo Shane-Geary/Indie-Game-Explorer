@@ -1,5 +1,4 @@
 .mainContainer {
-	/* border: 2px solid red; */
 	display: flex;
 	flex-direction: column;
 	width: 100%;
@@ -8,17 +7,18 @@
 	overflow: hidden;
 }
 .heroContainer {
-	border-top: 2px solid rgba(255,255,255,0.2);
+	border-top: 2px solid rgba(255, 255, 255, 0.2);
 	flex: 1;
 	overflow: hidden;
 	display: flex;
 	justify-content: space-around;
 }
 .coverArtWrapper {
-	border-right: 2px solid rgba(255,255,255,0.2);
+	border-right: 5px solid rgba(255, 255, 255, 0.2);
 	height: 100%;
 	width: 35%;
 	overflow: hidden;
+	background-color: rgba(0, 0, 0, 0.75);
 }
 .coverArtImg {
 	object-fit: cover;
@@ -113,7 +113,13 @@
 }
 .pie-chart {
 	width: 30%;
+	height: 100%;
 	border-right: 10px double rgba(255, 255, 255, 0.2);
+	display: flex;
+	overflow: hidden;
+}
+.pie-chart .apexcharts-canvas {
+	margin-top: 1rem;
 }
 .ratings-bar-graph {
 	width: 30%;

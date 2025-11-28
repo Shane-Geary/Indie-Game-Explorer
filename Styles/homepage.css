@@ -1,5 +1,4 @@
 .descriptionTextContainer {
-	/* border: 2px solid red; */
 	height: fit-content;
 }
 .descriptionText {
@@ -7,6 +6,13 @@
 	padding: 1rem;
 	margin: auto 8rem auto 8rem;
 	font-size: 1.25rem;
+	line-height: 1.5;
+}
+@media only screen and (max-width: 575px) {
+	.descriptionText {
+		font-size: 0.75rem;
+		margin: auto 0.25rem auto 0.25rem;
+	}
 }
 .libraryTextLink {
 	color: greenyellow;
@@ -17,6 +23,11 @@
 	text-align: center;
 	text-decoration: underline;
 	margin-top: 0.5rem;
+}
+@media only screen and (max-width: 575px) {
+	.featuredGamesText {
+		font-size: 0.8rem;
+	}
 }
 .mainContainer {
 	/* border: 2px solid red; */
@@ -33,9 +44,25 @@
 	overflow: hidden;
 	display: flex;
 }
+@media only screen and (max-width: 575px) {
+	.heroContainer {
+		flex-direction: column;
+	}
+}
+@media only screen and (max-width: 575px) {
+	.heroContainer.groupTwo {
+		flex-direction: column-reverse;
+	}
+}
 .heroImgWrapper {
 	height: 100%;
 	width: 50%;
+}
+@media only screen and (max-width: 575px) {
+	.heroImgWrapper {
+		height: 50%;
+		width: 100%;
+	}
 }
 .heroImg {
 	object-fit: cover;
@@ -49,15 +76,59 @@
 	overflow: hidden;
 	display: flex;
 	flex-direction: column;
-	/* justify-content: center; */
+
+}
+@media only screen and (max-width: 575px) {
+	.heroDesc {
+		height: 50%;
+		width: 100%;
+	}
+}
+.mobileRowWrapper {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+@media only screen and (max-width: 575px) {
+	.mobileRowWrapper {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		gap: 0.5rem;
+		width: 100%;
+		margin-top: 0.5rem;
+	}
+}
+.mobileGroup {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
 }
 .heroDetailsList {
 	display: flex;
 	flex: 1 1 auto;
     justify-content: space-around;
+	list-style-type: none;
+}
+@media only screen and (max-width: 575px) {
+	.heroDetailsList {
+		height: fit-content;
+		font-size: 0.7rem;
+		flex-wrap: wrap;
+		justify-content: center;
+		column-gap: 1.5rem;
+		row-gap: 0.5rem;
+		padding: 0;
+	}
 }
 .heroDevText {
 	font-size: 2rem;
 	margin-bottom: 1rem;
 	margin-top: 0;
+}
+@media only screen and (max-width: 575px) {
+	.heroDevText {
+		font-size: 0.75rem;
+		margin-bottom: 0.5rem;
+	}
 }

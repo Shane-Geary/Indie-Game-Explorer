@@ -45,18 +45,27 @@ h1 {
 	text-align: center;
 }
 h2 {
-	display: inline-block;
 	text-align: center;
 	width: 100%;
-	font-size: clamp(0.5rem, 2.2vw, 2.2rem);
+	font-size: clamp(0.75rem, 2.2vw, 2.2rem);
 	margin: 0.25rem auto 0.25rem auto;
 }
+@media only screen and (max-width: 575px) {
+	h2 {
+		margin: 0.25rem auto 0.2rem auto;
+	}
+}
 h3 {
-	display: inline-block;
 	text-align: center;
 	width: 100%;
-	font-size: clamp(0.8rem, 1.2vw, 1.2rem); 
+	font-size: clamp(0.6rem, 1.2vw, 1.2rem); 
 	margin: 0.75rem auto 0.5rem auto;
+}
+@media only screen and (max-width: 575px) {
+	h3 {
+		margin: 0.25rem auto 0.2rem auto;
+		font-size: 0.75rem;
+	}
 }
 dl {
   display: grid;

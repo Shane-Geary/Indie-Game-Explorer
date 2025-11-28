@@ -13,12 +13,23 @@
 	display: flex;
 	justify-content: space-around;
 }
+@media only screen and (max-width: 575px) {
+	.heroContainer {
+		flex-direction: column;
+	}
+}
 .coverArtWrapper {
 	border-right: 5px solid rgba(255, 255, 255, 0.25);
 	height: 100%;
 	width: 35%;
 	overflow: hidden;
 	background-color: rgba(0, 0, 0, 0.25);
+}
+@media only screen and (max-width: 575px) {
+	.coverArtWrapper {
+		height: 35%;
+		width: 100%;
+	}
 }
 .coverArtImg {
 	object-fit: cover;
@@ -38,6 +49,14 @@
 	padding: 0.5rem;
 	padding-left: 2rem;
 }
+@media only screen and (max-width: 575px) {
+	.detailsWrapper {
+		height: 65%;
+		width: 100%;
+		justify-content: flex-start;
+		padding: 0.25rem;
+	}
+}
 .gameDescWrapper {
 	border: 10px double rgba(255, 255, 255, 0.2);
   	box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.1);
@@ -49,6 +68,26 @@
 	overflow: auto;
 	scroll-behavior: smooth;
 	font-size: 1.15rem;
+}
+@media only screen and (max-width: 575px) {
+	.gameDescWrapper {
+		height: 30%;
+		width: 85%;
+		font-size: 0.75rem;
+		margin-left: 0.25rem;
+		margin-bottom: 0.5rem;
+	}
+}
+.mobileGroup {
+	display: flex;
+	flex-direction: column;
+}
+@media only screen and (max-width: 575px) {
+	.mobileGroup {
+		height: 50%;
+		justify-content: center;
+		margin-top: 1rem;
+	}
 }
 .detailsWrapper dd {
 	width: fit-content;

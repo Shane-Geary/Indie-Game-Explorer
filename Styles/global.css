@@ -73,11 +73,26 @@ dl {
   gap: 30%;
   border-bottom: 2px solid rgba(255,255,255,0.2);
 }
+@media only screen and (max-width: 575px) {
+	dl {
+		gap: 25%;
+	}
+}
 dt {
   font-size: clamp(0.6rem, 1.4vw, 1.4rem); 
+}
+@media only screen and (max-width: 575px) {
+	dt {
+		font-size: 0.75rem;
+	}
 }
 dd {
   margin: 0;
   white-space: nowrap;
   font-size: clamp(0.9rem, 1.1vw, 1.1rem); 
+}
+@media only screen and (max-width: 575px) {
+	dd {
+		font-size: 0.55rem;
+	}
 }

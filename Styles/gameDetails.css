@@ -71,11 +71,11 @@
 }
 @media only screen and (max-width: 575px) {
 	.gameDescWrapper {
-		height: 30%;
-		width: 85%;
+		flex: 1 1 0;
+		height: 100%;
+		min-height: 30%;
 		font-size: 0.75rem;
 		margin-left: 0.25rem;
-		margin-bottom: 0.5rem;
 	}
 }
 .mobileGroup {
@@ -84,9 +84,9 @@
 }
 @media only screen and (max-width: 575px) {
 	.mobileGroup {
-		height: 50%;
+		height: 80%;
+		flex: 1 1 auto;
 		justify-content: center;
-		margin-top: 1rem;
 	}
 }
 .detailsWrapper dd {
@@ -95,6 +95,11 @@
 .gameGenresWrapper {
 	gap: 1rem;
 	display: flex;
+}
+@media only screen and (max-width: 575px) {
+	.gameGenresWrapper {
+		margin: 0;
+	}
 }
 .gameGenresWrapper dt {
     flex: 0 0 5%;
@@ -111,9 +116,15 @@
 	overflow-y: hidden;
 	scrollbar-color: white;
 }
+@media only screen and (max-width: 575px) {
+	.gameTagsWrapper {
+		height: 15%;
+		margin-bottom: 0;
+	}
+}
 /* WebKit browsers (Chrome, Edge, Safari) */
 .gameTagsWrapper::-webkit-scrollbar {
-    height: 4px;
+    height: 3px;
 }
 .gameTagsWrapper::-webkit-scrollbar-track {
     background: transparent;
@@ -130,11 +141,16 @@
 }
 .gameTagsWrapper dd {
     flex: 1 1 auto;
+	text-align: center;
     background-color: rgba(255, 255, 255, 0.25);
     padding: 0.5rem;
     border-radius: 10px;
-	height: fit-content;
 	margin-bottom: 0.25rem;
+}
+@media only screen and (max-width: 575px) {
+	.gameTagsWrapper dd {
+		margin-bottom: 0;
+	}
 }
 .developerWrapper {
 	border-bottom: none;
@@ -144,6 +160,11 @@
 	margin-bottom: 0.5rem;
 	width: 100%;
 	font-size: clamp(0.6rem, 1.8vw, 1.8rem);
+}
+@media only screen and (max-width: 575px) {
+	.developerText {
+		font-size: 0.75rem;
+	}
 }
 /* Disable events on charts */
 .apexcharts-canvas {

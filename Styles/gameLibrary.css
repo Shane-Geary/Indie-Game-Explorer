@@ -1,3 +1,15 @@
+.listFilterLabel {
+	margin-left: 0.5rem;
+}
+.listFilterSelect {
+	width: fit-content;
+	margin-left: 0.5rem;
+}
+@media only screen and (max-width: 575px) {
+	.listFilterSelect {
+		font-size: 1.5rem;
+	}
+}
 .cardGridContainer {
 	display: grid;
 	grid-template-columns: repeat(4, 25%);

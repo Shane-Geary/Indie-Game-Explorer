@@ -5,7 +5,7 @@ activeNavLink('Library')
 let gamesData
 
 // Fetch locally stored featured game data, filter, and concat featured-games.json with indie-games.json
-async function fetchGames() {
+async function fetchGames(selectedAmount) {
 	try {
 		const [featuredGames, indieGames] = await Promise.all([
 			fetch('../Data/featured-games.json')
@@ -25,11 +25,15 @@ async function fetchGames() {
 		])
 		// Filter out innappropriate games, and games with more than 5000 'added' value attributes 
 		const filteredGames = indieGames.results.filter(game => 
-			(!game.esrb_rating || game.esrb_rating.slug !== "adults-only") && (game.added < 5000) && !game.tags.some(tag => tag.name === "Nudity")
+			(!game.esrb_rating || game.esrb_rating.slug !== "adults-only") && (game.added < 5000) && (!game.tags.some(tag => tag.name === "Nudity"))
 		)
 		let gameResults = featuredGames.results.concat(filteredGames)
+		while (gameResults.length > selectedAmount) {
+			gameResults.pop()
+		}
 		gamesData = gameResults
-		console.log(gamesData)
+		const cardGridContainer = document.getElementById('cardGridContainerTag');
+        cardGridContainer.innerHTML = ''
 		renderGameCard()
 	} catch (error) {
 		console.error(error.message)
@@ -40,7 +44,7 @@ window.addEventListener('DOMContentLoaded', () => {
 	fetchGames()
 })
 // Populate gamelibrary grid section with concatenated games data
-function renderGameCard() {
+function renderGameCard() {	
 	const cardGridContainer = document.getElementById('cardGridContainerTag')
 	// Create elements for each card aspect
 	for (let i = 0; i < gamesData.length; i++) {
@@ -69,3 +73,8 @@ function renderGameCard() {
 function onGameCardClick(event) {
 	window.location.href = `gameDetails.html?id=${event.currentTarget.dataset.gameID}`
 }
+// User input to filter amount of listed games on page
+document.getElementById('listFilter').addEventListener('change', (event) => {
+	const selectedAmount = Number(event.target.value)
+	fetchGames(selectedAmount)
+})

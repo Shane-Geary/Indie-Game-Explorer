@@ -24,7 +24,15 @@
 					<h4>Game Details</h4>
 				</a>
 			</nav>
-			<input>
+			<!-- User select dropdown list to filter amount of listed games -->
+			<label for="listFilter" class="listFilterLabel">Show this many games:</label>
+			<select name="listFilter" id="listFilter" class="listFilterSelect">
+				<option value="5">5</option>
+				<option value="10">10</option>
+				<option value="15">15</option>
+				<option value="20">20</option>
+				<option value="50" selected>50</option>
+			</select>
 			<!-- Grid container section dynamically filled by gameLibrary.js -->
 			<div id="cardGridContainerTag" class="cardGridContainer"></div>
 		</div>

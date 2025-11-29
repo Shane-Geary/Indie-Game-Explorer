@@ -1,3 +1,4 @@
+// Reusable helper function for active nav link color
 export function activeNavLink(activeLink) {
 	console.log(activeLink)
 	

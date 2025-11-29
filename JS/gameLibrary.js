@@ -4,6 +4,7 @@ activeNavLink('Library')
 
 let gamesData
 
+// Fetch locally stored featured game data, filter, and concat featured-games.json with indie-games.json
 async function fetchGames() {
 	try {
 		const [featuredGames, indieGames] = await Promise.all([
@@ -34,30 +35,37 @@ async function fetchGames() {
 		console.error(error.message)
 	}
 }
+// onLoad of document, invoke fetch function
 window.addEventListener('DOMContentLoaded', () => {
 	fetchGames()
 })
+// Populate gamelibrary grid section with concatenated games data
 function renderGameCard() {
-	const cardGridContainer = document.getElementById('cardGridContainerTag')	
+	const cardGridContainer = document.getElementById('cardGridContainerTag')
+	// Create elements for each card aspect
 	for (let i = 0; i < gamesData.length; i++) {
 		const gameCard = document.createElement('div')
 		const gameCardTitle = document.createElement('h3')
 		const gameCardImage = document.createElement('img')
 
+		// Differentiate between featured games and others by adding dataset attribute of gameID to element
 		if (i <= 5) {
 			gameCard.dataset.gameID = `featured-${i}`
 		} else {
 			gameCard.dataset.gameID = gamesData[i].id
 		}
+		// Populate elements with data, add event listeners
 		gameCardTitle.innerHTML = gamesData[i].name
 		gameCardImage.src = gamesData[i].background_image
 		gameCard.addEventListener('click', (event) => onGameCardClick(event), {passive: true})
 
+		// Append elements to parent containers
 		cardGridContainer.appendChild(gameCard)
 		gameCard.appendChild(gameCardTitle)
 		gameCard.appendChild(gameCardImage)
 	}
 }
+// Navigate to gamedetails page, storing gameID in URL params
 function onGameCardClick(event) {
 	window.location.href = `gameDetails.html?id=${event.currentTarget.dataset.gameID}`
 }

@@ -5,6 +5,7 @@ activeNavLink('Home')
 let rimworldData
 let madGamesTycoonData
 
+// Fetch locally stored featured game data
 async function fetchJSON() {
 	try {
 		const [rimworld, madGamesTycoon] = await Promise.all([
@@ -32,9 +33,11 @@ async function fetchJSON() {
 		console.error(error.message)
 	}
 }
+// onLoad of document, invoke fetch function
 window.addEventListener('DOMContentLoaded', () => {
 	fetchJSON()
 })
+// Populate homepage hero section with RimWorld and Mad Games Tycoon data
 function renderFeaturedData() {
 	// Hero One
 	const rimworldTitle = document.getElementById('rimworldTitleTag')

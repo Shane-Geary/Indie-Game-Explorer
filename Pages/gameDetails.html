@@ -27,6 +27,7 @@
 			<h1 id="gameTitleTag"></h1>
 			<div class="mainContainer">
 				<div class="heroContainer">
+					<!-- Hero section dynamically filled by gameDetails.js -->
 					<div class="coverArtWrapper">
 						<img id="coverArtImgTag" class="coverArtImg">
 					</div>
@@ -55,6 +56,7 @@
 					</div>
 				</div>
 				<div class="heroContainer groupTwo">
+					<!-- Hero section and metrics charts dynamically filled by gameDetails.js -->
 					<div id="added-bar-graph" class="added-bar-graph"></div>
 					<div id="pie-chart" class="pie-chart"></div>
 					<div id="ratings-bar-graph" class="ratings-bar-graph"></div>
@@ -62,6 +64,7 @@
 			</div>
 		</div>
 		<script type="module" src="../JS/gameDetails.js"></script>
+		<!-- Import apexcharts.js library for bar graphs and pie chart -->
 		<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 	</body>
 </html>

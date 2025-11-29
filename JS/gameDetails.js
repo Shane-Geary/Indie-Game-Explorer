@@ -2,12 +2,14 @@ import { activeNavLink } from '../JS/utils.js'
 
 activeNavLink('Game Details')
 
+// Retrive gameID from URL params
 const params = new URLSearchParams(window.location.search)
 let gameID = params.get('id')
 let gameData
 
 const RAWG_API_KEY = '9c59c01718d04f95acbd8ce9e7bb5781'
 
+// Fetch either locally stored data, or dynamic fetch to RAWG API
 async function fetchGame() {
 	console.log(gameID)
 	if (!gameID) gameID = 'featured-0'
@@ -37,7 +39,7 @@ async function fetchGame() {
 				throw new Error(`Response status: ${response.status}`)
 			}
 		}
-		// Final step, invoke function that will use the game details data, now stored in gameData
+		// Invoke function that will use the game details data, now stored in gameData
 		renderGameDetails()
 		// Invoke metrics bar graph/chart functions
 		renderAddedBarGraph()
@@ -47,10 +49,13 @@ async function fetchGame() {
 		console.error(error.message)
 	}
 }
+// onLoad of document, invoke fetch function
 window.addEventListener('DOMContentLoaded', () => {
 	fetchGame()
 })
+// Populate gameDetails hero sections with fetched games data
 function renderGameDetails() {
+	// Find parent elements
 	const gameTitleTag = document.getElementById('gameTitleTag')
 	const coverArtImgTag = document.getElementById('coverArtImgTag')
 	const gameDescTag = document.getElementById('gameDescTag')
@@ -60,6 +65,7 @@ function renderGameDetails() {
 	const gameTags = document.getElementById('gameTags')
 	const developerTag = document.getElementById('developerTag')
 
+	// Release date section, date string formatting
 	const gameReleaseDate = gameData.released || gameData.updated
 	const date = new Date(gameReleaseDate)
 	const formattedDate = date.toLocaleString('en-us', {
@@ -68,17 +74,20 @@ function renderGameDetails() {
 		day: "numeric"
 	})
 
+	// Genres
 	for (let i = 0; i < gameData.genres.length; i++) {
 		const genreElement = document.createElement('dd')
 		genreElement.innerHTML = gameData.genres[i].name
 		gameGenresTag.appendChild(genreElement)
 	}
+	// Tags
 	for (let i = 0; i < gameData.tags.length; i++) {
 		const tagsElement = document.createElement('dd')
 		tagsElement.innerHTML = '#' + gameData.tags[i].name
 		gameTags.appendChild(tagsElement)
 	}
 
+	// Populate elements with values from data
 	gameTitleTag.innerHTML = gameData.name
 	coverArtImgTag.src = gameData.background_image
 	gameDescTag.innerHTML = gameData.description
@@ -86,6 +95,7 @@ function renderGameDetails() {
 	releaseDateDataTag.innerHTML = formattedDate
 	developerTag.innerHTML = gameData.developers.at(-1) ? gameData.developers.at(-1).name : 'Community Made Game! (No Devs/Studio)'
 }
+// Bar graph for visualizing 'added' metrics utilizing apexcharts.js
 function renderAddedBarGraph() {	
 	const options = {
 		  chart: {
@@ -133,6 +143,7 @@ function renderAddedBarGraph() {
 	}
 	new ApexCharts(document.getElementById("added-bar-graph"), options).render()
 }
+// Bar graph for visualizing the various 'ratings' metrics utilizing apexcharts.js
 function renderPieChart() {
 	const labelsData = gameData.ratings.map(rating => rating.title)
 	const seriesData = gameData.ratings.map(rating => rating.percent)
@@ -196,6 +207,7 @@ function renderPieChart() {
 	}
 	new ApexCharts(document.getElementById("pie-chart"), options).render()
 }
+// Bar graph for visualizing 'ratings count' metrics utilizing apexcharts.js
 function renderRatingsCountBarGraph() {	
 	const options = {
 		  chart: {

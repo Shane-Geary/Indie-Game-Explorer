@@ -166,24 +166,53 @@
 		font-size: 0.75rem;
 	}
 }
+@media only screen and (max-width: 575px) {
+	.heroContainer.groupTwo {
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+}
 /* Disable events on charts */
 .apexcharts-canvas {
 	pointer-events: none;
 }
 .added-bar-graph {
 	width: 30%;
-	border-right: 10px double rgba(255, 255, 255, 0.2);
+	/* border-right: 10px double rgba(255, 255, 255, 0.2); */
+}
+@media only screen and (max-width: 575px) {
+	.added-bar-graph {
+		width: 50%;
+		order: 1;
+		height: 50%;
+	}
 }
 .pie-chart {
 	width: 30%;
 	height: 100%;
-	border-right: 10px double rgba(255, 255, 255, 0.2);
+	/* border-right: 10px double rgba(255, 255, 255, 0.2); */
 	display: flex;
 	overflow: hidden;
+}
+@media only screen and (max-width: 575px) {
+	.pie-chart {
+		width: 100%;
+		order: 3;
+		flex-wrap: wrap;
+		/* height: 100%; */
+	}
 }
 .pie-chart .apexcharts-canvas {
 	margin-top: 1rem;
 }
 .ratings-bar-graph {
 	width: 30%;
+}
+@media only screen and (max-width: 575px) {
+	.ratings-bar-graph{
+		width: 50%;
+		order: 2;
+		height: 50%;
+	}
 }

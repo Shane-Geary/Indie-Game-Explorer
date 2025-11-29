@@ -111,7 +111,25 @@ function renderAddedBarGraph() {
 			}
 		},
 		yaxis: { min: 0, max: gameData.added > 5000 ? 10000 : gameData.added < 500 ? 500 : gameData.added > 1000 ? 5000 : 1000},
-		colors: ['rgba(0, 235, 255, 0.9)']
+		colors: ['rgba(0, 235, 255, 0.9)'],
+		responsive: [
+    		{
+				breakpoint: 575,
+				options: {
+					chart: {
+						height: '50%'
+					},
+					dataLabels: {
+						style: { fontSize: '1.2rem' }
+					},
+					xaxis: {
+						labels: {
+							style: { fontSize: '0.7rem' }
+						}
+					}
+				}
+			}
+		],
 	}
 	new ApexCharts(document.getElementById("added-bar-graph"), options).render()
 }
@@ -152,7 +170,29 @@ function renderPieChart() {
 		fill: {
 			colors: ['rgba(52, 209, 191, 0.8)', 'rgba(251, 80, 18, 0.8)', 'rgba(52, 84, 209, 0.8)', 'rgba(233, 223, 0, 0.8)']
 		},
-		stroke: {colors: ['rgba(255, 255, 255, 0.5)']}
+		stroke: {colors: ['rgba(255, 255, 255, 0.5)']},
+		responsive: [
+    		{
+				breakpoint: 575,
+				options: {
+					chart: {
+						height: '40%'
+					},
+					dataLabels: {
+						style: { fontSize: '0.75rem' }
+					},
+					xaxis: {
+						labels: {
+							style: { fontSize: '0.5rem' }
+						}
+					},
+					title: {
+						style: {fontSize: '0.75rem'},
+						offsetY: 15
+					}
+				}
+			}
+		],
 	}
 	new ApexCharts(document.getElementById("pie-chart"), options).render()
 }
@@ -181,7 +221,25 @@ function renderRatingsCountBarGraph() {
 			}
 		},
 		yaxis: { min: 0, max: gameData.ratings_count > 1000 ? 5000 : gameData.ratings_count < 500 ? 500 : 1000},
-		colors: ['rgba(0, 235, 255, 0.9)']
+		colors: ['rgba(0, 235, 255, 0.9)'],
+		responsive: [
+    		{
+				breakpoint: 575,
+				options: {
+					chart: {
+						height: '50%'
+					},
+					dataLabels: {
+						style: { fontSize: '1.2rem' }
+					},
+					xaxis: {
+						labels: {
+							style: { fontSize: '0.7rem' }
+						}
+					}
+				}
+			}
+		],
 	}
 	new ApexCharts(document.getElementById("ratings-bar-graph"), options).render()
 }

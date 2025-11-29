@@ -25,14 +25,14 @@ async function fetchGame() {
 			console.log(result.results[5])
 			gameData = result.results[gameID.at(-1)]
 			console.log('Featured Game: ' + gameData)
-		} else if (cachedGame) { // If game is not already in local storage, Dynamic fetch to RAWG API				
+		} else if (cachedGame) { // EXTRA: If game is not already in local storage, Dynamic fetch to RAWG API				
 			gameData = JSON.parse(cachedGame)
 			console.log('Local storage fetch: ' + JSON.stringify(gameData))
 		} else {
 			response = await fetch(`https://api.rawg.io/api/games/${gameID}?key=${RAWG_API_KEY}`)
 			result = await response.json()
 			gameData = result
-			// Store fetched RAWG data in local storage
+			// EXTRA: Store fetched RAWG data in local storage
 			console.log('Stored in localStorage: ' + JSON.stringify(gameData))
 			localStorage.setItem(storageKey, JSON.stringify(gameData))
 			if (!response.ok) {
@@ -41,7 +41,7 @@ async function fetchGame() {
 		}
 		// Invoke function that will use the game details data, now stored in gameData
 		renderGameDetails()
-		// Invoke metrics bar graph/chart functions
+		// EXTRA: Invoke metrics bar graph/chart functions
 		renderAddedBarGraph()
 		renderRatingsCountBarGraph()
 		renderPieChart()
@@ -95,7 +95,7 @@ function renderGameDetails() {
 	releaseDateDataTag.innerHTML = formattedDate
 	developerTag.innerHTML = gameData.developers.at(-1) ? gameData.developers.at(-1).name : 'Community Made Game! (No Devs/Studio)'
 }
-// Bar graph for visualizing 'added' metrics utilizing apexcharts.js
+// EXTRA: Bar graph for visualizing 'added' metrics utilizing apexcharts.js
 function renderAddedBarGraph() {	
 	const options = {
 		  chart: {
@@ -143,7 +143,7 @@ function renderAddedBarGraph() {
 	}
 	new ApexCharts(document.getElementById("added-bar-graph"), options).render()
 }
-// Bar graph for visualizing the various 'ratings' metrics utilizing apexcharts.js
+// EXTRA: Bar graph for visualizing the various 'ratings' metrics utilizing apexcharts.js
 function renderPieChart() {
 	const labelsData = gameData.ratings.map(rating => rating.title)
 	const seriesData = gameData.ratings.map(rating => rating.percent)
@@ -207,7 +207,7 @@ function renderPieChart() {
 	}
 	new ApexCharts(document.getElementById("pie-chart"), options).render()
 }
-// Bar graph for visualizing 'ratings count' metrics utilizing apexcharts.js
+// EXTRA: Bar graph for visualizing 'ratings count' metrics utilizing apexcharts.js
 function renderRatingsCountBarGraph() {	
 	const options = {
 		  chart: {

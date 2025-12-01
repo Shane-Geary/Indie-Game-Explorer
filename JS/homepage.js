@@ -34,7 +34,7 @@ async function fetchJSON() {
 	}
 }
 // onLoad of document, invoke fetch function
-window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('DOMContentLoaded', ()   => {
 	fetchJSON()
 })
 // Populate homepage hero section with RimWorld and Mad Games Tycoon data

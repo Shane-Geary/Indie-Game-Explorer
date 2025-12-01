@@ -32,7 +32,7 @@ async function fetchGames(selectedAmount) {
 			gameResults.pop()
 		}
 		gamesData = gameResults
-		const cardGridContainer = document.getElementById('cardGridContainerTag');
+		const cardGridContainer = document.getElementById('cardGridContainerTag')
         cardGridContainer.innerHTML = ''
 		renderGameCard()
 	} catch (error) {
